@@ -81,5 +81,13 @@
             android:entries="@array/fod_recognizing_animation_entries" 
             android:entryValues="@array/fod_recognizing_animation_values" 
             android:defaultValue="0"
-            android:dependency="fod_recognizing_animation" />            
+            android:dependency="fod_recognizing_animation" />      
+
+
+    <SwitchPreference
+            android:key="fingerprint_success_vib"
+            android:title="@string/fprint_sucess_vib_title"
+            android:summary="@string/fprint_sucess_vib_summary"
+            android:persistent="false" />
+
 </PreferenceScreen>
