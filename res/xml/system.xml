@@ -60,6 +60,12 @@
      <PreferenceCategory
         android:title="@string/misc_category" >
 
+        <!-- Heads up -->
+        <Preference
+            android:key="heads_up_notifications"
+            android:title="@string/heads_up_notifications"
+            android:fragment="org.pixelextended.pextension.fragments.HeadsUpSettings" />
+
 <!--        <com.android.settings.custom.preference.SystemSettingSwitchPreference
             android:key="notification_sound_vib_screen_on"
             android:title="@string/notification_sound_vib_screen_on_title"
