@@ -138,7 +138,7 @@
     <string name="fod_recog_animation_rog_supernova">Сверхнова</string>
   
     <!-- Global Actions -->
-    <string name="global_actions_advanced_reboot_title">Включить расширенное меню перезагрузкиEnable advanced restart</string>
-    <string name="global_actions_advanced_reboot_summary">Показать параметры рекавери и загрузчика</string>
+    <string name="global_actions_advanced_reboot_title">Включить расширенное меню перезагрузки</string>
+    <string name="global_actions_advanced_reboot_summary">При перезагрузке также показывать параметры рекавери и загрузчика</string>
     <string name="power_menu_advanced_category">Расширенные</string>
 </resources>
