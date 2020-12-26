@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2017-2019 The Dirty Unicorns Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Dirty Tweaks -->
+    <string name="ravenlair_title">Логово Пикселей</string>
+    <string name="ravenlair_summary">Самое сладное находится здесь</string>
+
+    <!-- The Team -->
+    <string name="dialog_team_title">Наша команда</string>
+    <string name="leaddeveloper_title">Ведущий разработчик</string>
+    <string name="developer_title">Разработчик</string>
+    <string name="maintainer_title">Сопровождающий</string>
+    <string name="contributor_title">Автор</string>
+
+    <!-- Bottom navigation -->
+    <string name="navigation_system_title">Система</string>
+    <string name="navigation_lockscreen_title">Экран блокировки</string>
+    <string name="navigation_statusbar_title">Строка состояния</string>
+    <string name="navigation_hardware_title">Оборудование</string>
+    <string name="navigation_multitasking_title">Многозадачность</string>
+
+    <!-- Custom Categories -->
+    <string name="statusbar_icon">Значок в строке состояния</string>
+    <string name="lockscreen_gestures">Жесты на экране блокировки</string>
+    <string name="statusbar_gestures">Жесты в строке состояния</string>
+    <string name="misc">Разное</string>
+    <string name="buttons">Кнопки</string>
+    <string name="qs">Быстрые настройки</string>
+    <string name="lockscreen_security">Безопасность экрана блокировки</string>
+
+    <!-- VoLTE switch -->
+    <string name="volte_switch_title">Значок VoLTE</string>
+    <string name="volte_switch_summary">Отображение значка VoLTE</string>
+    
+    <string name="volte_icon_title">Значок VoLTE</string>
+    <string name="volte_icon_summary">Отображение значка VoLTE</string>
+    <string name="volte_icon_style_title">Выбрать значок VoLTE</string>
+    <string name="volte_icon_asus">ЗначокVoLTE Asus</string>
+    <string name="volte_icon_vo">Значок Vo Only</string>
+    <string name="volte_icon_volte">Значок VoLTE</string>
+    <string name="volte_icon_oos">Значок VoLTE OOS</string>
+    <string name="volte_icon_hd">HD Значок</string>
+    <string name="volte_icon_hd2">HD CAF Значок</string>
+    <string name="volte_icon_miui">MIUI 11</string>
+    <string name="volte_icon_emui">EMUI</string>
+
+    <!-- VoWiFi icon -->
+    <string name="vowifi_icon_title">Значок VoWiFi</string>
+    <string name="vowifi_icon_enabled">Включить значок VoWiFi</string>
+    <string name="vowifi_icon_disabled">Значок VoWiFi отключен</string>
+    <string name="vowifi_icon_enabled_volte_disabled">Значок VoWiFi вместо значка VoLTE</string>
+    <string name="vowifi_icon_style_title">Стиль значка VoWiFi</string>
+    <string name="vowifi_icon_default">Значок по умолчанию</string>
+    <string name="vowifi_icon_emui">Значок EMUI</string>
+    <string name="vowifi_icon_asus">Значок Asus</string>
+    <string name="vowifi_icon_oneplus">Значок OOS</string>
+    <string name="vowifi_icon_moto">Значок Motorola</string>
+    <string name="vowifi_icon_simple1">Значок Simple1</string>
+    <string name="vowifi_icon_simple2">Значок Simple2</string>
+    <string name="vowifi_icon_simple3">Значок Simple3</string>
+
+    <!-- Statusbar double tap to sleep -->
+    <string name="double_tap_to_sleep_title">Двойное касание строки состояния для перехода в режим сна</string>
+    <string name="double_tap_to_sleep_summary">Дважды коснитесь строки состояния, чтобы перевести устройство в спящий режим.</string>
+
+    <!-- Lockscreen double tap to sleep -->
+    <string name="double_tap_sleep_lockscreen_title">Двойное касание экрана блокировки для перехода в режим сна</string>
+    <string name="double_tap_sleep_lockscreen_summary">Дважды коснитесь экрана блокировки, чтобы перевести устройство в спящий режим.</string>
+
+    <!-- Lockscreen battery info indicator  -->
+    <string name="lockscreen_battery_info_title">Информация о зарядке на экране блокировки</string>
+    <string name="lockscreen_battery_info_summary">Показывать ток зарядки, напряжение, мощность и температуру аккумулятора на экране блокировки во время зарядки</string>
+
+    <!-- Long press power for torch -->
+    <string name="torch_long_press_power_gesture_title">Активация фонарика на выключенном экране кнопкой питания</string>
+    <string name="torch_long_press_power_gesture_desc">Нажмите и удерживайте кнопку питания, когда экран выключен, чтобы включить фонарик</string>
+    <string name="torch_long_press_power_timeout_title">Автоматически выключать фонарик</string>
+    <string name="torch_long_press_power_timeout_never">Никогда</string>
+    <string name="torch_long_press_power_timeout_1min">1 минута</string>
+    <string name="torch_long_press_power_timeout_2min">2 минуты</string>
+    <string name="torch_long_press_power_timeout_5min">5 минут</string>
+    <string name="torch_long_press_power_timeout_10min">10 минут</string>
+
+   <!-- QuickSettings haptic feedback -->
+    <string name="quick_settings_vibrate_title">Вибрация при касании</string>
+    <string name="quick_settings_vibrate_summary">Вибрация при касании плиток в быстрых настройках</string>
+
+    <!-- Incall vibrate options -->
+    <string name="incall_vibration_category">Параметры вибрации во время разговора</string>
+    <string name="incall_vibrate_connect_title">Вибрация при подключении</string>
+    <string name="incall_vibrate_call_wait_title">Вибрация при ожидании вызова</string>
+    <string name="incall_vibrate_disconnect_title">Вибрация при отключении</string>
+    <!-- Fingerprint unlock -->
+    <string name="fp_unlock_keystore_title">Принудительная разблокировка отпечатком пальца</string>
+    <string name="fp_unlock_keystore_summary">Разблокировать устройство с помощью отпечатка пальца после перезагрузки или блокировки</string>
+    
+    <!-- FOD animations -->
+    <string name="fod_recog_animation">Анимация распознования подэкранного сканера пальца</string>
+    <string name="fod_recog_animation_summary">Показывает анимацию при распозновании пальца</string>
+    <string name="fod_recog_animation_effect_title">Эффект анимации распознования</string>
+    <string name="fod_recog_animation_miui_normal">MIUI по умолчанию</string> 
+    <string name="fod_recog_animation_miui_aod">MIUI AOD</string>
+    <string name="fod_recog_animation_miui_aurora">Аврора (K30 Pro)</string>
+    <string name="fod_recog_animation_miui_aurora_cas">Аврора (Mi 10 Ultra)</string>
+    <string name="fod_recog_animation_miui_light">Свет</string>
+    <string name="fod_recog_animation_miui_pop">Поп</string>
+    <string name="fod_recog_animation_miui_pulse">Пульс</string>
+    <string name="fod_recog_animation_miui_pulse_white">Пульс (Белый)</string> 
+    <string name="fod_recog_animation_miui_rhythm">Ритм</string>
+    <string name="fod_recog_animation_miui_star_cas">Звездный свет</string>
+    <string name="fod_recog_animation_op_cosmos">Космос</string>
+    <string name="fod_recog_animation_op_energy">Энергия</string>
+    <string name="fod_recog_animation_op_mclaren">Макларен</string>
+    <string name="fod_recog_animation_op_ripple">Рябь</string>
+    <string name="fod_recog_animation_op_stripe">Полоса</string>
+    <string name="fod_recog_animation_op_wave">Волна</string>
+    <string name="fod_recog_animation_pureview_dna">ДНК</string>
+    <string name="fod_recog_animation_pureview_future">Будущее</string>
+    <string name="fod_recog_animation_pureview_halo_ring">Хало кольцо</string> 
+    <string name="fod_recog_animation_pureview_molecular">Молекулярный</string>
+    <string name="fod_recog_animation_rog_fusion">Слияние</string>
+    <string name="fod_recog_animation_rog_pulsar">Пульсар</string>
+    <string name="fod_recog_animation_rog_supernova">Сверхнова</string>
+  
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">Включить расширенное меню перезагрузкиEnable advanced restart</string>
+    <string name="global_actions_advanced_reboot_summary">Показать параметры рекавери и загрузчика</string>
+    <string name="power_menu_advanced_category">Расширенные</string>
+</resources>
