@@ -26,6 +26,7 @@
     <string name="developer_title">Developer</string>
     <string name="maintainer_title">Maintainer</string>
     <string name="contributor_title">Contributor</string>
+    <string name="graphicsdesigner_title">Graphics Designer</string>
 
     <!-- Bottom navigation -->
     <string name="navigation_system_title">System</string>
@@ -42,6 +43,8 @@
     <string name="buttons">Buttons</string>
     <string name="qs">Quick Settings</string>
     <string name="lockscreen_security">Lockscreen Security</string>
+    <string name="heads_up">Heads Up Customisation</string>
+    <string name="volume">Volume Buttons</string>
 
     <!-- VoLTE switch -->
     <string name="volte_switch_title">VoLTE icon</string>
@@ -154,4 +157,34 @@
     <string name="fod_pressed_color_cyan">Cyan</string>
     <string name="fod_pressed_color_green">Green</string>
     <string name="fod_pressed_color_yellow">Yellow</string>
+
+    <!-- Lock screen cover art -->
+    <string name="lockscreen_media_art_title">Display media cover art</string>
+    <string name="lockscreen_media_art_summary">Show current playing media\'s album art on lockscreen</string>
+
+    <!-- Notification count -->
+    <string name="status_bar_notif_count_title">Show notification count</string>
+    <string name="status_bar_notif_count_summary">Display the number of pending notifications</string>
+
+    <!-- Notification sound -->
+    <string name="notification_sound_vib_screen_on_title">Notification sound if active</string>
+    <string name="notification_sound_vib_screen_on_summary">Play sound and vibration for notifications when screen is on</string>
+
+    <!-- Volume rocker music control -->
+    <string name="volume_rocker_music_controls_title">Playback control</string>
+    <string name="volume_rocker_music_controls_summary">When the screen is off, long-pressing the volume keys will seek music tracks</string>
+
+    <!-- Volume Panel Plugin -->
+    <string name="volume_panel">Volume panel style</string>
+    <string name="volume_panel_aosp">AOSP</string>
+    <string name="volume_panel_compact">Compact</string>
+    <string name="volume_panel_oreo">Oreo</string>
+    <string name="volume_panel_tiled">Tiled</string>
+
+    <!-- Volume Panel Plugin Values -->
+    <string name="volume_panel_aosp_val" translatable="false">co.potatoproject.plugin.volume.aosp</string>
+    <string name="volume_panel_compact_val" translatable="false">co.potatoproject.plugin.volume.compact</string>
+    <string name="volume_panel_oreo_val" translatable="false">co.potatoproject.plugin.volume.oreo</string>
+    <string name="volume_panel_tiled_val" translatable="false">co.potatoproject.plugin.volume.tiled</string>
+
 </resources>

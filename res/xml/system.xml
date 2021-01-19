@@ -35,4 +35,15 @@
             android:title="@string/incall_vibrate_disconnect_title"
             android:defaultValue="false" />
     </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/heads_up" >
+
+       <com.android.settings.custom.preference.SystemSettingSwitchPreference
+        android:key="notification_sound_vib_screen_on" 
+        android:title="@string/notification_sound_vib_screen_on_title" 
+        android:summary="@string/notification_sound_vib_screen_on_summary"
+        android:defaultValue="true" />
+    </PreferenceCategory>
+
 </PreferenceScreen>
