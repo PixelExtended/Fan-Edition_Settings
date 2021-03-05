@@ -22,6 +22,7 @@ import android.content.om.IOverlayManager;
 import android.content.res.TypedArray;
 import android.graphics.PorterDuff;
 import android.os.ServiceManager;
+import android.provider.SearchIndexableResource;
 import android.util.AttributeSet;
 import android.view.View;
 import android.widget.ImageView;
@@ -33,7 +34,14 @@ import androidx.preference.PreferenceViewHolder;
 //import com.android.internal.statusbar.ThemeAccentUtils;
 import com.android.settings.R;
 import com.android.settings.Utils;
+import com.android.settings.search.BaseSearchIndexProvider;
+import com.android.settingslib.search.Indexable;
+import com.android.settingslib.search.SearchIndexable;
 
+import java.util.ArrayList;
+import java.util.List;
+
+@SearchIndexable
 public class CategoryPreference extends Preference {
 
     private final View.OnClickListener mClickListener = v -> performClick(v);
@@ -77,4 +85,23 @@ public class CategoryPreference extends Preference {
         holder.setDividerAllowedAbove(mAllowDividerAbove);
         holder.setDividerAllowedBelow(mAllowDividerBelow);
     }
+
+    public static final SearchIndexProvider SEARCH_INDEX_DATA_PROVIDER =
+    new BaseSearchIndexProvider() {
+        @Override
+        public List<SearchIndexableResource> getXmlResourcesToIndex(Context context,
+                boolean enabled) {
+            final ArrayList<SearchIndexableResource> result = new ArrayList<>();
+            final SearchIndexableResource sir = new SearchIndexableResource(context);
+            sir.xmlResId = R.xml.battery;
+            result.add(sir);
+            return result;
+        }
+
+        @Override
+        public List<String> getNonIndexableKeys(Context context) {
+            final List<String> keys = super.getNonIndexableKeys(context);
+            return keys;
+        }
+    };
 }

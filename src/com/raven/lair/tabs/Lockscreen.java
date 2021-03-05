@@ -63,16 +63,15 @@ import com.android.internal.logging.nano.MetricsProto.MetricsEvent;
 import com.android.internal.logging.nano.MetricsProto;
 import com.android.settings.Utils;
 
-
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
 import org.json.JSONException;
 import org.json.JSONObject;
-
 //import com.android.internal.util.custom.Utils;
 
+@SearchIndexable
 public class Lockscreen extends SettingsPreferenceFragment
         implements Preference.OnPreferenceChangeListener {
 
@@ -157,4 +156,23 @@ public class Lockscreen extends SettingsPreferenceFragment
         } catch (JSONException ex) {
         }
     }
+    
+    public static final SearchIndexProvider SEARCH_INDEX_DATA_PROVIDER =
+         new BaseSearchIndexProvider() {
+             @Override
+             public List<SearchIndexableResource> getXmlResourcesToIndex(Context context,
+                     boolean enabled) {
+                 final ArrayList<SearchIndexableResource> result = new ArrayList<>();
+                 final SearchIndexableResource sir = new SearchIndexableResource(context);
+                 sir.xmlResId = R.xml.battery;
+                 result.add(sir);
+                 return result;
+             }
+
+             @Override
+             public List<String> getNonIndexableKeys(Context context) {
+                 final List<String> keys = super.getNonIndexableKeys(context);
+                 return keys;
+             }
+     };
 }
