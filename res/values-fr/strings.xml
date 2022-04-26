@@ -106,8 +106,8 @@
     <string name="volume_rocker_wake_summary">Pressing the volume keys will wake your device</string>
 
     <!-- Lockscreen battery info indicator  -->
-    <string name="lockscreen_battery_info_title">Lockscreen charging info</string>
-    <string name="lockscreen_battery_info_summary">Show charging current, voltage, wattage and battery temperature on lockscreen while charging</string>
+    <string name="lockscreen_battery_info_title">Informations de chargement sur l\'écran de verrouillage</string>
+    <string name="lockscreen_battery_info_summary">Afficher le courant de charge, la tension, la puissance et la température de la batterie sur l\'écran de verrouillage pendant la charge</string>
 
     <!-- Fingerprint authentication vibration -->
     <string name="fprint_sucess_vib_title">Fingerprint success vibration</string>
@@ -137,7 +137,7 @@
     <string name="qs_show_brightness_slider_never">Ne pas afficher</string>
     <string name="qs_show_brightness_slider_expanded">Afficher une fois développé</string>
     <string name="qs_show_brightness_slider_always">Toujours afficher</string>
-    <string name="qs_show_brightness_slider_not_expanded">Afficher lorsqu\'il n'est pas développé</string>
+    <string name="qs_show_brightness_slider_not_expanded">Afficher lorsqu\'il n\'est pas développé</string>
     <string name="qs_brightness_slider_position_title">Position</string>
     <string name="qs_brightness_slider_position_top">Haut</string>
     <string name="qs_brightness_slider_position_bottom">Bas</string>
@@ -150,13 +150,13 @@
     <string name="status_bar_toggle_brightness">Brightness control</string>
     <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
 
-    <string name="gestures_title">Nav Bar Gesture Customisations</string>
-    <string name="gestures_summary">Take Your Pill</string>
+    <string name="gestures_title">Personnalisations des gestes</string>
+    <string name="gestures_summary">Prenez votre temps</string>
 
     <!-- Lockscreen media artwork -->
-    <string name="lockscreen_media_blur_title">Media art blur level</string>
-    <string name="show_lockscreen_media_art_title">Show media art</string>
-    <string name="lockscreen_media_art_options_title">Lockscreen media art</string>
+    <string name="lockscreen_media_blur_title">Niveau de flou de la médiatique</string>
+    <string name="show_lockscreen_media_art_title">Afficher la cover médiatique</string>
+    <string name="lockscreen_media_art_options_title">Cover sur l\'écran de verrouillage</string>
 
     <string name="search">Recherche</string>
     <string name="search_apps">Rechercher des applications</string>
@@ -166,10 +166,10 @@
     <string name="use_old_mobiletype_summary">Afficher l\'icône du type de mobile en haut de l\'indicateur de signal</string>
 
     <!-- Power Menu -->
-    <string name="power_menu_title">Power menu</string>
+    <string name="power_menu_title">Menu d\'alimentation</string>
     <string name="power_menu_title_summary">Afficher ou modifier les entrées du menu d\'alimentation</string>
     <string name="powermenu_screenshot">Capture d\'écran</string>
-    <string name="powermenu_power">Power</string>
+    <string name="powermenu_power">Alimentation</string>
     <string name="powermenu_advanced">Options de redémarrage avancées</string>
     <string name="powermenu_restart">Redémarrer</string>
     <string name="powermenu_airplane">Avion</string>
