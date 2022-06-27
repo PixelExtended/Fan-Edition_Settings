@@ -400,4 +400,16 @@
     <!-- Combined signal icons in status bar -->
     <string name="combined_status_bar_signal_icons">Icone di segnale combinate</string>
     <string name="combined_status_bar_signal_icons_summary">Abilita le icone dei segnali combinati nella barra di stato.\nRichiede il riavvio della SystemUI</string>
+
+    <!-- QS battery estimates -->
+    <string name="qs_show_battery_estimate_title">Stima della batteria</string>
+    <string name="qs_show_battery_estimate_summary">Mostra la durata residua stimata della batteria accanto all\'icona</string>
+
+    <!-- QS Transparency -->
+    <string name="qs_transparency_title">Trasparenza QS</string>
+    <string name="qs_transparency_summary">Scegli quanto vuoi che sia trasparente il tuo pannello QS.\nRichiede il riavvio della SystemUI</string>
+
+    <!-- Heads up options -->
+    <string name="less_boring_heads_up_title">Rendi le notifiche heads up meno fastidiose</string>
+    <string name="less_boring_heads_up_summary">Mostra avvisi solo per dialer o app di messaggistica se non sono in primo piano</string>
 </resources>
