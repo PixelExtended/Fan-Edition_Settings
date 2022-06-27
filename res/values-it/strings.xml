@@ -412,4 +412,8 @@
     <!-- Heads up options -->
     <string name="less_boring_heads_up_title">Rendi le notifiche heads up meno fastidiose</string>
     <string name="less_boring_heads_up_summary">Mostra avvisi solo per dialer o app di messaggistica se non sono in primo piano</string>
+
+    <!-- Statusbar colored icons -->
+    <string name="statusbar_colored_icons_title">Icone colorate</string>
+    <string name="statusbar_colored_icons_summary">Usa le icone delle app appropriate per le icone di notifica nella barra di stato</string>
 </resources>
