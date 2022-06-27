@@ -34,6 +34,12 @@
             <intent android:action="com.android.settings.action.STATUS_BAR_TUNER" />
         </Preference>
 
+    <com.android.settings.custom.preference.SystemSettingSwitchPreference
+            android:key="statusbar_colored_icons"
+            android:title="@string/statusbar_colored_icons_title"
+            android:summary="@string/statusbar_colored_icons_summary"
+            android:defaultValue="false" />
+
          <com.android.settings.custom.preference.SystemSettingSwitchPreference
              android:key="show_fourg_icon"
              android:title="@string/show_fourg_icon_title"
