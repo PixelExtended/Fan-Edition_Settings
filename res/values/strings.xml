@@ -407,7 +407,7 @@
 
     <!-- QS Transparency -->
     <string name="qs_transparency_title">QS Transparency</string>
-    <string name="qs_transparency_summary">Choose how transparent you want your QS Panel to be (Requires SystemUI)</string>
+    <string name="qs_transparency_summary">Choose how transparent you want your QS Panel to be.\nRequires a SystemUI restart</string>
 
     <!-- Heads up options -->
     <string name="less_boring_heads_up_title">Make heads up less annoying</string>
