@@ -19,61 +19,61 @@
     <!-- General app strings -->
     <string name="extensions_title">Casa de neve</string>
     <string name="add">Adicionar</string>
-    <string name="advanced">Advanced</string>
-    <string name="cancel">Cancel</string>
-    <string name="default_text">Default</string>
-    <string name="dlg_ok">OK</string>
-    <string name="attention">Attention</string>
-    <string name="loading">Loading\u2026</string>
-    <string name="reset">Reset</string>
-    <string name="reset_colors">Reset colors</string>
+    <string name="advanced">Avançado</string>
+    <string name="cancel">Cancelar</string>
+    <string name="default_text">Padrão</string>
+    <string name="dlg_ok">Ok</string>
+    <string name="attention">Atenção</string>
+    <string name="loading">Carregando\u2026</string>
+    <string name="reset">Redefinir</string>
+    <string name="reset_colors">Redefinir cores</string>
     <string name="reset_android">Android</string>
-    <string name="text_title">Text</string>
-    <string name="icon_title">Icon</string>
-    <string name="color_title">Color</string>
-    <string name="colors_title">Colors</string>
-    <string name="misc_title">Miscellaneous</string>
+    <string name="text_title">Texto</string>
+    <string name="icon_title">Ícone</string>
+    <string name="color_title">Cor</string>
+    <string name="colors_title">Cores</string>
+    <string name="misc_title">Diversos</string>
     <!-- Extensions categories -->
-    <string name="status_bar_category">Statusbar</string>
-    <string name="system_category">System</string>
-    <string name="lockscreen_category">Lockscreen</string>
+    <string name="status_bar_category">Barra de status</string>
+    <string name="system_category">Sistema</string>
+    <string name="lockscreen_category">Tela de bloqueio</string>
     <string name="hardware_category">Hardware</string>
-    <string name="build_tweaks_summary_title">Things are really cold here!</string>
-    <string name="listview">ListView</string>
-    <string name="misc_category">Misc Settings</string>
-    <string name="fingerprint_category">FP Sensor</string>
-    <string name="qs_category">Quick Settings</string>
-    <string name="power_key">Power Button</string>
-    <string name="volume_keys">Volume Buttons</string>
-    <string name="lockscreen_gestures_category">LockScreen Gesture</string>
-    <string name="battery_settings_title">Battery Settings</string>
-    <string name="gestures_category">Gestures Customizations</string>
+    <string name="build_tweaks_summary_title">As coisas estão bem frias aqui!</string>
+    <string name="listview">Visualização em lista</string>
+    <string name="misc_category">Configurações diversas</string>
+    <string name="fingerprint_category">Sensor de impressão digital</string>
+    <string name="qs_category">Configurações rápidas</string>
+    <string name="power_key">Botão liga/desliga</string>
+    <string name="volume_keys">Botões de volume</string>
+    <string name="lockscreen_gestures_category">Gestos na tela de bloqueio</string>
+    <string name="battery_settings_title">Configurações da bateria</string>
+    <string name="gestures_category">Personalização de gestos</string>
     <!-- App info dialog -->
-    <string name="extensions_dialog_title">Help us help you!</string>
-    <string name="extensions_dialog_message">If you find a bug with any of these settings, report it in our Telegram Group. You MUST include the following when posting a bug report:\n\n1. A logcat or last_kmsg\n2. Kernel and mods used\n3. Useful information\n\nIf you fail to report something adequately, DO NOT expect things to be fixed.</string>
-    <string name="extensions_dialog_toast">READ THE WHOLE THING!</string>
-    <string name="artwork_media_fade_level_summary">Fading the media artwork image</string>
+    <string name="extensions_dialog_title">Nos ajude a ajudá-lo!</string>
+    <string name="extensions_dialog_message">Se você encontrar um bug em qualquer uma dessas configurações, reporte em nosso Grupo do Telegram. Você deve incluir o seguinte quando publicar um relatório de bug:\n\n1. Um logcat ou last_kmsg\n2. Kernel e mods utilizados\n3. Informações úteis\n\nSe você não relatar adequadamente, NÃO espere que as coisas sejam corrigidas.</string>
+    <string name="extensions_dialog_toast">LEIA TUDO!</string>
+    <string name="artwork_media_fade_level_summary">Efeito desfocado na arte da mídia</string>
     <!-- QuickSettings haptic feedback -->
-    <string name="quick_settings_vibrate_title">Vibrate on touch</string>
-    <string name="quick_settings_vibrate_summary">Vibrate when touching QS tiles</string>
+    <string name="quick_settings_vibrate_title">Vibrar ao tocar</string>
+    <string name="quick_settings_vibrate_summary">Vibrar ao tocar nas configurações rápidas</string>
     <!-- 4G icon -->
-    <string name="show_fourg_icon_title">4G icon</string>
-    <string name="show_fourg_icon_summary">Display 4G icon in signal icon instead LTE</string>
+    <string name="show_fourg_icon_title">Ícone 4G</string>
+    <string name="show_fourg_icon_summary">Exibir 4G no ícone de sinal ao invés de LTE</string>
     <!-- VoLTE icon -->
-    <string name="volte_icon_title">VoLTE icon</string>
-    <string name="volte_icon_summary">Display VoLTE icon when available</string>
+    <string name="volte_icon_title">Ícone VoLTE</string>
+    <string name="volte_icon_summary">Exibir o ícone do VoLTE quando disponível</string>
     <!-- VoWiFi icon -->
-    <string name="vowifi_icon_title">VoWiFi icon</string>
-    <string name="vowifi_icon_summary">Display VoWiFi icon when available</string>
-    <string name="volte_vowifi_override_title">VoWiFi override</string>
-    <string name="volte_vowifi_override_summary">Hide VoLTE when VoWiFi is available</string>
+    <string name="vowifi_icon_title">Ícone VoWiFi</string>
+    <string name="vowifi_icon_summary">Exibir o ícone do VoWiFi quando disponível</string>
+    <string name="volte_vowifi_override_title">Sobrepor VoWiFi</string>
+    <string name="volte_vowifi_override_summary">Ocultar VoLTE quando o VoWiFi estiver disponível</string>
     <!-- Incall vibrate options -->
-    <string name="incall_vibration_category">In-call vibration options</string>
-    <string name="incall_vibrate_connect_title">Vibrate on connect</string>
-    <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-    <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
+    <string name="incall_vibration_category">Opções de vibração durante chamada</string>
+    <string name="incall_vibrate_connect_title">Vibrar ao atender</string>
+    <string name="incall_vibrate_call_wait_title">Vibrar na chamada em espera</string>
+    <string name="incall_vibrate_disconnect_title">Vibrar ao encerrar</string>
     <!-- Statusbar Tuner -->
-    <string name="statusbar_items_title">Statusbar items</string>
+    <string name="statusbar_items_title">Ícones da barra de status</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">Tap to sleep</string>
     <string name="double_tap_sleep_gesture_summary">Double-tap anywhere on the status bar to put the device to sleep</string>
