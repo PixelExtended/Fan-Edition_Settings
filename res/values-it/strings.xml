@@ -255,7 +255,7 @@
     <string name="theme_customization_font_title">Stile del carattere</string>
     <string name="theme_customization_font_summary">Impostare lo stile dei caratteri di sistema</string>
     <!-- Lockscreen Clock -->
-    <string name="lockscreen_small_clock_title">Orologio piccolo</string>
+    <string name="lockscreen_small_clock_title">Orologgio piccolo</string>
     <string name="lockscreen_small_clock_summary">Forza l\'orologio piccolo sulla lockscreen anche se le notifiche sono assenti</string>
     <!-- Power menu on secure lockscreen -->
     <string name="lockscreen_enable_power_menu_title">Menu accensione</string>
