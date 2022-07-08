@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--  Copyright (C) 2014-2016 The Dirty Unicorns Project
       Copyright (C) 2016 AospExtended ROM Project
+
   This program is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version
+
   This program is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
+
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
  -->
-
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    
     <!-- General app strings -->
     <string name="extensions_title">Casita de nieve</string>
     <string name="add">Añadir</string>
@@ -32,7 +33,6 @@
     <string name="color_title">Color</string>
     <string name="colors_title">Colores</string>
     <string name="misc_title">Varios</string>
-
     <!-- Extensions categories -->
     <string name="status_bar_category">Barra de estado</string>
     <string name="system_category">Sistema</string>
@@ -40,89 +40,71 @@
     <string name="hardware_category">Hardware</string>
     <string name="build_tweaks_summary_title">¡Aquí hace frío!</string>
     <string name="listview">Vista de lista</string>
-
     <string name="misc_category">Ajustes varios</string>
     <string name="fingerprint_category">Sensor de huella</string>
     <string name="qs_category">Ajustes rápidos</string>
     <string name="power_key">Botón de encendido</string>
     <string name="volume_keys">Botones de volumen</string>
     <string name="lockscreen_gestures_category">Gestos de pantalla\ bloqueada</string>
-    <string name="battery_settings_title">Ajustes de batería</string>   
+    <string name="battery_settings_title">Ajustes de batería</string>
     <string name="gestures_category">Personalización de\ gestos</string>
-
     <!-- App info dialog -->
     <string name="extensions_dialog_title">¡Ayúdanos a ayudarte!</string>
     <string name="extensions_dialog_message">Si encuentras un bug en estos ajustes, reporta en el grupo de Telegram. Debes incluir los siguientes datos para reportar un bug:\n\n1. Un logcat o last_kmsg\n2. Kernel y módulos usados\n3. Información útil\n\nSi reportas algo adecuadamente, NO esperes a que sea arreglado.</string>
     <string name="extensions_dialog_toast">¡LEE TODO!</string>
     <string name="artwork_media_fade_level_summary">Desvanecimiento de carátula</string>
-
-   <!-- QuickSettings haptic feedback -->
+    <!-- QuickSettings haptic feedback -->
     <string name="quick_settings_vibrate_title">Vibrar al tocar</string>
     <string name="quick_settings_vibrate_summary">Vibrar al tocar ajustes rápidos</string>
-
-   <!-- 4G icon -->
+    <!-- 4G icon -->
     <string name="show_fourg_icon_title">Icono 4G</string>
     <string name="show_fourg_icon_summary">4G como icono de señal en vez de LTE</string>
-
     <!-- VoLTE icon -->
     <string name="volte_icon_title">Icono VoLTE</string>
     <string name="volte_icon_summary">Mostrar icono VoLTE si está disponible</string>
-
     <!-- VoWiFi icon -->
     <string name="vowifi_icon_title">Icono VoWiFi</string>
     <string name="vowifi_icon_summary">Mostrar icono VoWiFi si está disponible</string>
     <string name="volte_vowifi_override_title">Mostrar VoWiFi</string>
     <string name="volte_vowifi_override_summary">Esconder VoLTE cuando VoWiFi esté disponible</string>
-
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">Vibración en llamada</string>
     <string name="incall_vibrate_connect_title">Vibrar al conectar</string>
     <string name="incall_vibrate_call_wait_title">Vibrar al llamada en espera</string>
     <string name="incall_vibrate_disconnect_title">Vibrar al desconectar</string>
-
     <!-- Statusbar Tuner -->
     <string name="statusbar_items_title">Iconos de barra de estado</string>
-
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">Tocar para bloquear</string>
     <string name="double_tap_sleep_gesture_summary">Doble toque en la barra de estado para bloquear el dispositivo</string>
-
     <!--Double Tap to Sleep Lockscreen-->
     <string name="lockscreen_tweaks_category_title">Que hacer</string>
     <string name="double_tap_sleep_lockscreen_title">Doble toque para bloquear en pantalla de bloqueo</string>
-
-   <!-- Annoying Notifications -->
+    <!-- Annoying Notifications -->
     <string name="notification_sound_vib_screen_on_title">Notificaciones molestas</string>
     <string name="notification_sound_vib_screen_on_summary">Sonar y vibrar por notificaciones cuando la pantalla está encendida</string>
-
     <!-- Volume rocker music control -->
     <string name="volume_rocker_music_controls_title">Control de música</string>
     <string name="volume_rocker_music_controls_summary">Presionar botones de volumen cuando la pantalla está encendida para pasar canción</string>
-
     <!-- Volume rocker wake -->
     <string name="volume_rocker_wake_title">Despertar con volumen</string>
     <string name="volume_rocker_wake_summary">Presionar botones de volumen para despertar el dispositivo</string>
-
     <!-- Lockscreen battery info indicator  -->
     <string name="lockscreen_battery_info_title">Información de la carga en pantalla bloqueada</string>
     <string name="lockscreen_battery_info_summary">Mostrar carga actual, voltaje, amperaje y temperatura de la batería en pantalla bloqueada</string>
-
     <!-- Fingerprint authentication vibration -->
     <string name="fprint_sucess_vib_title">Vibrar con huella exitosa</string>
     <string name="fprint_sucess_vib_summary">Vibrar al desbloquear exitosamente con la huella</string>
     <string name="fprint_error_vib_title">Vibrar con huella erronea</string>
     <string name="fprint_error_vib_summary">Vibrar al desbloquear erroneamente con la huella</string>
-
     <!-- Wake on plug -->
     <string name="wake_when_plugged_or_unplugged_title">Despertar al conectar</string>
     <string name="wake_when_plugged_or_unplugged_summary">Encender pantalla al conectar o desconectar el cargador</string>
-
     <!-- Quick QS pulldown -->
     <string name="status_bar_quick_qs_pulldown">Despliegue rápido de QS</string>
     <string name="quick_pulldown_none">Deshabilitado</string>
     <string name="quick_pulldown_right">Desplegar barra de estado desde el lado derecho</string>
     <string name="quick_pulldown_left">Desplegar barra de estado desde el lado izquierdo</string>
-
     <!-- Quick Settings brightness slider -->
     <string name="qs_brightness_slider_category">Control deslizante de brillo</string>
     <string name="qs_show_brightness_slider_title">Control deslizante de brillo</string>
@@ -133,30 +115,23 @@
     <string name="qs_brightness_slider_position_title">Posición</string>
     <string name="qs_brightness_slider_position_top">Arriba</string>
     <string name="qs_brightness_slider_position_bottom">Abajo</string>
-
     <!-- Quick Settings brightness icon -->
     <string name="qs_show_auto_brightness_title">Icono de brillo automático</string>
     <string name="qs_show_auto_brightness_summary">Mostrar brillo automático cerca del control deslizante</string>
-
     <!-- Brightness control -->
     <string name="status_bar_toggle_brightness">Control de brillo</string>
     <string name="status_bar_toggle_brightness_summary">Ajustar brillo deslizando la barra de estado</string>
-
     <string name="gestures_title">Personalización de barra de navegación</string>
     <string name="gestures_summary">Elige tu barra</string>
-
-	<!-- Media art -->
+    <!-- Media art -->
     <string name="lockscreen_media_category">Media en pantalla de bloqueo</string>
     <string name="media_art_title">Arte de portada</string>
     <string name="media_art_summary">Habilita arte de portada en la pantalla de bloqueo</string>
-
     <string name="search">Buscar</string>
     <string name="search_apps">Buscar aplicaciones</string>
-
     <!-- Old mobile type icons -->
     <string name="use_old_mobiletype_title">Icono de señal pequeño</string>
     <string name="use_old_mobiletype_summary">Mostrar el\ icono de tipo de red en la parte superior\ del indicador de señal</string>
-
     <!-- Power Menu -->
     <string name="power_menu_title">Menú de encendido</string>
     <string name="power_menu_title_summary">Ver o cambiar ajustes del menú de encendido</string>
@@ -171,15 +146,12 @@
     <string name="powermenu_users">Usuarios</string>
     <string name="powermenu_logout">Cerrar sesión</string>
     <string name="powermenu_emergency">Emergencia</string>
-
     <!-- Fingerprint Ripple Effect -->
     <string name="enable_fingerprint_ripple_effect_title">Efecto dominó</string>
     <string name="enable_fingerprint_ripple_effect_summary">Mostrar efecto dominó en el desbloqueo con huella digital</string>
-
     <!-- Location Privacy Indicator -->
     <string name="location_privacy_title">Mostrar indicador de privacidad de ubicación</string>
     <string name="location_privacy_summary">Habilite o deshabilite el indicador de privacidad de ubicación en QS y SB</string>
-
     <!-- Network Traffic -->
     <string name="traffic_title">Indicador de tráfico</string>
     <string name="traffic_summary">Personaliza indicadores de tráfico</string>
@@ -193,7 +165,6 @@
     <string name="network_traffic_dynamic">Dinámico</string>
     <string name="network_traffic_download">Descargar</string>
     <string name="network_traffic_upload">Subir</string>
-
     <!-- Status bar - Clock -->
     <string name="status_bar_clock_title">Reloj &amp; fecha</string>
     <string name="status_bar_clock_summary">Personalizar reloj &amp; fecha</string>
@@ -231,21 +202,15 @@
     <string name="clock_date_position">Posición de fecha</string>
     <string name="clock_date_right">Derecha de hora</string>
     <string name="clock_date_left">Izquierda de hora</string>
-
     <!-- Units -->
     <string name="unit_milliseconds">milisegundos</string>
-    <string name="unit_percent" translatable="false">\u0025</string>
-    <string name="unit_pixels" translatable="false">dp</string>
     <string name="unit_seconds">segundos</string>
-    <string name="unit_x1000ms" translatable="false">x1000 ms</string>
-
     <!-- Battery percentage -->
     <string name="battery_style_category_title">Icono de batería</string>
     <string name="status_bar_battery_percentage_title">Porcentaje de batería</string>
     <string name="status_bar_battery_percentage_default">Oculto</string>
     <string name="status_bar_battery_percentage_text_next">Al lado del icono</string>
     <string name="status_bar_battery_percentage_text_inside">Dentro del icono</string>
-
     <!-- Status bar battery style-->
     <string name="status_bar_battery_style_title">Estilo de batería</string>
     <string name="status_bar_battery_style_port">Vertical</string>
@@ -253,36 +218,29 @@
     <string name="status_bar_battery_style_dotted_circle">Círculo (Puntos)</string>
     <string name="status_bar_battery_style_filled_circle">Círculo (Relleno)</string>
     <string name="status_bar_battery_style_text">Texto</string>
-
     <!-- Udfps animations -->
     <string name="udfps_category">Huella</string>
     <string name="udfps_recog_animation">Animación de huella</string>
     <string name="udfps_recog_animation_summary">Mostrar animación al leer la huella</string>
     <string name="udfps_recog_animation_effect_title">Efecto de animación de huella</string>
     <string name="udfps_recog_animation_effect_summary">Elige efecto de animación</string>
-
     <!-- Udfps icon picker -->
     <string name="udfps_icon_picker_title">Icono de huella</string>
     <string name="udfps_icon_picker_summary">Elige un icono de huella</string>
-
     <!-- Udfps Custom Options -->
     <string name="udfps_settings_title">Opciones de huella</string>
     <string name="udfps_settings_summary">Configura tu huella</string>
-
     <!-- Custom FOD Icon -->
     <string name="custom_fp_icon_title">Icono de huella personalizado</string>
     <string name="custom_fp_icon_summary">Habilita icono de huella personalizado desde archivos</string>
     <string name="custom_fp_select_title">Selecciona icono de huella personalizado</string>
     <string name="custom_fp_select_summary">Selecciona icono de huella desde archivos o galería</string>
-
     <!-- Screen off FOD -->
     <string name="screen_off_fod_title">Huella con pantalla apagada</string>
     <string name="screen_off_fod_summary">Mantiene desbloqueo por huella con pantalla apagada</string>
-
     <!-- UI settings -->
     <string name="monet_title">Ajustes Monet</string>
     <string name="monet_summary">Personaliza temas de Monet</string>
-
     <!-- Monet Engine -->
     <string name="monet_category">Motor Monet</string>
     <string name="monet_engine_custom_color_title">Color personalizado</string>
@@ -292,28 +250,22 @@
     <string name="monet_engine_accurate_shades_title">Usa tonos precisos</string>
     <string name="monet_engine_chroma_factor_title">Factor croma</string>
     <string name="monet_engine_linear_lightness_title">Usar luminosidad lineal</string>
-
     <!-- Custom styles -->
     <string name="styles_category">Estilos</string>
     <string name="theme_customization_font_title">Estilo de fuente</string>
     <string name="theme_customization_font_summary">Establecer el estilo de fuente del sistema</string>
-
     <!-- Lockscreen Clock -->
     <string name="lockscreen_small_clock_title">Reloj pequeño</string>
     <string name="lockscreen_small_clock_summary">Forzar reloj pequeño en la pantalla de bloqueo incluso si no hay notificaciones</string>
-
     <!-- Power menu on secure lockscreen -->
     <string name="lockscreen_enable_power_menu_title">Menú de encendido</string>
     <string name="lockscreen_enable_power_menu_summary">Permitir el acceso al menú de encendido en la pantalla de bloqueo</string>
-
     <!-- Black theme -->
     <string name="system_black_theme_title">Usar tema negro</string>
     <string name="system_black_theme_summary">Forzar colores de fondo negros</string>
-
     <!-- Home key customization -->
     <string name="home_answer_call_title">Responder llamada</string>
     <string name="home_answer_call_summary">Responda a las llamadas entrantes presionando el botón de inicio</string>
-
     <!-- Power menu key customization -->
     <string name="power_end_call_title">Terminar llamada</string>
     <string name="power_end_call_summary">Finalice la llamada actual presionando el botón de encendido</string>
@@ -325,20 +277,15 @@
     <string name="torch_long_press_power_timeout_2min">2 minutos</string>
     <string name="torch_long_press_power_timeout_5min">5 minutos</string>
     <string name="torch_long_press_power_timeout_10min">10 minutos</string>
-
-
     <!-- Buttons -->
     <string name="button_pref_title">Botones</string>
     <string name="hardware_keys_home_key_title">Botón de inicio</string>
-
     <!-- Volume keys customization -->
     <string name="volume_answer_call_title">Responder a llamada</string>
     <string name="volume_answer_call_summary">Responda a las llamadas entrantes presionando los botones de volumen</string>
-
     <!-- Pocket judge -->
     <string name="pocket_judge_title">Modo bolsillo</string>
     <string name="pocket_judge_summary">Bloquear pantalla y botones cuando el dispositivo está en el bolsillo</string>
-
     <!-- Lockscreen album art filter -->
     <string name="lockscreen_albumart_filter_title">Filtro de arte media</string>
     <string name="lockscreen_albumart_filter_none">Ninguno</string>
@@ -346,8 +293,7 @@
     <string name="lockscreen_albumart_filter_tint">Acento tintado</string>
     <string name="lockscreen_albumart_filter_blur">Borroso</string>
     <string name="lockscreen_albumart_filter_grayblur">Escala de grises y borroso</string>
-
-	<!-- Pulse music visualizer -->
+    <!-- Pulse music visualizer -->
     <string name="pulse_help_policy_notice_title">Sobre Pulse</string>
     <string name="pulse_help_policy_notice_summary">Pulse es un ecualizador gráfico de audio brillante cuando se reproduce música en el dispositivo</string>
     <string name="pulse_settings">Pulse</string>
@@ -380,12 +326,10 @@
     <string name="pulse_custom_div">Espaciado de barras</string>
     <string name="pulse_filled_block_size">Tamaño de bloque</string>
     <string name="pulse_empty_block_size">Espaciado de bloque</string>
-
-	<!-- Gaming mode -->
+    <!-- Gaming mode -->
     <string name="gaming_mode_title">Modo juego</string>
     <string name="gaming_mode_summary">Características adicionales para una experiencia de juego inmersiva</string>
-
-  <!-- Qs Column Settings -->
+    <!-- Qs Column Settings -->
     <string name="qs_columns_portrait_title">Columnas QS en vertical</string>
     <string name="qs_columns_landscape_title">Columnas QS en horizontal</string>
     <string name="qs_tile_vertical_layout_title">Diseño vertical de QS</string>
@@ -393,8 +337,19 @@
     <string name="qs_tile_title_visibility_title">Ocultar títulos</string>
     <string name="qs_tile_title_visibility_summary">Habilita para ocultar títulos de icono de QS</string>
     <string name="qs_columns_category">Ajustes de columnas QS</string>
-
     <!-- Combined signal icons in status bar -->
     <string name="combined_status_bar_signal_icons">Iconos de señal combinados</string>
     <string name="combined_status_bar_signal_icons_summary">Habilitar iconos de señal combinados en la barra de estado.\nRequiere un reinicio del SystemUI</string>
+    <!-- QS battery estimates -->
+    <string name="qs_show_battery_estimate_title">Battery estimates</string>
+    <string name="qs_show_battery_estimate_summary">Show estimated remaining battery life next to the icon</string>
+    <!-- QS Transparency -->
+    <string name="qs_transparency_title">QS Transparency</string>
+    <string name="qs_transparency_summary">Choose how transparent you want your QS Panel to be.\nRequires a SystemUI restart</string>
+    <!-- Heads up options -->
+    <string name="less_boring_heads_up_title">Make heads up less annoying</string>
+    <string name="less_boring_heads_up_summary">Show heads up only for dialer or messaging app if they are not in foreground</string>
+    <!-- Statusbar colored icons -->
+    <string name="statusbar_colored_icons_title">Colored icons</string>
+    <string name="statusbar_colored_icons_summary">Use proper app icons for notification icons in statusbar</string>
 </resources>
