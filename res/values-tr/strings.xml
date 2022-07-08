@@ -41,7 +41,7 @@
     <string name="build_tweaks_summary_title">Burada işler gerçekten soğuk!</string>
     <string name="listview">Liste görünümü</string>
     <string name="misc_category">Diğer ayarlar</string>
-    <string name="fingerprint_category">FP Sensörü</string>
+    <string name="fingerprint_category">FP sensörü</string>
     <string name="qs_category">Hızlı ayarlar</string>
     <string name="power_key">Güç tuşu</string>
     <string name="volume_keys">Ses tuşları</string>
@@ -122,7 +122,7 @@
     <string name="status_bar_toggle_brightness">Parlaklık kontrolü</string>
     <string name="status_bar_toggle_brightness_summary">Durum çubuğunu kaydırarak parlaklığı ayarla</string>
     <string name="gestures_title">Gezinme çubuğu hareketi özelleştirmeleri</string>
-    <string name="gestures_summary">Take Your Pill</string>
+    <string name="gestures_summary">Hapını al</string>
     <!-- Media art -->
     <string name="lockscreen_media_category">Kilit ekranı medyası</string>
     <string name="media_art_title">Medya kapak resmi</string>
