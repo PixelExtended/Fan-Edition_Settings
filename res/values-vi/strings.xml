@@ -50,20 +50,20 @@
     <string name="gestures_category">Tùy Chỉnh Cử Chỉ</string>
     <!-- App info dialog -->
     <string name="extensions_dialog_title">Giúp chúng tôi giúp bạn!</string>
-    <string name="extensions_dialog_message">If you find a bug with any of these settings, report it in our Telegram Group. You MUST include the following when posting a bug report:\n\n1. A logcat or last_kmsg\n2. Kernel and mods used\n3. Useful information\n\nIf you fail to report something adequately, DO NOT expect things to be fixed.</string>
-    <string name="extensions_dialog_toast">READ THE WHOLE THING!</string>
-    <string name="artwork_media_fade_level_summary">Fading the media artwork image</string>
+    <string name="extensions_dialog_message">Nếu bạn tìm thấy lỗi với bất kỳ cài đặt nào trong số này, hãy báo cáo lỗi đó trong Nhóm Telegram của chúng tôi. Bạn PHẢI bao gồm những điều sau khi đăng báo cáo lỗi:\n\n1. Một logcat hoặc last_kmsg\n2. Đã sử dụng nhân và mod\n3. Thông tin hữu ích\n\nNếu bạn không báo cáo điều gì đó một cách đầy đủ, ĐỪNG mong mọi thứ sẽ được khắc phục.</string>
+    <string name="extensions_dialog_toast">HÃY ĐỌC TẤT CẢ!</string>
+    <string name="artwork_media_fade_level_summary">Làm mờ hình ảnh tác phẩm nghệ thuật phương tiện</string>
     <!-- QuickSettings haptic feedback -->
-    <string name="quick_settings_vibrate_title">Vibrate on touch</string>
-    <string name="quick_settings_vibrate_summary">Vibrate when touching QS tiles</string>
+    <string name="quick_settings_vibrate_title">Rung khi chạm</string>
+    <string name="quick_settings_vibrate_summary">Rung khi chạm các ô cài đặt nhanh</string>
     <!-- 4G icon -->
-    <string name="show_fourg_icon_title">4G icon</string>
-    <string name="show_fourg_icon_summary">Display 4G icon in signal icon instead LTE</string>
+    <string name="show_fourg_icon_title">Biểu tượng 4G</string>
+    <string name="show_fourg_icon_summary">Hiển thị biểu tượng 4G trong biểu tượng tín hiệu thay vì LTE</string>
     <!-- VoLTE icon -->
-    <string name="volte_icon_title">VoLTE icon</string>
-    <string name="volte_icon_summary">Display VoLTE icon when available</string>
+    <string name="volte_icon_title">Biểu tượng VoLTE</string>
+    <string name="volte_icon_summary">Hiển thị biểu tượng VoLTE khi khả dụng</string>
     <!-- VoWiFi icon -->
-    <string name="vowifi_icon_title">VoWiFi icon</string>
+    <string name="vowifi_icon_title">Biểu tượng VoWiFi</string>
     <string name="vowifi_icon_summary">Display VoWiFi icon when available</string>
     <string name="volte_vowifi_override_title">VoWiFi override</string>
     <string name="volte_vowifi_override_summary">Hide VoLTE when VoWiFi is available</string>
