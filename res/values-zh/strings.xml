@@ -17,7 +17,7 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General app strings -->
-    <string name="extensions_title">雪屋</string>
+    <string name="extensions_title">自定义</string>
     <string name="add">添加</string>
     <string name="advanced">高级设置</string>
     <string name="cancel">取消</string>
