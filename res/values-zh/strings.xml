@@ -60,10 +60,10 @@
     <string name="show_fourg_icon_title">4G 图标</string>
     <string name="show_fourg_icon_summary">在信号图标上显示 4G 而不是 LTE</string>
     <!-- VoLTE icon -->
-    <string name="volte_icon_title">LTE 图标</string>
+    <string name="volte_icon_title">VoLTE 图标</string>
     <string name="volte_icon_summary">可用时显示Wi-Fi图标</string>
     <!-- VoWiFi icon -->
-    <string name="vowifi_icon_title">Wi-Fi图标</string>
+    <string name="vowifi_icon_title">VoWiFi图标</string>
     <string name="vowifi_icon_summary">Wi-Fi可用时显示图标</string>
     <string name="volte_vowifi_override_title">Wi-Fi覆盖</string>
     <string name="volte_vowifi_override_summary">当Wi-Fi可用时隐藏LTE</string>
