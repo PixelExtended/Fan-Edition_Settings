@@ -213,10 +213,10 @@
     <string name="status_bar_battery_percentage_text_inside">在图标内显示</string>
     <!-- Status bar battery style-->
     <string name="status_bar_battery_style_title">电池图标样式</string>
-    <string name="status_bar_battery_style_port">竖向显示</string>
+    <string name="status_bar_battery_style_port">直立形</string>
     <string name="status_bar_battery_style_circle">环形</string>
     <string name="status_bar_battery_style_dotted_circle">环形 (虚线)</string>
-    <string name="status_bar_battery_style_filled_circle">环形(实线)</string>
+    <string name="status_bar_battery_style_filled_circle">环形 (实线)</string>
     <string name="status_bar_battery_style_text">文本</string>
     <!-- Udfps animations -->
     <string name="udfps_category">屏幕指纹设置</string>
@@ -295,11 +295,11 @@
     <string name="lockscreen_albumart_filter_grayblur">灰度和模糊</string>
     <!-- Pulse music visualizer -->
     <string name="pulse_help_policy_notice_title">关于 Pulse</string>
-    <string name="pulse_help_policy_notice_summary">Pulse是一个用于设备上正在播放的音频的出色的波形可视化器</string>
+    <string name="pulse_help_policy_notice_summary">Pulse是一个出色的音频可视化效果，它可用于设备上正在播放的音频</string>
     <string name="pulse_settings">Pulse</string>
-    <string name="pulse_settings_summary">用于导航栏和锁屏的音频可视化</string>
+    <string name="pulse_settings_summary">用于导航栏和锁屏界面的音频可视化效果</string>
     <string name="show_navbar_pulse_title">导航栏上的Pulse</string>
-    <string name="show_navbar_pulse_summary">在导航栏上的音频可视化效果</string>
+    <string name="show_navbar_pulse_summary">在导航栏上显示音频可视化效果</string>
     <string name="show_lockscreen_pulse_title">锁屏界面的Pulse</string>
     <string name="show_lockscreen_pulse_summary">在锁屏界面显示音频可视化效果</string>
     <string name="show_ambient_pulse_title">息屏界面的Pulse</string>
