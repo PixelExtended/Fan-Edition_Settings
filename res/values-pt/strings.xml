@@ -151,7 +151,7 @@
     <string name="enable_fingerprint_ripple_effect_summary">Mostrar efeito cascata ao desbloquear com impressão digital</string>
     <!-- Location Privacy Indicator -->
     <string name="location_privacy_title"> Indicador de localização</string>
-    <string name="location_privacy_summary">Ativar ou desativar os indicadores de localização que são exibidos na barra de status</string>
+    <string name="location_privacy_summary">Ativar/Desativar os indicadores de localização que são exibidos na barra de status</string>
     <!-- Network Traffic -->
     <string name="traffic_title">Indicadores de tráfego de rede</string>
     <string name="traffic_summary">Personalize os indicadores de tráfego de rede</string>
@@ -194,162 +194,162 @@
     <string name="status_bar_date_format_title">Formato da data</string>
     <string name="status_bar_date_style">Estilo da data</string>
     <string name="status_bar_date_style_normal">Normal</string>
-    <string name="status_bar_date_style_lowercase">Lowercase</string>
-    <string name="status_bar_date_style_uppercase">Uppercase</string>
-    <string name="status_bar_date_format_custom">Custom java format</string>
-    <string name="status_bar_date_string_edittext_title">Must be in DateFormat eg. MM/dd/yy</string>
-    <string name="status_bar_date_string_edittext_summary">Enter string</string>
-    <string name="clock_date_position">Date position</string>
-    <string name="clock_date_right">Right of time</string>
-    <string name="clock_date_left">Left of time</string>
+    <string name="status_bar_date_style_lowercase">Letras minúsculas</string>
+    <string name="status_bar_date_style_uppercase">Letras maiúsculas</string>
+    <string name="status_bar_date_format_custom">Formato java personalizado</string>
+    <string name="status_bar_date_string_edittext_title">Deve estar em formato de data, por exemplo: DD/MM/AA</string>
+    <string name="status_bar_date_string_edittext_summary">Insira o texto</string>
+    <string name="clock_date_position">Posição da data</string>
+    <string name="clock_date_right">À direita do relógio</string>
+    <string name="clock_date_left">À esquerda do relógio</string>
     <!-- Units -->
-    <string name="unit_milliseconds">milliseconds</string>
-    <string name="unit_seconds">seconds</string>
+    <string name="unit_milliseconds">milissegundos</string>
+    <string name="unit_seconds">segundos</string>
     <!-- Battery percentage -->
-    <string name="battery_style_category_title">Battery icon</string>
-    <string name="status_bar_battery_percentage_title">Battery percentage</string>
-    <string name="status_bar_battery_percentage_default">Hidden</string>
-    <string name="status_bar_battery_percentage_text_next">Next to the icon</string>
-    <string name="status_bar_battery_percentage_text_inside">Inside the icon</string>
+    <string name="battery_style_category_title">Ícone da bateria</string>
+    <string name="status_bar_battery_percentage_title">Porcentagem da bateria</string>
+    <string name="status_bar_battery_percentage_default">Oculto</string>
+    <string name="status_bar_battery_percentage_text_next">Ao lado do ícone</string>
+    <string name="status_bar_battery_percentage_text_inside">Dentro do ícone</string>
     <!-- Status bar battery style-->
-    <string name="status_bar_battery_style_title">Battery style</string>
-    <string name="status_bar_battery_style_port">Portrait</string>
-    <string name="status_bar_battery_style_circle">Circle</string>
-    <string name="status_bar_battery_style_dotted_circle">Circle (Dotted)</string>
-    <string name="status_bar_battery_style_filled_circle">Circle (Filled)</string>
-    <string name="status_bar_battery_style_text">Text</string>
+    <string name="status_bar_battery_style_title">Estilo do ícone da bateria</string>
+    <string name="status_bar_battery_style_port">Ícone retrato</string>
+    <string name="status_bar_battery_style_circle">Círculo</string>
+    <string name="status_bar_battery_style_dotted_circle">Círculo (pontilhado)</string>
+    <string name="status_bar_battery_style_filled_circle">Círculo (preenchido)</string>
+    <string name="status_bar_battery_style_text">Texto</string>
     <!-- Udfps animations -->
-    <string name="udfps_category">Udfps</string>
-    <string name="udfps_recog_animation">Udfps animation</string>
-    <string name="udfps_recog_animation_summary">Shows an animation while reading your finger</string>
-    <string name="udfps_recog_animation_effect_title">Udfps animation effect</string>
-    <string name="udfps_recog_animation_effect_summary">Choose animation effect</string>
+    <string name="udfps_category">Impressão digital na tela</string>
+    <string name="udfps_recog_animation">Animação da impressão digital</string>
+    <string name="udfps_recog_animation_summary">Exibe uma animação durante a leitura da impressão digital</string>
+    <string name="udfps_recog_animation_effect_title">Animação da impressão digital</string>
+    <string name="udfps_recog_animation_effect_summary">Escolher efeito de animação</string>
     <!-- Udfps icon picker -->
-    <string name="udfps_icon_picker_title">Udfps icon picker</string>
-    <string name="udfps_icon_picker_summary">Choose your favorite fingerprint icon</string>
+    <string name="udfps_icon_picker_title">Selecionar ícone de impressão digital</string>
+    <string name="udfps_icon_picker_summary">Escolha seu ícone de impressão digital favorito</string>
     <!-- Udfps Custom Options -->
-    <string name="udfps_settings_title">Udfps Options</string>
-    <string name="udfps_settings_summary">Configure Your Udfps</string>
+    <string name="udfps_settings_title">Configurações da impressão digital</string>
+    <string name="udfps_settings_summary">Configurações para personalizar a impressão digital</string>
     <!-- Custom FOD Icon -->
-    <string name="custom_fp_icon_title">Custom UDFPS Icon</string>
-    <string name="custom_fp_icon_summary">Enable custom UDFPS Icon from files</string>
-    <string name="custom_fp_select_title">Select Custom UDFPS Icon</string>
-    <string name="custom_fp_select_summary">Select custom image from your saved files or gallery</string>
+    <string name="custom_fp_icon_title">Ícone de impressão digital personalizado</string>
+    <string name="custom_fp_icon_summary">Usar ícone de impressão digital personalizado através de um arquivo</string>
+    <string name="custom_fp_select_title">Selecionar ícone de impressão digital personalizado</string>
+    <string name="custom_fp_select_summary">Selecionar uma imagem personalizada dos seus arquivos salvos ou galeria</string>
     <!-- Screen off FOD -->
-    <string name="screen_off_fod_title">Screen off FOD</string>
-    <string name="screen_off_fod_summary">Keep FOD enabled when the screen is off</string>
+    <string name="screen_off_fod_title">Impressão digital com a tela apagada</string>
+    <string name="screen_off_fod_summary">Permitir o desbloqueio por impressão digital quando a tela estiver apagada</string>
     <!-- UI settings -->
-    <string name="monet_title">Monet settings</string>
-    <string name="monet_summary">Customize Monet theme engine</string>
+    <string name="monet_title">Configurações do tema Monet</string>
+    <string name="monet_summary">Personalize os parâmetros do tema Monet</string>
     <!-- Monet Engine -->
-    <string name="monet_category">Monet Engine</string>
-    <string name="monet_engine_custom_color_title">Use custom color</string>
-    <string name="monet_engine_custom_color_summary">Use custom color for monet engine instead of wallpaper colors</string>
-    <string name="monet_engine_color_override_title">Custom color</string>
-    <string name="monet_engine_white_luminance_user_title">White luminance</string>
-    <string name="monet_engine_accurate_shades_title">Use accurate shades</string>
-    <string name="monet_engine_chroma_factor_title">Chroma factor</string>
-    <string name="monet_engine_linear_lightness_title">Use linear lightness</string>
+    <string name="monet_category">Tema Monet</string>
+    <string name="monet_engine_custom_color_title">Usar cor personalizada</string>
+    <string name="monet_engine_custom_color_summary">Usar cor personalizada para o motor de temas Monet em vez de cores do papel de parede</string>
+    <string name="monet_engine_color_override_title">Cor personalizada</string>
+    <string name="monet_engine_white_luminance_user_title">Tonalidade clara</string>
+    <string name="monet_engine_accurate_shades_title">Usar tons precisos</string>
+    <string name="monet_engine_chroma_factor_title">Coloração</string>
+    <string name="monet_engine_linear_lightness_title">Brilho linear</string>
     <!-- Custom styles -->
-    <string name="styles_category">Styles</string>
-    <string name="theme_customization_font_title">Font style</string>
-    <string name="theme_customization_font_summary">Set system font style</string>
+    <string name="styles_category">Estilos</string>
+    <string name="theme_customization_font_title">Fontes</string>
+    <string name="theme_customization_font_summary">Definir o estilo da fonte do sistema</string>
     <!-- Lockscreen Clock -->
-    <string name="lockscreen_small_clock_title">Small clock</string>
-    <string name="lockscreen_small_clock_summary">Force small clock on lockscreen even if notifications are absent</string>
+    <string name="lockscreen_small_clock_title">Relógio pequeno</string>
+    <string name="lockscreen_small_clock_summary">Mostrar relógio pequeno na tela de bloqueio mesmo quando não houver notificações</string>
     <!-- Power menu on secure lockscreen -->
-    <string name="lockscreen_enable_power_menu_title">Power menu</string>
-    <string name="lockscreen_enable_power_menu_summary">Allow accessing power menu on secure lockscreen</string>
+    <string name="lockscreen_enable_power_menu_title">Menu de energia</string>
+    <string name="lockscreen_enable_power_menu_summary">Permitir o acesso ao menu de energia na tela de bloqueio segura</string>
     <!-- Black theme -->
-    <string name="system_black_theme_title">Use black theme</string>
-    <string name="system_black_theme_summary">Force black background colors</string>
+    <string name="system_black_theme_title">Usar tema preto (amoled)</string>
+    <string name="system_black_theme_summary">Forçar tema preto para a cor de fundo</string>
     <!-- Home key customization -->
-    <string name="home_answer_call_title">Answer call</string>
-    <string name="home_answer_call_summary">Answer incoming calls by pressing the home button</string>
+    <string name="home_answer_call_title">Atender chamada</string>
+    <string name="home_answer_call_summary">Atender chamadas pressionando o botão início</string>
     <!-- Power menu key customization -->
-    <string name="power_end_call_title">End call</string>
-    <string name="power_end_call_summary">End the current call by pressing the power button</string>
-    <string name="torch_long_press_power_gesture_title">Long press for torch</string>
-    <string name="torch_long_press_power_gesture_desc">Activate the torch by long pressing the power button while the display is off</string>
-    <string name="torch_long_press_power_timeout_title">Automatically turn torch off</string>
-    <string name="torch_long_press_power_timeout_never">Never</string>
-    <string name="torch_long_press_power_timeout_1min">1 minute</string>
-    <string name="torch_long_press_power_timeout_2min">2 minutes</string>
-    <string name="torch_long_press_power_timeout_5min">5 minutes</string>
-    <string name="torch_long_press_power_timeout_10min">10 minutes</string>
+    <string name="power_end_call_title">Encerrar chamada</string>
+    <string name="power_end_call_summary">Encerrar a chamada atual pressionando o botão liga/desliga</string>
+    <string name="torch_long_press_power_gesture_title">Manter pressionado para ligar a lanterna</string>
+    <string name="torch_long_press_power_gesture_desc">Ativar a lanterna ao manter pressionado o botão de ligar/desligar enquanto a tela estiver desligada</string>
+    <string name="torch_long_press_power_timeout_title">Desligar automaticamente a lanterna</string>
+    <string name="torch_long_press_power_timeout_never">Nunca</string>
+    <string name="torch_long_press_power_timeout_1min">1 minuto</string>
+    <string name="torch_long_press_power_timeout_2min">2 minutos</string>
+    <string name="torch_long_press_power_timeout_5min">5 minutos</string>
+    <string name="torch_long_press_power_timeout_10min">10 minutos</string>
     <!-- Buttons -->
-    <string name="button_pref_title">Buttons</string>
-    <string name="hardware_keys_home_key_title">Home button</string>
+    <string name="button_pref_title">Botões</string>
+    <string name="hardware_keys_home_key_title">Botão de início</string>
     <!-- Volume keys customization -->
-    <string name="volume_answer_call_title">Answer call</string>
-    <string name="volume_answer_call_summary">Answer incoming calls by pressing the volume buttons</string>
+    <string name="volume_answer_call_title">Atender chamada</string>
+    <string name="volume_answer_call_summary">Atender chamadas pressionando os botões de volume</string>
     <!-- Pocket judge -->
-    <string name="pocket_judge_title">Pocket detection</string>
-    <string name="pocket_judge_summary">Block screen and button inputs when device is in pocket</string>
+    <string name="pocket_judge_title">Detecção de bolso</string>
+    <string name="pocket_judge_summary">Bloquear a tela e os botões quando o dispositivo estiver no bolso</string>
     <!-- Lockscreen album art filter -->
-    <string name="lockscreen_albumart_filter_title">Media cover art filter</string>
-    <string name="lockscreen_albumart_filter_none">None</string>
-    <string name="lockscreen_albumart_filter_grayscale">Grayscale</string>
-    <string name="lockscreen_albumart_filter_tint">Accent tinted</string>
-    <string name="lockscreen_albumart_filter_blur">Blur</string>
-    <string name="lockscreen_albumart_filter_grayblur">Grayscale and blurred</string>
+    <string name="lockscreen_albumart_filter_title">Filtro da arte da mídia</string>
+    <string name="lockscreen_albumart_filter_none">Nenhum</string>
+    <string name="lockscreen_albumart_filter_grayscale">Escala de cinza</string>
+    <string name="lockscreen_albumart_filter_tint">Cor de destaque</string>
+    <string name="lockscreen_albumart_filter_blur">Desfoque</string>
+    <string name="lockscreen_albumart_filter_grayblur">Escala de cinza e desfoque</string>
     <!-- Pulse music visualizer -->
-    <string name="pulse_help_policy_notice_title">About Pulse</string>
-    <string name="pulse_help_policy_notice_summary">Pulse is a brilliant audio graphic equalizer when music plays on the device</string>
+    <string name="pulse_help_policy_notice_title">Sobre o Pulse</string>
+    <string name="pulse_help_policy_notice_summary">Pulse é uma animação gráfica simulando um equalizador de áudio exibido quando uma música é tocada no dispositivo</string>
     <string name="pulse_settings">Pulse</string>
-    <string name="pulse_settings_summary">Audio graphic equalizer for navigation bar and lockscreen</string>
-    <string name="show_navbar_pulse_title">Navbar Pulse</string>
-    <string name="show_navbar_pulse_summary">Audio graphic equalizer on the navigation bar</string>
-    <string name="show_lockscreen_pulse_title">Lockscreen Pulse</string>
-    <string name="show_lockscreen_pulse_summary">Audio graphic equalizer on the lockscreen</string>
-    <string name="show_ambient_pulse_title">Ambient Pulse</string>
-    <string name="show_ambient_pulse_summary">Audio graphic equalizer on the ambient screen</string>
-    <string name="pulse_render_mode_title">Render mode</string>
-    <string name="pulse_render_mode_fading_bars">Fading blocks</string>
-    <string name="pulse_render_mode_solid_lines">Solid lines</string>
-    <string name="pulse_legacy_mode_advanced_category">Fading blocks mode settings</string>
-    <string name="pulse_custom_fudge_factor">Sanity level</string>
-    <string name="pulse_lavalamp_speed_title">Lava lamp speed</string>
-    <string name="pulse_solid_units_count">Solid lines count</string>
-    <string name="pulse_solid_units_opacity">Solid lines opacity</string>
-    <string name="pulse_solid_units_rounded_title">Rounded corners</string>
-    <string name="pulse_solid_units_rounded_summary">Solid lines with rounded tip</string>
-    <string name="pulse_solid_dimen_category">Solid lines mode settings</string>
-    <string name="pulse_color_mode_title">Color</string>
-    <string name="pulse_color_accent">Accent</string>
-    <string name="pulse_color_custom">Custom</string>
-    <string name="pulse_color_lava_lamp">Lava lamp</string>
-    <string name="pulse_color_user_title">Choose color</string>
-    <string name="pulse_smoothing_enabled_title">Turn on smoothing</string>
-    <string name="pulse_smoothing_enabled_summary">Each bar is animated more smoothly</string>
-    <string name="pulse_custom_dimen">Bar width</string>
-    <string name="pulse_custom_div">Bar spacing</string>
-    <string name="pulse_filled_block_size">Block size</string>
-    <string name="pulse_empty_block_size">Block spacing</string>
+    <string name="pulse_settings_summary">Equalizador gráfico de áudio para a barra de navegação e tela de bloqueio</string>
+    <string name="show_navbar_pulse_title">Pulse na barra de navegação</string>
+    <string name="show_navbar_pulse_summary">Animação estilo gráfico de áudio na barra de navegação</string>
+    <string name="show_lockscreen_pulse_title">Pulse na tela de bloqueio</string>
+    <string name="show_lockscreen_pulse_summary">Animação estilo gráfico de áudio na tela de bloqueio</string>
+    <string name="show_ambient_pulse_title">Pulse na tela ambiente</string>
+    <string name="show_ambient_pulse_summary">Animação estilo gráfico de áudio na tela ambiente</string>
+    <string name="pulse_render_mode_title">Modo de renderização</string>
+    <string name="pulse_render_mode_fading_bars">Blocos desbotados</string>
+    <string name="pulse_render_mode_solid_lines">Linhas sólidas</string>
+    <string name="pulse_legacy_mode_advanced_category">Configurações do modo de blocos desbotados</string>
+    <string name="pulse_custom_fudge_factor">Nível de sanidade</string>
+    <string name="pulse_lavalamp_speed_title">Velocidade da lâmpada de lava</string>
+    <string name="pulse_solid_units_count">Contador de linhas sólidas</string>
+    <string name="pulse_solid_units_opacity">Opacidade de linhas sólidas</string>
+    <string name="pulse_solid_units_rounded_title">Cantos arredondados</string>
+    <string name="pulse_solid_units_rounded_summary">Linhas sólidas com pontas arredondadas</string>
+    <string name="pulse_solid_dimen_category">Configurações do modo de linhas sólidas</string>
+    <string name="pulse_color_mode_title">Cor</string>
+    <string name="pulse_color_accent">Cor de destaque</string>
+    <string name="pulse_color_custom">Personalizado</string>
+    <string name="pulse_color_lava_lamp">Lâmpada de lava</string>
+    <string name="pulse_color_user_title">Escolha a cor</string>
+    <string name="pulse_smoothing_enabled_title">Ativar suavização</string>
+    <string name="pulse_smoothing_enabled_summary">Cada barra é animada mais suavemente</string>
+    <string name="pulse_custom_dimen">Largura da barra</string>
+    <string name="pulse_custom_div">Espaçamento da barra</string>
+    <string name="pulse_filled_block_size">Tamanho do bloco</string>
+    <string name="pulse_empty_block_size">Espaçamento do bloco</string>
     <!-- Gaming mode -->
-    <string name="gaming_mode_title">Game space</string>
-    <string name="gaming_mode_summary">Extra features for immersive gaming experience</string>
+    <string name="gaming_mode_title">Modo gamer</string>
+    <string name="gaming_mode_summary">Recursos extras para uma experiência envolvente nos jogos</string>
     <!-- Qs Column Settings -->
-    <string name="qs_columns_portrait_title">Qs Columns in Portrait</string>
-    <string name="qs_columns_landscape_title">Qs Columns in Landscape</string>
-    <string name="qs_tile_vertical_layout_title">Qs Vertical Layout</string>
-    <string name="qs_tile_vertical_layout_summary">Enable-disable tile vertical layout</string>
-    <string name="qs_tile_title_visibility_title">Hide titles</string>
-    <string name="qs_tile_title_visibility_summary">Enable to hide QS tile titles</string>
-    <string name="qs_columns_category">QS Column Settings</string>
+    <string name="qs_columns_portrait_title">Colunas das configurações rápidas (retrato)</string>
+    <string name="qs_columns_landscape_title">Colunas das configurações rápidas (paisagem)</string>
+    <string name="qs_tile_vertical_layout_title">Layout vertical das configurações rápidas</string>
+    <string name="qs_tile_vertical_layout_summary">Habilitar/desabilitar o layout vertical das configurações rápidas</string>
+    <string name="qs_tile_title_visibility_title">Ocultar títulos</string>
+    <string name="qs_tile_title_visibility_summary">Habilite para ocultar os titulos das configurações rápidas</string>
+    <string name="qs_columns_category">Configurações de colunas das configurações rápidas</string>
     <!-- Combined signal icons in status bar -->
-    <string name="combined_status_bar_signal_icons">Combined signal icons</string>
-    <string name="combined_status_bar_signal_icons_summary">Enable combined signal icons in status bar.\nRequires a SystemUI restart</string>
+    <string name="combined_status_bar_signal_icons">Ícones de sinal combinados</string>
+    <string name="combined_status_bar_signal_icons_summary">Habilitar ícones de sinal combinados na barra de status.\nRequer uma reinicialização da SystemUI</string>
     <!-- QS battery estimates -->
-    <string name="qs_show_battery_estimate_title">Battery estimates</string>
-    <string name="qs_show_battery_estimate_summary">Show estimated remaining battery life next to the icon</string>
+    <string name="qs_show_battery_estimate_title">Estimativa de bateria</string>
+    <string name="qs_show_battery_estimate_summary">Mostrar a duração estimada da bateria ao lado do ícone</string>
     <!-- QS Transparency -->
-    <string name="qs_transparency_title">QS Transparency</string>
-    <string name="qs_transparency_summary">Choose how transparent you want your QS Panel to be.\nRequires a SystemUI restart</string>
+    <string name="qs_transparency_title">Transparência das configurações rápidas</string>
+    <string name="qs_transparency_summary">Escolha o quão transparente você deseja que seu painel de configurações rápidas seja.\nRequer uma reinicialização da SystemUI</string>
     <!-- Heads up options -->
-    <string name="less_boring_heads_up_title">Make heads up less annoying</string>
-    <string name="less_boring_heads_up_summary">Show heads up only for dialer or messaging app if they are not in foreground</string>
+    <string name="less_boring_heads_up_title">Torne as notificações pop-up menos irritantes</string>
+    <string name="less_boring_heads_up_summary">Mostrar pop-up apenas para chamadas ou aplicativos de mensagens, se eles não estiverem em primeiro plano</string>
     <!-- Statusbar colored icons -->
-    <string name="statusbar_colored_icons_title">Colored icons</string>
-    <string name="statusbar_colored_icons_summary">Use proper app icons for notification icons in statusbar</string>
+    <string name="statusbar_colored_icons_title">Ícones coloridos</string>
+    <string name="statusbar_colored_icons_summary">Mostrar ícones na cor correspondente a do aplicativo nas notificações da barra de status</string>
 </resources>
