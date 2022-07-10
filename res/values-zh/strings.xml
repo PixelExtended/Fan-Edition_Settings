@@ -17,7 +17,7 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General app strings -->
-    <string name="extensions_title">SnowHouse</string>
+    <string name="extensions_title">雪之屋</string>
     <string name="add">添加</string>
     <string name="advanced">高级设置</string>
     <string name="cancel">取消</string>
@@ -50,7 +50,7 @@
     <string name="gestures_category">手势自定义</string>
     <!-- App info dialog -->
     <string name="extensions_dialog_title">协助我们来帮助您</string>
-    <string name="extensions_dialog_message">如果您发现这些设置有任何错误，请在我们的的 Telegram 群组中报告。 错误报告必须包含下列内容：\n\n1. logcat 或 last_kmsg\n2. 所用的内核及模块\n3. 其他有用信息\n\n如果您不能充分报告错误内容，那么也不要期望问题会被修复。</string>
+    <string name="extensions_dialog_message">如果您发现这些设置有任何错误，请在我们的Telegram 群组中报告。 错误报告必须包含下列内容：\n\n1. logcat 或 last_kmsg\n2. 所用的内核及模块\n3. 其他有用信息\n\n如果您不能充分报告错误内容，那么也不要期望问题会被修复。</string>
     <string name="extensions_dialog_toast">请阅读所有内容！</string>
     <string name="artwork_media_fade_level_summary">淡化媒体艺术品图像</string>
     <!-- QuickSettings haptic feedback -->
@@ -65,7 +65,7 @@
     <!-- VoWiFi icon -->
     <string name="vowifi_icon_title">VoWiFi图标</string>
     <string name="vowifi_icon_summary">Wi-Fi可用时显示图标</string>
-    <string name="volte_vowifi_override_title">Wi-Fi覆盖</string>
+    <string name="volte_vowifi_override_title">VoWiFi覆盖</string>
     <string name="volte_vowifi_override_summary">当 VoWiFi 可用时隐藏 VoLTE 图标</string>
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">来电振动选项</string>
@@ -90,7 +90,7 @@
     <string name="volume_rocker_wake_title">通过音量键唤醒设备</string>
     <string name="volume_rocker_wake_summary">按下音量键唤醒设备</string>
     <!-- Lockscreen battery info indicator  -->
-    <string name="lockscreen_battery_info_title">锁屏充电信息</string>
+    <string name="lockscreen_battery_info_title">锁屏界面充电信息</string>
     <string name="lockscreen_battery_info_summary">充电时在锁屏上显示充电电流、电压、功率和电池温度</string>
     <!-- Fingerprint authentication vibration -->
     <string name="fprint_sucess_vib_title">指纹验证成功时振动</string>
@@ -130,7 +130,7 @@
     <string name="search">搜索</string>
     <string name="search_apps">搜索应用程序</string>
     <!-- Old mobile type icons -->
-    <string name="use_old_mobiletype_title">移动数据图标(小)</string>
+    <string name="use_old_mobiletype_title">小移动数据图标</string>
     <string name="use_old_mobiletype_summary">在信号图标上方显示网络类型</string>
     <!-- Power Menu -->
     <string name="power_menu_title">电源菜单</string>
@@ -330,7 +330,7 @@
     <string name="gaming_mode_title">游戏空间</string>
     <string name="gaming_mode_summary">沉浸式游戏体验的额外功能</string>
     <!-- Qs Column Settings -->
-    <string name="qs_columns_portrait_title">磁贴列数 (横屏)</string>
+    <string name="qs_columns_portrait_title">肖像中的 Qs 列</string>
     <string name="qs_columns_landscape_title">磁铁行数</string>
     <string name="qs_tile_vertical_layout_title">快速设置垂直布局</string>
     <string name="qs_tile_vertical_layout_summary">启用-禁用瓷块垂直布局</string>
@@ -339,13 +339,13 @@
     <string name="qs_columns_category">快速设置列设置</string>
     <!-- Combined signal icons in status bar -->
     <string name="combined_status_bar_signal_icons">组合信号图标</string>
-    <string name="combined_status_bar_signal_icons_summary">在状态栏启用合并信号图标 (需要重启系统界面)</string>
+    <string name="combined_status_bar_signal_icons_summary">在状态栏中启用组合信号图标。\n需要重启 SystemUI</string>
     <!-- QS battery estimates -->
     <string name="qs_show_battery_estimate_title">电量估算</string>
     <string name="qs_show_battery_estimate_summary">在图标旁边显示估计剩余电量时间</string>
     <!-- QS Transparency -->
     <string name="qs_transparency_title">快速设置透明度</string>
-    <string name="qs_transparency_summary">选择快速设置面板的透明度(需要重启SystemUI)</string>
+    <string name="qs_transparency_summary">选择您想要快速设置面板的透明度。\n需要重启系统 UI</string>
     <!-- Heads up options -->
     <string name="less_boring_heads_up_title">减少浮动通知弹出的频率</string>
     <string name="less_boring_heads_up_summary">只显示电话和短信的后台浮动通知</string>
