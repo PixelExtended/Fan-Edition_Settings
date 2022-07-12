@@ -117,17 +117,17 @@
     <string name="qs_brightness_slider_position_bottom">Dưới cùng</string>
     <!-- Quick Settings brightness icon -->
     <string name="qs_show_auto_brightness_title">Biểu tượng độ sáng tự động</string>
-    <string name="qs_show_auto_brightness_summary">Show toggle for adaptive brightness near the slider</string>
+    <string name="qs_show_auto_brightness_summary">Hiển thị bật/tắt độ sáng thích nghi gần thanh trượt</string>
     <!-- Brightness control -->
-    <string name="status_bar_toggle_brightness">Brightness control</string>
-    <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
-    <string name="gestures_title">Nav Bar Gesture Customisations</string>
-    <string name="gestures_summary">Take Your Pill</string>
+    <string name="status_bar_toggle_brightness">Điều chỉnh độ sáng</string>
+    <string name="status_bar_toggle_brightness_summary">Điều chỉnh độ sáng bằng cách trượt qua thanh trạng thái</string>
+    <string name="gestures_title">Tùy Chỉnh Cử Chỉ Thanh Điều Hướng</string>
+    <string name="gestures_summary">Uống Thuốc Của Bạn</string>
     <!-- Media art -->
-    <string name="lockscreen_media_category">Lock screen media</string>
-    <string name="media_art_title">Media cover art</string>
-    <string name="media_art_summary">Enable media cover art on the lockscreen</string>
-    <string name="search">Search</string>
+    <string name="lockscreen_media_category">Phương tiện màn hình khóa</string>
+    <string name="media_art_title">Ảnh bìa phương tiện</string>
+    <string name="media_art_summary">Bật ảnh bìa đa phương tiện trên màn hình khóa</string>
+    <string name="search">Tìm kiếm</string>
     <string name="search_apps">Search apps</string>
     <!-- Old mobile type icons -->
     <string name="use_old_mobiletype_title">Small mobile type icon</string>
