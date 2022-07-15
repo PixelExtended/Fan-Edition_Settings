@@ -17,7 +17,7 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General app strings -->
-    <string name="extensions_title">SnowHouse</string>
+    <string name="extensions_title">Ngôi Nhà Tuyết</string>
     <string name="add">Thêm</string>
     <string name="advanced">Nâng cao</string>
     <string name="cancel">Hủy</string>
@@ -137,44 +137,44 @@
     <string name="power_menu_title_summary">Xem hoặc thay đổi các mục trình đơn nguồn</string>
     <string name="powermenu_screenshot">Chụp ảnh màn hình</string>
     <string name="powermenu_power">Nguồn</string>
-    <string name="powermenu_advanced">Advanced reboot options</string>
-    <string name="powermenu_restart">Restart</string>
-    <string name="powermenu_airplane">Airplane</string>
-    <string name="powermenu_settings">Settings</string>
-    <string name="powermenu_lockdown">Lock Down</string>
-    <string name="powermenu_soundpanel">Sound Panel</string>
-    <string name="powermenu_users">Users</string>
-    <string name="powermenu_logout">Logout</string>
-    <string name="powermenu_emergency">Emergency</string>
+    <string name="powermenu_advanced">Tùy chọn khởi động lại nâng cao</string>
+    <string name="powermenu_restart">Khởi động lại</string>
+    <string name="powermenu_airplane">Máy bay</string>
+    <string name="powermenu_settings">Cài đặt</string>
+    <string name="powermenu_lockdown">Khoá Lại</string>
+    <string name="powermenu_soundpanel">Bảng Âm Thanh</string>
+    <string name="powermenu_users">Người dùng</string>
+    <string name="powermenu_logout">Đăng xuất</string>
+    <string name="powermenu_emergency">Khẩn cấp</string>
     <!-- Fingerprint Ripple Effect -->
-    <string name="enable_fingerprint_ripple_effect_title">Ripple effect</string>
-    <string name="enable_fingerprint_ripple_effect_summary">Show ripple effect on unlock with fingerprint</string>
+    <string name="enable_fingerprint_ripple_effect_title">Hiệu ứng gợn sóng</string>
+    <string name="enable_fingerprint_ripple_effect_summary">Hiển thị hiệu ứng gợn sóng khi mở khóa bằng vân tay</string>
     <!-- Location Privacy Indicator -->
-    <string name="location_privacy_title"> Show Location Privacy Indicator</string>
-    <string name="location_privacy_summary">Enable - Disable location privacy indicator in qs and sb</string>
+    <string name="location_privacy_title"> Hiển Thị Chỉ Báo Bảo Mật Vị Trí</string>
+    <string name="location_privacy_summary">Bật - Tắt chỉ báo bảo mật vị trí trong cài đặt nhanh và thanh trạng thái</string>
     <!-- Network Traffic -->
-    <string name="traffic_title">Traffic indicators</string>
-    <string name="traffic_summary">Customize the traffic indicators</string>
-    <string name="network_traffic_autohide_threshold_title">Auto-hide threshold</string>
-    <string name="network_traffic_location_title">Location</string>
-    <string name="network_traffic_disabled">Disabled</string>
-    <string name="network_traffic_statusbar">Status bar</string>
-    <string name="network_traffic_qs_header">QS header</string>
-    <string name="network_traffic_refresh_interval_title">Refresh interval</string>
-    <string name="network_traffic_mode_title">Display mode</string>
-    <string name="network_traffic_dynamic">Dynamic</string>
-    <string name="network_traffic_download">Download</string>
-    <string name="network_traffic_upload">Upload</string>
+    <string name="traffic_title">Chỉ báo lưu lượng dữ liệu</string>
+    <string name="traffic_summary">Tùy chỉnh các chỉ báo lưu lượng dữ liệu</string>
+    <string name="network_traffic_autohide_threshold_title">Ngưỡng tự động ẩn</string>
+    <string name="network_traffic_location_title">Vị trí</string>
+    <string name="network_traffic_disabled">Vô hiệu hoá</string>
+    <string name="network_traffic_statusbar">Thanh trạng thái</string>
+    <string name="network_traffic_qs_header">Tiêu đề cài đặt nhanh</string>
+    <string name="network_traffic_refresh_interval_title">Khoảng thời gian làm mới</string>
+    <string name="network_traffic_mode_title">Chế độ hiển thị</string>
+    <string name="network_traffic_dynamic">Động</string>
+    <string name="network_traffic_download">Tải xuống</string>
+    <string name="network_traffic_upload">Tải lên</string>
     <!-- Status bar - Clock -->
-    <string name="status_bar_clock_title">Clock &amp; date</string>
-    <string name="status_bar_clock_summary">Customize clock &amp; date</string>
-    <string name="status_bar_clock_seconds_title">Clock seconds</string>
-    <string name="status_bar_clock_seconds_summary">Display seconds next to clock in status bar</string>
-    <string name="status_bar_clock_position_title">Clock style</string>
-    <string name="status_bar_clock_position_right">Right</string>
-    <string name="status_bar_clock_position_left">Left</string>
-    <string name="status_bar_clock_position_center">Center</string>
-    <string name="status_bar_clock_position_hidden">Hidden</string>
+    <string name="status_bar_clock_title">Đồng hồ &amp; ngày</string>
+    <string name="status_bar_clock_summary">Tùy chỉnh đồng hồ &amp; ngày</string>
+    <string name="status_bar_clock_seconds_title">Đồng hồ giây</string>
+    <string name="status_bar_clock_seconds_summary">Hiển thị giây bên cạnh đồng hồ trên thanh trạng thái</string>
+    <string name="status_bar_clock_position_title">Kiểu đồng hồ</string>
+    <string name="status_bar_clock_position_right">Bên phải</string>
+    <string name="status_bar_clock_position_left">Bên trái</string>
+    <string name="status_bar_clock_position_center">Ở giữa</string>
+    <string name="status_bar_clock_position_hidden">Ẩn</string>
     <string name="status_bar_clock_auto_hide_title">Tự động ẩn</string>
     <string name="status_bar_clock_auto_hide_launcher_summary">Ẩn đồng hồ nếu trình khởi chạy hiển thị</string>
     <string name="status_bar_clock_auto_hide_summary">Ẩn đồng hồ ở khoảng thời gian đều đặn</string>
@@ -232,70 +232,70 @@
     <string name="udfps_settings_summary">Định Cấu Hình Udfps Của Bạn</string>
     <!-- Custom FOD Icon -->
     <string name="custom_fp_icon_title">Biểu Tượng UDFPS Tùy Biến</string>
-    <string name="custom_fp_icon_summary">Enable custom UDFPS Icon from files</string>
-    <string name="custom_fp_select_title">Select Custom UDFPS Icon</string>
-    <string name="custom_fp_select_summary">Select custom image from your saved files or gallery</string>
+    <string name="custom_fp_icon_summary">Bật Biểu tượng UDFPS tùy chỉnh từ tệp</string>
+    <string name="custom_fp_select_title">Chọn Biểu Tượng UDFPS Tùy Chỉnh</string>
+    <string name="custom_fp_select_summary">Chọn hình ảnh tùy chỉnh từ các tệp hoặc thư viện đã lưu của bạn</string>
     <!-- Screen off FOD -->
-    <string name="screen_off_fod_title">Screen off FOD</string>
-    <string name="screen_off_fod_summary">Keep FOD enabled when the screen is off</string>
+    <string name="screen_off_fod_title">Màn hình tắt vân tay trên màn hình</string>
+    <string name="screen_off_fod_summary">Luôn bật vân tay trên màn hình khi màn hình tắt</string>
     <!-- UI settings -->
-    <string name="monet_title">Monet settings</string>
-    <string name="monet_summary">Customize Monet theme engine</string>
+    <string name="monet_title">Cài đặt Monet</string>
+    <string name="monet_summary">Tùy chỉnh công cụ chủ đề Monet</string>
     <!-- Monet Engine -->
-    <string name="monet_category">Monet Engine</string>
-    <string name="monet_engine_custom_color_title">Use custom color</string>
-    <string name="monet_engine_custom_color_summary">Use custom color for monet engine instead of wallpaper colors</string>
-    <string name="monet_engine_color_override_title">Custom color</string>
-    <string name="monet_engine_white_luminance_user_title">White luminance</string>
-    <string name="monet_engine_accurate_shades_title">Use accurate shades</string>
-    <string name="monet_engine_chroma_factor_title">Chroma factor</string>
-    <string name="monet_engine_linear_lightness_title">Use linear lightness</string>
+    <string name="monet_category">Công cụ Monet</string>
+    <string name="monet_engine_custom_color_title">Sử dụng màu tùy chỉnh</string>
+    <string name="monet_engine_custom_color_summary">Sử dụng màu tùy chỉnh cho công cụ monet thay vì màu nền</string>
+    <string name="monet_engine_color_override_title">Tùy chỉnh màu</string>
+    <string name="monet_engine_white_luminance_user_title">Độ sáng trắng</string>
+    <string name="monet_engine_accurate_shades_title">Sử dụng các sắc thái chính xác</string>
+    <string name="monet_engine_chroma_factor_title">Yếu tố sắc tố</string>
+    <string name="monet_engine_linear_lightness_title">Sử dụng độ đậm nhạt tuyến tính</string>
     <!-- Custom styles -->
-    <string name="styles_category">Styles</string>
-    <string name="theme_customization_font_title">Font style</string>
-    <string name="theme_customization_font_summary">Set system font style</string>
+    <string name="styles_category">Kiểu dáng</string>
+    <string name="theme_customization_font_title">Kiểu phông chữ</string>
+    <string name="theme_customization_font_summary">Đặt kiểu phông chữ hệ thống</string>
     <!-- Lockscreen Clock -->
-    <string name="lockscreen_small_clock_title">Small clock</string>
-    <string name="lockscreen_small_clock_summary">Force small clock on lockscreen even if notifications are absent</string>
+    <string name="lockscreen_small_clock_title">Đồng hồ nhỏ</string>
+    <string name="lockscreen_small_clock_summary">Buộc đồng hồ nhỏ trên màn hình khóa ngay cả khi không có thông báo</string>
     <!-- Power menu on secure lockscreen -->
-    <string name="lockscreen_enable_power_menu_title">Power menu</string>
-    <string name="lockscreen_enable_power_menu_summary">Allow accessing power menu on secure lockscreen</string>
+    <string name="lockscreen_enable_power_menu_title">Trình đơn nguồn</string>
+    <string name="lockscreen_enable_power_menu_summary">Cho phép truy cập trình đơn nguồn trên màn hình khóa an toàn</string>
     <!-- Black theme -->
-    <string name="system_black_theme_title">Use black theme</string>
-    <string name="system_black_theme_summary">Force black background colors</string>
+    <string name="system_black_theme_title">Sử dụng chủ đề tối</string>
+    <string name="system_black_theme_summary">Buộc màu nền tối</string>
     <!-- Home key customization -->
-    <string name="home_answer_call_title">Answer call</string>
-    <string name="home_answer_call_summary">Answer incoming calls by pressing the home button</string>
+    <string name="home_answer_call_title">Trả lời cuộc gọi</string>
+    <string name="home_answer_call_summary">Trả lời cuộc gọi đến bằng cách nhấn nút trang chủ</string>
     <!-- Power menu key customization -->
-    <string name="power_end_call_title">End call</string>
-    <string name="power_end_call_summary">End the current call by pressing the power button</string>
-    <string name="torch_long_press_power_gesture_title">Long press for torch</string>
-    <string name="torch_long_press_power_gesture_desc">Activate the torch by long pressing the power button while the display is off</string>
-    <string name="torch_long_press_power_timeout_title">Automatically turn torch off</string>
-    <string name="torch_long_press_power_timeout_never">Never</string>
-    <string name="torch_long_press_power_timeout_1min">1 minute</string>
-    <string name="torch_long_press_power_timeout_2min">2 minutes</string>
-    <string name="torch_long_press_power_timeout_5min">5 minutes</string>
-    <string name="torch_long_press_power_timeout_10min">10 minutes</string>
+    <string name="power_end_call_title">Kết thúc cuộc gọi</string>
+    <string name="power_end_call_summary">Kết thúc cuộc gọi hiện tại bằng cách nhấn nút nguồn</string>
+    <string name="torch_long_press_power_gesture_title">Nhấn giữ để bật đèn pin</string>
+    <string name="torch_long_press_power_gesture_desc">Kích hoạt đèn pin bằng cách nhấn và giữ nút nguồn khi màn hình tắt</string>
+    <string name="torch_long_press_power_timeout_title">Tự động tắt đèn pin</string>
+    <string name="torch_long_press_power_timeout_never">Không bao giờ</string>
+    <string name="torch_long_press_power_timeout_1min">1 phút</string>
+    <string name="torch_long_press_power_timeout_2min">2 phút</string>
+    <string name="torch_long_press_power_timeout_5min">5 phút</string>
+    <string name="torch_long_press_power_timeout_10min">10 phút</string>
     <!-- Buttons -->
-    <string name="button_pref_title">Buttons</string>
-    <string name="hardware_keys_home_key_title">Home button</string>
+    <string name="button_pref_title">Nút</string>
+    <string name="hardware_keys_home_key_title">Nút trang chủ</string>
     <!-- Volume keys customization -->
-    <string name="volume_answer_call_title">Answer call</string>
-    <string name="volume_answer_call_summary">Answer incoming calls by pressing the volume buttons</string>
+    <string name="volume_answer_call_title">Trả lời cuộc gọi</string>
+    <string name="volume_answer_call_summary">Trả lời cuộc gọi đến bằng cách nhấn nút âm lượng</string>
     <!-- Pocket judge -->
-    <string name="pocket_judge_title">Pocket detection</string>
-    <string name="pocket_judge_summary">Block screen and button inputs when device is in pocket</string>
+    <string name="pocket_judge_title">Phát hiện khi ở trong túi</string>
+    <string name="pocket_judge_summary">Chặn bật màn hình và các nút bấm khi thiết bị ở trong túi</string>
     <!-- Lockscreen album art filter -->
-    <string name="lockscreen_albumart_filter_title">Media cover art filter</string>
-    <string name="lockscreen_albumart_filter_none">None</string>
-    <string name="lockscreen_albumart_filter_grayscale">Grayscale</string>
-    <string name="lockscreen_albumart_filter_tint">Accent tinted</string>
-    <string name="lockscreen_albumart_filter_blur">Blur</string>
-    <string name="lockscreen_albumart_filter_grayblur">Grayscale and blurred</string>
+    <string name="lockscreen_albumart_filter_title">Bộ lọc ảnh bìa phương tiện</string>
+    <string name="lockscreen_albumart_filter_none">Không có</string>
+    <string name="lockscreen_albumart_filter_grayscale">Thang độ xám</string>
+    <string name="lockscreen_albumart_filter_tint">Màu nhấn</string>
+    <string name="lockscreen_albumart_filter_blur">Mờ</string>
+    <string name="lockscreen_albumart_filter_grayblur">Thang độ xám và mờ</string>
     <!-- Pulse music visualizer -->
-    <string name="pulse_help_policy_notice_title">About Pulse</string>
-    <string name="pulse_help_policy_notice_summary">Pulse is a brilliant audio graphic equalizer when music plays on the device</string>
+    <string name="pulse_help_policy_notice_title">Về Sóng Nhạc</string>
+    <string name="pulse_help_policy_notice_summary">Sóng nhạc là một bộ cân bằng đồ họa âm thanh tuyệt vời khi nhạc phát trên thiết bị</string>
     <string name="pulse_settings">Sóng nhạc</string>
     <string name="pulse_settings_summary">Bộ cân bằng đồ họa âm thanh cho thanh điều hướng và màn hình khóa</string>
     <string name="show_navbar_pulse_title">Thanh Điều Hướng Sóng Nhạc</string>
