@@ -338,18 +338,18 @@
     <string name="qs_tile_title_visibility_summary">Activer pour masquer les titres des tuiles QS</string>
     <string name="qs_columns_category">Paramètres de la colonne QS</string>
     <!-- Combined signal icons in status bar -->
-    <string name="combined_status_bar_signal_icons">Combined signal icons</string>
-    <string name="combined_status_bar_signal_icons_summary">Enable combined signal icons in status bar.\nRequires a SystemUI restart</string>
+    <string name="combined_status_bar_signal_icons">Icône combinée des signaux</string>
+    <string name="combined_status_bar_signal_icons_summary">Activer les icônes de signal combinées dans la barre d\'état.\nNécessite un redémarrage de l\'interface utilisateur</string>
     <!-- QS battery estimates -->
-    <string name="qs_show_battery_estimate_title">Battery estimates</string>
-    <string name="qs_show_battery_estimate_summary">Show estimated remaining battery life next to the icon</string>
+    <string name="qs_show_battery_estimate_title">Autonomie estimée</string>
+    <string name="qs_show_battery_estimate_summary">Afficher la durée de vie restante estimée de la batterie à côté de l\'icône</string>
     <!-- QS Transparency -->
-    <string name="qs_transparency_title">QS Transparency</string>
-    <string name="qs_transparency_summary">Choose how transparent you want your QS Panel to be.\nRequires a SystemUI restart</string>
+    <string name="qs_transparency_title">Transparence des réglages rapides</string>
+    <string name="qs_transparency_summary">Choisissez à quel point vous voulez que votre panneau QS soit transparent.\nNécessite un redémarrage de l\'interface utilisateur</string>
     <!-- Heads up options -->
-    <string name="less_boring_heads_up_title">Make heads up less annoying</string>
-    <string name="less_boring_heads_up_summary">Show heads up only for dialer or messaging app if they are not in foreground</string>
+    <string name="less_boring_heads_up_title">Rendre les notifications flottantes moins dérangeantes</string>
+    <string name="less_boring_heads_up_summary">Afficher les notifications flottantes uniquement pour les applis de messagerie si elle ne sont au premier plan</string>
     <!-- Statusbar colored icons -->
-    <string name="statusbar_colored_icons_title">Colored icons</string>
-    <string name="statusbar_colored_icons_summary">Use proper app icons for notification icons in statusbar</string>
+    <string name="statusbar_colored_icons_title">Icônes colorées</string>
+    <string name="statusbar_colored_icons_summary">Utiliser les icônes des applications comme icônes de notification dans la barre d\'état</string>
 </resources>
