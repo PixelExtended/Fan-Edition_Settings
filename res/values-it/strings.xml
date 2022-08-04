@@ -235,9 +235,6 @@
     <string name="custom_fp_icon_summary">Abilita l\'icona UDFPS personalizzata da file</string>
     <string name="custom_fp_select_title">Selezionare l\'icona UDFPS personalizzata</string>
     <string name="custom_fp_select_summary">Selezionare un\'immagine personalizzata dai file salvati o dalla galleria - NON usare Google Foto</string>
-    <!-- Screen off FOD -->
-    <string name="screen_off_fod_title">UDFPS a schermo spento</string>
-    <string name="screen_off_fod_summary">Mantieni UDFPS abilitato quando lo schermo è spento</string>
     <!-- UI settings -->
     <string name="monet_title">Impostazioni Monet</string>
     <string name="monet_summary">Personalizzare il motore del tema Monet</string>
