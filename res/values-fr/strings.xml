@@ -235,9 +235,6 @@
     <string name="custom_fp_icon_summary">Activer l\'icône UDFPS personnalisée à partir des fichiers</string>
     <string name="custom_fp_select_title">Sélectionnez l\'icône UDFPS personnalisée</string>
     <string name="custom_fp_select_summary">Sélectionnez une image personnalisée à partir de vos fichiers enregistrés ou de votre galerie</string>
-    <!-- Screen off FOD -->
-    <string name="screen_off_fod_title">Screen off FOD</string>
-    <string name="screen_off_fod_summary">Keep FOD enabled when the screen is off</string>
     <!-- UI settings -->
     <string name="monet_title">Paramètres Monet</string>
     <string name="monet_summary">Personnaliser le thème Monet</string>
