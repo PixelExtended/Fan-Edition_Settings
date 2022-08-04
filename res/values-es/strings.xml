@@ -235,9 +235,6 @@
     <string name="custom_fp_icon_summary">Habilita icono de huella personalizado desde archivos</string>
     <string name="custom_fp_select_title">Selecciona icono de huella personalizado</string>
     <string name="custom_fp_select_summary">Selecciona icono de huella desde archivos o galería</string>
-    <!-- Screen off FOD -->
-    <string name="screen_off_fod_title">Huella con pantalla apagada</string>
-    <string name="screen_off_fod_summary">Mantiene desbloqueo por huella con pantalla apagada</string>
     <!-- UI settings -->
     <string name="monet_title">Ajustes Monet</string>
     <string name="monet_summary">Personaliza temas de Monet</string>
