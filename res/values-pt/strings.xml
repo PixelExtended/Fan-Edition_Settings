@@ -235,9 +235,6 @@
     <string name="custom_fp_icon_summary">Usar ícone de impressão digital personalizado através de um arquivo</string>
     <string name="custom_fp_select_title">Selecionar ícone de impressão digital personalizado</string>
     <string name="custom_fp_select_summary">Selecionar uma imagem personalizada dos seus arquivos salvos ou galeria</string>
-    <!-- Screen off FOD -->
-    <string name="screen_off_fod_title">Impressão digital com a tela apagada</string>
-    <string name="screen_off_fod_summary">Permitir o desbloqueio por impressão digital quando a tela estiver apagada</string>
     <!-- UI settings -->
     <string name="monet_title">Configurações do tema Monet</string>
     <string name="monet_summary">Personalize os parâmetros do tema Monet</string>
