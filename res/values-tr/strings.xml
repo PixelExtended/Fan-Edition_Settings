@@ -235,9 +235,6 @@
     <string name="custom_fp_icon_summary">Dosyalardan özel UDFPS simgesini etkinleştir</string>
     <string name="custom_fp_select_title">Özel UDFPS simgesi seç</string>
     <string name="custom_fp_select_summary">Özel simgeyi kayıtlı dosyalarınızdan veya galeriden seçin</string>
-    <!-- Screen off FOD -->
-    <string name="screen_off_fod_title">Ekran kapalı FOD</string>
-    <string name="screen_off_fod_summary">Ekran kapalıyken FOD\'u etkin tutun</string>
     <!-- UI settings -->
     <string name="monet_title">Monet ayarları</string>
     <string name="monet_summary">Monet temalarını özelleştirin</string>
