@@ -235,9 +235,6 @@
     <string name="custom_fp_icon_summary">从文件启用自定义屏幕指纹图标</string>
     <string name="custom_fp_select_title">选择自定义屏幕指纹图标</string>
     <string name="custom_fp_select_summary">从您保存的文件或图库中选择自定义图像</string>
-    <!-- Screen off FOD -->
-    <string name="screen_off_fod_title">息屏指纹</string>
-    <string name="screen_off_fod_summary">当屏幕关闭时保持屏幕指纹开启</string>
     <!-- UI settings -->
     <string name="monet_title">蒙板设置</string>
     <string name="monet_summary">自定义蒙版主题引擎</string>
