@@ -235,9 +235,6 @@
     <string name="custom_fp_icon_summary">Bật Biểu tượng UDFPS tùy chỉnh từ tệp</string>
     <string name="custom_fp_select_title">Chọn Biểu Tượng UDFPS Tùy Chỉnh</string>
     <string name="custom_fp_select_summary">Chọn hình ảnh tùy chỉnh từ các tệp hoặc thư viện đã lưu của bạn</string>
-    <!-- Screen off FOD -->
-    <string name="screen_off_fod_title">Màn hình tắt vân tay trên màn hình</string>
-    <string name="screen_off_fod_summary">Luôn bật vân tay trên màn hình khi màn hình tắt</string>
     <!-- UI settings -->
     <string name="monet_title">Cài đặt Monet</string>
     <string name="monet_summary">Tùy chỉnh công cụ chủ đề Monet</string>
