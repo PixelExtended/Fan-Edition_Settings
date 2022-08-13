@@ -350,7 +350,7 @@
     <string name="statusbar_colored_icons_title">Biểu tượng màu</string>
     <string name="statusbar_colored_icons_summary">Sử dụng các biểu tượng ứng dụng thích hợp cho các biểu tượng thông báo trên thanh trạng thái</string>
     <!-- Preference and settings suggestion title text for screen off UDFPS  (device) [CHAR LIMIT=60]-->
-    <string name="ambient_display_screen_off_udfps_title">Long press on fingerprint sensor to unlock device</string>
+    <string name="ambient_display_screen_off_udfps_title">Nhấn và giữ cảm biến vân tay để mở khóa thiết bị</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">To wake up your screen and unlock, long press your under-display fingerprint sensor.</string>
+    <string name="ambient_display_screen_off_udfps_summary">Để đánh thức màn hình và mở khóa, hãy nhấn và giữ cảm biến vân tay dưới màn hình của bạn.</string>
 </resources>
