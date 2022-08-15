@@ -18,62 +18,62 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General app strings -->
     <string name="extensions_title">SnowHouse</string>
-    <string name="add">Add</string>
-    <string name="advanced">Advanced</string>
-    <string name="cancel">Cancel</string>
-    <string name="default_text">Default</string>
+    <string name="add">追加</string>
+    <string name="advanced">高度な設定</string>
+    <string name="cancel">中止</string>
+    <string name="default_text">既定</string>
     <string name="dlg_ok">OK</string>
-    <string name="attention">Attention</string>
-    <string name="loading">Loading\u2026</string>
-    <string name="reset">Reset</string>
-    <string name="reset_colors">Reset colors</string>
+    <string name="attention">注意</string>
+    <string name="loading">読み込み中\u2026</string>
+    <string name="reset">リセット</string>
+    <string name="reset_colors">色のリセット</string>
     <string name="reset_android">Android</string>
-    <string name="text_title">Text</string>
-    <string name="icon_title">Icon</string>
-    <string name="color_title">Color</string>
-    <string name="colors_title">Colors</string>
-    <string name="misc_title">Miscellaneous</string>
+    <string name="text_title">文字</string>
+    <string name="icon_title">アイコン</string>
+    <string name="color_title">色</string>
+    <string name="colors_title">色</string>
+    <string name="misc_title">その他</string>
     <!-- Extensions categories -->
-    <string name="status_bar_category">Statusbar</string>
-    <string name="system_category">System</string>
-    <string name="lockscreen_category">Lockscreen</string>
-    <string name="hardware_category">Hardware</string>
-    <string name="build_tweaks_summary_title">Things are really cold here!</string>
-    <string name="listview">ListView</string>
-    <string name="misc_category">Misc Settings</string>
-    <string name="fingerprint_category">FP Sensor</string>
-    <string name="qs_category">Quick Settings</string>
-    <string name="power_key">Power Button</string>
-    <string name="volume_keys">Volume Buttons</string>
-    <string name="lockscreen_gestures_category">LockScreen Gesture</string>
-    <string name="battery_settings_title">Battery Settings</string>
-    <string name="gestures_category">Gestures Customizations</string>
+    <string name="status_bar_category">ステータスバー</string>
+    <string name="system_category">システム</string>
+    <string name="lockscreen_category">ロック画面</string>
+    <string name="hardware_category">ハードウェア</string>
+    <string name="build_tweaks_summary_title">ここはキンキンに冷えています!</string>
+    <string name="listview">リストビュー</string>
+    <string name="misc_category">その他の設定</string>
+    <string name="fingerprint_category">指紋センサー</string>
+    <string name="qs_category">クイック設定</string>
+    <string name="power_key">電源ボタン</string>
+    <string name="volume_keys">音量ボタン</string>
+    <string name="lockscreen_gestures_category">ロック画面のジェスチャー</string>
+    <string name="battery_settings_title">バッテリー設定</string>
+    <string name="gestures_category">ジェスチャーの編集</string>
     <!-- App info dialog -->
-    <string name="extensions_dialog_title">Help us help you!</string>
-    <string name="extensions_dialog_message">If you find a bug with any of these settings, report it in our Telegram Group. You MUST include the following when posting a bug report:\n\n1. A logcat or last_kmsg\n2. Kernel and mods used\n3. Useful information\n\nIf you fail to report something adequately, DO NOT expect things to be fixed.</string>
-    <string name="extensions_dialog_toast">READ THE WHOLE THING!</string>
-    <string name="artwork_media_fade_level_summary">Fading the media artwork image</string>
+    <string name="extensions_dialog_title">お互いに協力しあいましょう!</string>
+    <string name="extensions_dialog_message">もし設定の中でバグを発見したら私たちの Telegram グループに投稿して下さい。その際は以下の情報が必須です: \n\n1. logcat または last_kmsg\n2. 使用中のカーネルと MOD\n3. 参考となる情報\n\nもしあなたが適切な報告をしなかった場合、バグ修正を期待してはいけません。</string>
+    <string name="extensions_dialog_toast">全部読んで下さい!</string>
+    <string name="artwork_media_fade_level_summary">メディアアートワーク画像をフェードさせる</string>
     <!-- QuickSettings haptic feedback -->
-    <string name="quick_settings_vibrate_title">Vibrate on touch</string>
-    <string name="quick_settings_vibrate_summary">Vibrate when touching QS tiles</string>
+    <string name="quick_settings_vibrate_title">タッチで振動</string>
+    <string name="quick_settings_vibrate_summary">タイルに触れた時に振動させる</string>
     <!-- 4G icon -->
-    <string name="show_fourg_icon_title">4G icon</string>
-    <string name="show_fourg_icon_summary">Display 4G icon in signal icon instead LTE</string>
+    <string name="show_fourg_icon_title">4G アイコン</string>
+    <string name="show_fourg_icon_summary">LTE の代わりに 4G アイコンを表示する</string>
     <!-- VoLTE icon -->
-    <string name="volte_icon_title">VoLTE icon</string>
-    <string name="volte_icon_summary">Display VoLTE icon when available</string>
+    <string name="volte_icon_title">VoLTE アイコン</string>
+    <string name="volte_icon_summary">利用可能な場合は VoLTE アイコンを表示する</string>
     <!-- VoWiFi icon -->
-    <string name="vowifi_icon_title">VoWiFi icon</string>
-    <string name="vowifi_icon_summary">Display VoWiFi icon when available</string>
-    <string name="volte_vowifi_override_title">VoWiFi override</string>
-    <string name="volte_vowifi_override_summary">Hide VoLTE when VoWiFi is available</string>
+    <string name="vowifi_icon_title">VoWiFi アイコン</string>
+    <string name="vowifi_icon_summary">利用可能な場合は VoWiFi アイコンを表示する</string>
+    <string name="volte_vowifi_override_title">VoWiFi の上書き</string>
+    <string name="volte_vowifi_override_summary">VoWiFi が利用可能な場合は VoLTE を非表示にする</string>
     <!-- Incall vibrate options -->
-    <string name="incall_vibration_category">In-call vibration options</string>
-    <string name="incall_vibrate_connect_title">Vibrate on connect</string>
-    <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-    <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
+    <string name="incall_vibration_category">通話中の振動オプション</string>
+    <string name="incall_vibrate_connect_title">接続時に振動</string>
+    <string name="incall_vibrate_call_wait_title">割込通話時に振動</string>
+    <string name="incall_vibrate_disconnect_title">切断時に振動</string>
     <!-- Statusbar Tuner -->
-    <string name="statusbar_items_title">Statusbar items</string>
+    <string name="statusbar_items_title">ステータスバーのアイコン</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">Tap to sleep</string>
     <string name="double_tap_sleep_gesture_summary">Double-tap anywhere on the status bar to put the device to sleep</string>
