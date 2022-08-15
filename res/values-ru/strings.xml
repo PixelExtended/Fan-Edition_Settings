@@ -49,9 +49,9 @@
     <string name="battery_settings_title">Настройки батареи</string>
     <string name="gestures_category">Настройки жестов</string>
     <!-- App info dialog -->
-    <string name="extensions_dialog_title">Help us help you!</string>
+    <string name="extensions_dialog_title">Позвольте нам помочь вам!</string>
     <string name="extensions_dialog_message">If you find a bug with any of these settings, report it in our Telegram Group. You MUST include the following when posting a bug report:\n\n1. A logcat or last_kmsg\n2. Kernel and mods used\n3. Useful information\n\nIf you fail to report something adequately, DO NOT expect things to be fixed.</string>
-    <string name="extensions_dialog_toast">READ THE WHOLE THING!</string>
+    <string name="extensions_dialog_toast">ПРОЧИТАЙТЕ ЭТО!</string>
     <string name="artwork_media_fade_level_summary">Fading the media artwork image</string>
     <!-- QuickSettings haptic feedback -->
     <string name="quick_settings_vibrate_title">Вибрация при касании</string>
@@ -61,10 +61,10 @@
     <string name="show_fourg_icon_summary">Показывать иконку 4G вместо LTE</string>
     <!-- VoLTE icon -->
     <string name="volte_icon_title">Значок VoLTE</string>
-    <string name="volte_icon_summary">Display VoLTE icon when available</string>
+    <string name="volte_icon_summary">Показывать иконку VoLTE, когда это возможно</string>
     <!-- VoWiFi icon -->
     <string name="vowifi_icon_title">Значок VoWiFi</string>
-    <string name="vowifi_icon_summary">Display VoWiFi icon when available</string>
+    <string name="vowifi_icon_summary">Показывать иконку VoWiFi, когда это возможно</string>
     <string name="volte_vowifi_override_title">VoWiFi override</string>
     <string name="volte_vowifi_override_summary">Hide VoLTE when VoWiFi is available</string>
     <!-- Incall vibrate options -->
@@ -90,7 +90,7 @@
     <string name="volume_rocker_wake_title">Volume rocker wake</string>
     <string name="volume_rocker_wake_summary">Pressing the volume keys will wake your device</string>
     <!-- Lockscreen battery info indicator  -->
-    <string name="lockscreen_battery_info_title">Lockscreen charging info</string>
+    <string name="lockscreen_battery_info_title">Информация о зарядке на экране блокировки</string>
     <string name="lockscreen_battery_info_summary">Show charging current, voltage, wattage and battery temperature on lockscreen while charging</string>
     <!-- Fingerprint authentication vibration -->
     <string name="fprint_sucess_vib_title">Fingerprint success vibration</string>
@@ -98,7 +98,7 @@
     <string name="fprint_error_vib_title">Fingerprint error vibration</string>
     <string name="fprint_error_vib_summary">Vibrate on failed fingerprint authentication</string>
     <!-- Wake on plug -->
-    <string name="wake_when_plugged_or_unplugged_title">Wake on plug</string>
+    <string name="wake_when_plugged_or_unplugged_title">Включение экрана при подключении зарядки</string>
     <string name="wake_when_plugged_or_unplugged_summary">Turn the screen on when connecting or disconnecting a power source</string>
     <!-- Quick QS pulldown -->
     <string name="status_bar_quick_qs_pulldown">Quick QS pulldown</string>
