@@ -38,7 +38,7 @@
     <string name="system_category">システム</string>
     <string name="lockscreen_category">ロック画面</string>
     <string name="hardware_category">ハードウェア</string>
-    <string name="build_tweaks_summary_title">ここはキンキンに冷えています!</string>
+    <string name="build_tweaks_summary_title">ここでは全てがキンキンに凍りつきます!</string>
     <string name="listview">リストビュー</string>
     <string name="misc_category">その他の設定</string>
     <string name="fingerprint_category">指紋センサー</string>
@@ -122,7 +122,7 @@
     <string name="status_bar_toggle_brightness">明るさコントロール</string>
     <string name="status_bar_toggle_brightness_summary">ステータスバー上をスライドして明るさを調整する</string>
     <string name="gestures_title">ナビゲーションバージェスチャー</string>
-    <string name="gestures_summary">Take Your Pill</string>
+    <string name="gestures_summary">ピルを手に取りましょう</string>
     <!-- Media art -->
     <string name="lockscreen_media_category">ロック画面のメディアアート</string>
     <string name="media_art_title">メディアカバーアート</string>
@@ -267,8 +267,8 @@
     <string name="power_end_call_title">通話を終了</string>
     <string name="power_end_call_summary">電源ボタンを押して現在の通話を終了する</string>
     <string name="torch_long_press_power_gesture_title">長押しでトーチ点灯</string>
-    <string name="torch_long_press_power_gesture_desc">Activate the torch by long pressing the power button while the display is off</string>
-    <string name="torch_long_press_power_timeout_title">Automatically turn torch off</string>
+    <string name="torch_long_press_power_gesture_desc">画面オフ時に電源ボタン長押しでライトを点灯する</string>
+    <string name="torch_long_press_power_timeout_title">ライトの自動消灯</string>
     <string name="torch_long_press_power_timeout_never">無期限</string>
     <string name="torch_long_press_power_timeout_1min">1分</string>
     <string name="torch_long_press_power_timeout_2min">2分</string>
@@ -342,7 +342,7 @@
     <string name="qs_show_battery_estimate_summary">アイコンの横にバッテリーの予想稼働時間を表示する</string>
     <!-- QS Transparency -->
     <string name="qs_transparency_title">クイック設定の透明度</string>
-    <string name="qs_transparency_summary">Choose how transparent you want your QS Panel to be.\nRequires a SystemUI restart</string>
+    <string name="qs_transparency_summary">クイック設定パネルをどの程度透明にするかを選択する。\nシステム UI の再起動が必要です</string>
     <!-- Heads up options -->
     <string name="less_boring_heads_up_title">迷惑な Heads Up の軽減</string>
     <string name="less_boring_heads_up_summary">ダイヤラーやメッセージングアプリがフォアグラウンドではない場合は Heads Up のみを表示する</string>
