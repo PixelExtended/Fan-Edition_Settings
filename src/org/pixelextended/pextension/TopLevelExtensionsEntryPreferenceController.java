@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.pixelextended.snowhouse;
+package org.pixelextended.pextension;
 
 import android.content.Context;
 

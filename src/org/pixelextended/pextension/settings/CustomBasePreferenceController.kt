@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.pixelextended.snowhouse.settings
+package org.pixelextended.pextension.settings
 
 import android.content.Context
 import android.util.Log

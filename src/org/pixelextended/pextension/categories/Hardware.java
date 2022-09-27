@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.pixelextended.snowhouse.categories;
+package org.pixelextended.pextension.categories;
 
 import android.content.ContentResolver;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package org.pixelextended.snowhouse.navigation;
+package org.pixelextended.pextension.navigation;
 
 import android.animation.ValueAnimator;
 import android.content.Context;
@@ -28,7 +28,7 @@ import android.widget.TextView;
 import com.android.settings.R;
 import com.android.settingslib.Utils;
 
-import org.pixelextended.snowhouse.navigation.ViewUtils;
+import org.pixelextended.pextension.navigation.ViewUtils;
 
 /**
  * BubbleToggleView

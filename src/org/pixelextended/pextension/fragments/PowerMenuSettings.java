@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2014-2016 The Dirty Unicorns Project
+ * Copyright (C) 2017 AospExtended ROM Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,55 +14,57 @@
  * limitations under the License.
  */
 
-package org.pixelextended.snowhouse.categories;
+package org.pixelextended.pextension.fragments;
 
 import android.content.Context;
 import android.content.ContentResolver;
-import android.content.res.Resources;
+import android.content.Intent;
+import android.content.pm.UserInfo;
 import android.os.Bundle;
+import android.os.UserHandle;
+import android.os.UserManager;
+import androidx.preference.ListPreference;
 import androidx.preference.Preference;
-import androidx.preference.PreferenceGroup;
-
+import androidx.preference.PreferenceCategory;
 import androidx.preference.PreferenceScreen;
 import androidx.preference.Preference.OnPreferenceChangeListener;
+import androidx.preference.SwitchPreference;
+import android.provider.Settings;
+import com.android.settings.R;
+import androidx.annotation.NonNull;
 
 import com.android.internal.logging.nano.MetricsProto;
-import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 
-public class System extends SettingsPreferenceFragment implements
-        Preference.OnPreferenceChangeListener {
+import java.util.Arrays;
+import java.util.ArrayList;
+import java.util.List;
 
-    private static final String TAG = "System";
+
+public class PowerMenuSettings extends SettingsPreferenceFragment
+                implements Preference.OnPreferenceChangeListener {
+
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        addPreferencesFromResource(R.xml.system);
+        addPreferencesFromResource(R.xml.powermenu_settings);
 
-        ContentResolver resolver = getActivity().getContentResolver();
+        final ContentResolver resolver = getActivity().getContentResolver();
+        final PreferenceScreen prefScreen = getPreferenceScreen();
 
     }
 
+    @Override
+    public boolean onPreferenceChange(Preference preference, Object newValue) {
+
+        return false;
+    }
 
     @Override
     public int getMetricsCategory() {
         return MetricsProto.MetricsEvent.CUSTOM_SETTINGS;
     }
 
-    @Override
-    public void onResume() {
-        super.onResume();
-    }
-
-    @Override
-    public void onPause() {
-        super.onPause();
-    }
-
-    public boolean onPreferenceChange(Preference preference, Object objValue) {
-        final String key = preference.getKey();
-        return true;
-    }
 }

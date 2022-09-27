@@ -14,43 +14,37 @@
  * limitations under the License.
  */
 
-package org.pixelextended.snowhouse.categories;
+package org.pixelextended.pextension.categories;
 
+import android.content.Context;
 import android.content.ContentResolver;
 import android.content.res.Resources;
 import android.os.Bundle;
 import androidx.preference.Preference;
+import androidx.preference.PreferenceGroup;
+
 import androidx.preference.PreferenceScreen;
-import androidx.preference.PreferenceCategory;
+import androidx.preference.Preference.OnPreferenceChangeListener;
 
 import com.android.internal.logging.nano.MetricsProto;
 import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 
-import com.android.internal.util.custom.fod.FodUtils;
-import com.android.internal.util.custom.CustomUtils;
-
-public class Lockscreen extends SettingsPreferenceFragment implements
+public class System extends SettingsPreferenceFragment implements
         Preference.OnPreferenceChangeListener {
-    
-    private static final String TAG = "Lockscreen";
+
+    private static final String TAG = "System";
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        addPreferencesFromResource(R.xml.lockscreen);
+        addPreferencesFromResource(R.xml.system);
 
         ContentResolver resolver = getActivity().getContentResolver();
 
-        final PreferenceScreen prefScreen = getPreferenceScreen();
-        Resources resources = getResources();
-
-        PreferenceCategory udfps = (PreferenceCategory) prefScreen.findPreference("udfps_category");
-        if (!FodUtils.hasFodSupport(getActivity())) {
-            prefScreen.removePreference(udfps);
-        }
     }
+
 
     @Override
     public int getMetricsCategory() {
@@ -71,5 +65,4 @@ public class Lockscreen extends SettingsPreferenceFragment implements
         final String key = preference.getKey();
         return true;
     }
-
 }

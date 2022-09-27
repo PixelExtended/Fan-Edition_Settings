@@ -19,7 +19,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <org.pixelextended.snowhouse.navigation.BubbleNavigationConstraintView
+    <org.pixelextended.pextension.navigation.BubbleNavigationConstraintView
         android:id="@+id/floating_top_bar_navigation"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -36,7 +36,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
-        <org.pixelextended.snowhouse.navigation.BubbleToggleView
+        <org.pixelextended.pextension.navigation.BubbleToggleView
             android:id="@+id/status_bar_category"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -47,7 +47,7 @@
             app:extensions_shape="@drawable/navigation_transition_background_drawable_status_bar"
             app:extensions_title="@string/status_bar_category" />
 
-        <org.pixelextended.snowhouse.navigation.BubbleToggleView
+        <org.pixelextended.pextension.navigation.BubbleToggleView
             android:id="@+id/lockscreen_category"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -58,7 +58,7 @@
             app:extensions_shape="@drawable/navigation_transition_background_drawable_lockscreen"
             app:extensions_title="@string/lockscreen_category" />
 
-        <org.pixelextended.snowhouse.navigation.BubbleToggleView
+        <org.pixelextended.pextension.navigation.BubbleToggleView
             android:id="@+id/system_category"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -69,7 +69,7 @@
             app:extensions_shape="@drawable/navigation_transition_background_drawable_system"
             app:extensions_title="@string/system_category" />
         
-        <org.pixelextended.snowhouse.navigation.BubbleToggleView
+        <org.pixelextended.pextension.navigation.BubbleToggleView
             android:id="@+id/hardware_category"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -80,7 +80,7 @@
             app:extensions_shape="@drawable/navigation_transition_background_drawable_lockscreen"
             app:extensions_title="@string/hardware_category" />
 
-    </org.pixelextended.snowhouse.navigation.BubbleNavigationConstraintView>
+    </org.pixelextended.pextension.navigation.BubbleNavigationConstraintView>
 
     <androidx.viewpager.widget.ViewPager
         android:id="@+id/viewpager"

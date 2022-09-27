@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.pixelextended.snowhouse.settings.fragment
+package org.pixelextended.pextension.settings.fragment
 
 import android.content.Context
 import android.content.pm.PackageInfo

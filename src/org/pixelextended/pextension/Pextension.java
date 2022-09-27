@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.pixelextended.snowhouse;
+package org.pixelextended.pextension;
 
 import android.app.ActionBar;
 import android.app.Activity;
@@ -53,15 +53,15 @@ import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 import github.com.st235.lib_expandablebottombar.ExpandableBottomBar;
 
-import org.pixelextended.snowhouse.categories.Lockscreen;
-import org.pixelextended.snowhouse.categories.StatusBar;
-import org.pixelextended.snowhouse.categories.System;
-import org.pixelextended.snowhouse.categories.Hardware;
+import org.pixelextended.pextension.categories.Lockscreen;
+import org.pixelextended.pextension.categories.StatusBar;
+import org.pixelextended.pextension.categories.System;
+import org.pixelextended.pextension.categories.Hardware;
 
-import org.pixelextended.snowhouse.navigation.BubbleNavigationConstraintView;
-import org.pixelextended.snowhouse.navigation.BubbleNavigationChangeListener;
+import org.pixelextended.pextension.navigation.BubbleNavigationConstraintView;
+import org.pixelextended.pextension.navigation.BubbleNavigationChangeListener;
 
-public class SnowHouse extends SettingsPreferenceFragment implements   
+public class Pextension extends SettingsPreferenceFragment implements   
        Preference.OnPreferenceChangeListener {
 
     private static final int MENU_HELP  = 0;
