@@ -57,7 +57,7 @@
 
     </PreferenceCategory>
 
-     <PreferenceCategory
+<!--     <PreferenceCategory
         android:title="@string/misc_category" >
 
         <com.android.settings.custom.preference.SystemSettingSwitchPreference
@@ -72,6 +72,6 @@
             android:summary="@string/wake_when_plugged_or_unplugged_summary"
             android:defaultValue="true" />
 
-	</PreferenceCategory>
+	</PreferenceCategory> -->
 
 </PreferenceScreen>
