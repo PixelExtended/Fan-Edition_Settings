@@ -28,6 +28,13 @@
             <intent android:action="com.android.settings.GESTURE_NAVIGATION_SETTINGS" />
         </Preference>
 
+
+    <Preference
+        android:key="swipe_to_screenshot_summary"
+        android:title="@string/swipe_to_screenshot_title"
+        android:fragment="com.android.settings.gestures.SwipeToScreenshotGestureSettings"
+        settings:controller="com.android.settings.gestures.SwipeToScreenshotPreferenceController" />
+
        </PreferenceCategory>
 
       <PreferenceCategory
