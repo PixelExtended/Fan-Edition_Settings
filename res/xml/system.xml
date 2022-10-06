@@ -57,21 +57,21 @@
 
     </PreferenceCategory>
 
-<!--     <PreferenceCategory
+     <PreferenceCategory
         android:title="@string/misc_category" >
 
-        <com.android.settings.custom.preference.SystemSettingSwitchPreference
+<!--        <com.android.settings.custom.preference.SystemSettingSwitchPreference
             android:key="notification_sound_vib_screen_on"
             android:title="@string/notification_sound_vib_screen_on_title"
             android:summary="@string/notification_sound_vib_screen_on_summary"
-            android:defaultValue="true" />
+            android:defaultValue="true" /> -->
 
         <com.android.settings.custom.preference.SystemSettingSwitchPreference
             android:key="wake_when_plugged_or_unplugged"
-            android:title="@string/wake_when_plugged_or_unplugged_title"
-            android:summary="@string/wake_when_plugged_or_unplugged_summary"
+            android:title="@string/wakeup_when_plugged_unplugged_title"
+            android:summary="@string/wakeup_when_plugged_unplugged_summary"
             android:defaultValue="true" />
 
-	</PreferenceCategory> -->
+	</PreferenceCategory>
 
 </PreferenceScreen>
