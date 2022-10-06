@@ -29,7 +29,7 @@
 
     </PreferenceCategory>
 
-<!--    <PreferenceCategory
+    <PreferenceCategory
         android:key="lockscreen_ui_general_category"
         android:title="@string/misc_category">
 
@@ -39,7 +39,7 @@
         android:summary="@string/lockscreen_battery_info_summary"
         android:defaultValue="true" />
 
-    </PreferenceCategory> -->
+    </PreferenceCategory>
 
     <PreferenceCategory
         android:key="lockscreen_misc_category"
