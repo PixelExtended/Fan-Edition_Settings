@@ -78,6 +78,13 @@
             android:summary="@string/wakeup_when_plugged_unplugged_summary"
             android:defaultValue="true" />
 
+    <!-- Link ringtone and notification volumes -->
+    <com.android.settings.custom.preference.SecureSettingSwitchPreference
+        android:key="volume_link_notification"
+        android:title="@string/volume_link_notification_title"
+        android:defaultValue="true"
+        settings:controller="com.android.settings.notification.LinkedVolumesPreferenceController"/>
+
 	</PreferenceCategory>
 
 </PreferenceScreen>
