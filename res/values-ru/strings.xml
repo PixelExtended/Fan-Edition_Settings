@@ -52,10 +52,10 @@
     <string name="extensions_dialog_title">Позвольте нам помочь вам!</string>
     <string name="extensions_dialog_message">Если Вы обнаружили какую-либо ошибку в одной из этих настроек, пожалуйста сообщите об этом в нашу группу в Telegram. Отчёт об ошибке ДОЛЖЕН включать следующее:\n\n1. Логи или last_kmsg\n2. Kernel и используемые модули \n3. Любая полезная информация\n\nЕсли Вы не сможете описать происходящее адекватно, то и нечего будет исправлять.</string>
     <string name="extensions_dialog_toast">ПРОЧИТАЙТЕ ЭТО!</string>
-    <string name="artwork_media_fade_level_summary">Fading the media artwork image</string>
+    <string name="artwork_media_fade_level_summary">Затухание изображения медиа-обложки</string>
     <!-- QuickSettings haptic feedback -->
     <string name="quick_settings_vibrate_title">Вибрация при касании</string>
-    <string name="quick_settings_vibrate_summary">Vibrate when touching QS tiles</string>
+    <string name="quick_settings_vibrate_summary">Вибрировать при нажатии на плитки Быстрых настроек</string>
     <!-- 4G icon -->
     <string name="show_fourg_icon_title">Значок 4G</string>
     <string name="show_fourg_icon_summary">Показывать иконку 4G вместо LTE</string>
@@ -65,12 +65,12 @@
     <!-- VoWiFi icon -->
     <string name="vowifi_icon_title">Значок VoWiFi</string>
     <string name="vowifi_icon_summary">Показывать иконку VoWiFi, когда это возможно</string>
-    <string name="volte_vowifi_override_title">VoWiFi override</string>
+    <string name="volte_vowifi_override_title">Переопределение VoWiFi</string>
     <string name="volte_vowifi_override_summary">Скрыть VoLTE когда доступен VoWiFi</string>
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">Параметры вибрации при входящем вызове</string>
     <string name="incall_vibrate_connect_title">Вибрировать при соединении</string>
-    <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
+    <string name="incall_vibrate_call_wait_title">Вибрация при ожидании вызова</string>
     <string name="incall_vibrate_disconnect_title">Вибрировать при отключении</string>
     <!-- Statusbar Tuner -->
     <string name="statusbar_items_title">Элементы строки состояния</string>
@@ -84,10 +84,10 @@
     <string name="notification_sound_vib_screen_on_title">Нежелательные Уведомления</string>
     <string name="notification_sound_vib_screen_on_summary">Воспроизводить звук и вибрацию для уведомлений при включенном экране</string>
     <!-- Volume rocker music control -->
-    <string name="volume_rocker_music_controls_title">Playback control</string>
+    <string name="volume_rocker_music_controls_title">Управление воспроизведением</string>
     <string name="volume_rocker_music_controls_summary">Переключать трэки долгим нажатием на кнопки громкости при выключенном экране</string>
     <!-- Volume rocker wake -->
-    <string name="volume_rocker_wake_title">Volume rocker wake</string>
+    <string name="volume_rocker_wake_title">Пробуждение кнопками громкости</string>
     <string name="volume_rocker_wake_summary">Нажатие клавиш громкости разбудит Ваше устройство</string>
     <!-- Lockscreen battery info indicator  -->
     <string name="lockscreen_battery_info_title">Информация о зарядке на экране блокировки</string>
@@ -101,10 +101,10 @@
     <string name="wake_when_plugged_or_unplugged_title">Включение экрана при подключении зарядки</string>
     <string name="wake_when_plugged_or_unplugged_summary">Включение экрана при подключении или отключении зарядного устройства</string>
     <!-- Quick QS pulldown -->
-    <string name="status_bar_quick_qs_pulldown">Quick QS pulldown</string>
+    <string name="status_bar_quick_qs_pulldown">Быстрое раскрытие панели Быстрых настроек</string>
     <string name="quick_pulldown_none">Выключено</string>
-    <string name="quick_pulldown_right">Pulldown statusbar from right side</string>
-    <string name="quick_pulldown_left">Pulldown statusbar from left side</string>
+    <string name="quick_pulldown_right">Раскрытие строки состояния с правой стороны</string>
+    <string name="quick_pulldown_left">Раскрытие строки состояния с левой стороны</string>
     <!-- Quick Settings brightness slider -->
     <string name="qs_brightness_slider_category">Ползунок яркости</string>
     <string name="qs_show_brightness_slider_title">Ползунок яркости</string>
@@ -121,12 +121,12 @@
     <!-- Brightness control -->
     <string name="status_bar_toggle_brightness">Управление яркостью</string>
     <string name="status_bar_toggle_brightness_summary">Регулировка яркости скольжением по строке состояния</string>
-    <string name="gestures_title">Nav Bar Gesture Customisations</string>
-    <string name="gestures_summary">Take Your Pill</string>
+    <string name="gestures_title">Настройки жестов панели навигации</string>
+    <string name="gestures_summary">Возьмите таблетку</string>
     <!-- Media art -->
     <string name="lockscreen_media_category">Обложка медиа на экране блокировки</string>
-    <string name="media_art_title">Media cover art</string>
-    <string name="media_art_summary">Enable media cover art on the lockscreen</string>
+    <string name="media_art_title">Обложка альбома</string>
+    <string name="media_art_summary">Показывать обложку альбома на экране блокировки</string>
     <string name="search">Поиск</string>
     <string name="search_apps">Поиск приложений</string>
     <!-- Old mobile type icons -->
@@ -147,7 +147,7 @@
     <string name="powermenu_logout">Выйти</string>
     <string name="powermenu_emergency">Экстренный вызов</string>
     <!-- Fingerprint Ripple Effect -->
-    <string name="enable_fingerprint_ripple_effect_title">Ripple effect</string>
+    <string name="enable_fingerprint_ripple_effect_title">Эффект волны</string>
     <string name="enable_fingerprint_ripple_effect_summary">Show ripple effect on unlock with fingerprint</string>
     <!-- Location Privacy Indicator -->
     <string name="location_privacy_title"> Show Location Privacy Indicator</string>
