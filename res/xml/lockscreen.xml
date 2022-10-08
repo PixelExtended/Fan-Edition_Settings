@@ -53,7 +53,7 @@
 
     </PreferenceCategory>
 
-<!--    <PreferenceCategory
+    <PreferenceCategory
         android:key="udfps_category"
         android:title="@string/udfps_category">
 
@@ -63,7 +63,7 @@
             android:summary="@string/enable_fingerprint_ripple_effect_summary"
             android:defaultValue="true" />
 
-    </PreferenceCategory> -->
+    </PreferenceCategory>
 
 </PreferenceScreen>
 
