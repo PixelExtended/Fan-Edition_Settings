@@ -28,6 +28,17 @@
             <intent android:action="com.android.settings.GESTURE_NAVIGATION_SETTINGS" />
         </Preference>
 
+    <Preference
+        android:key="touchscreen_gesture_settings"
+        android:persistent="false"
+        android:title="@string/touchscreen_gesture_settings_title"
+        android:summary="@string/touchscreen_gesture_settings_summary"
+        settings:controller="com.android.settings.gestures.TouchGestureSettingsPreferenceController">
+        <intent
+            android:action="android.intent.action.MAIN"
+            android:targetPackage="com.android.touch.gestures"
+            android:targetClass="com.android.touch.gestures.TouchscreenGestureSettings" />
+    </Preference>
 
     <Preference
         android:key="swipe_to_screenshot_summary"
