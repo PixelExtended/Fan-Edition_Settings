@@ -235,9 +235,6 @@
     <string name="custom_fp_icon_summary">Dosyalardan özel UDFPS simgesini etkinleştir</string>
     <string name="custom_fp_select_title">Özel UDFPS simgesi seç</string>
     <string name="custom_fp_select_summary">Özel simgeyi kayıtlı dosyalarınızdan veya galeriden seçin</string>
-    <!-- Screen off FOD -->
-    <string name="screen_off_fod_title">Ekran kapalı FOD</string>
-    <string name="screen_off_fod_summary">Ekran kapalıyken FOD\'u etkin tutun</string>
     <!-- UI settings -->
     <string name="monet_title">Monet ayarları</string>
     <string name="monet_summary">Monet temalarını özelleştirin</string>
@@ -352,4 +349,8 @@
     <!-- Statusbar colored icons -->
     <string name="statusbar_colored_icons_title">Renkli simgeler</string>
     <string name="statusbar_colored_icons_summary">Durum çubuğundaki bildirim simgeleri için uygun uygulama simgelerini kullanın</string>
+    <!-- Preference and settings suggestion title text for screen off UDFPS  (device) [CHAR LIMIT=60]-->
+    <string name="ambient_display_screen_off_udfps_title">Cihazın kilidini açmak için parmak izi sensörüne uzun basın</string>
+    <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
+    <string name="ambient_display_screen_off_udfps_summary">Ekranınızı uyandırmak ve kilidini açmak için ekranın altındaki parmak izi sensörünüze uzun basın.</string>
 </resources>

@@ -17,7 +17,7 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General app strings -->
-    <string name="extensions_title">SnowHouse</string>
+    <string name="extensions_title">Casa de neve</string>
     <string name="add">Adicionar</string>
     <string name="advanced">Avançado</string>
     <string name="cancel">Cancelar</string>
@@ -235,9 +235,6 @@
     <string name="custom_fp_icon_summary">Usar ícone de impressão digital personalizado através de um arquivo</string>
     <string name="custom_fp_select_title">Selecionar ícone de impressão digital personalizado</string>
     <string name="custom_fp_select_summary">Selecionar uma imagem personalizada dos seus arquivos salvos ou galeria</string>
-    <!-- Screen off FOD -->
-    <string name="screen_off_fod_title">Impressão digital com a tela apagada</string>
-    <string name="screen_off_fod_summary">Permitir o desbloqueio por impressão digital quando a tela estiver apagada</string>
     <!-- UI settings -->
     <string name="monet_title">Configurações do tema Monet</string>
     <string name="monet_summary">Personalize os parâmetros do tema Monet</string>
@@ -352,4 +349,8 @@
     <!-- Statusbar colored icons -->
     <string name="statusbar_colored_icons_title">Ícones coloridos</string>
     <string name="statusbar_colored_icons_summary">Mostrar ícones na cor correspondente a do aplicativo nas notificações da barra de status</string>
+    <!-- Preference and settings suggestion title text for screen off UDFPS  (device) [CHAR LIMIT=60]-->
+    <string name="ambient_display_screen_off_udfps_title">Pressione e segure o sensor de impressão digital para desbloquear o dispositivo</string>
+    <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
+    <string name="ambient_display_screen_off_udfps_summary">Para acordar sua tela e desbloquear, mantenha pressionado o sensor de impressão digital.</string>
 </resources>

@@ -235,9 +235,6 @@
     <string name="custom_fp_icon_summary">Activer l\'icône UDFPS personnalisée à partir des fichiers</string>
     <string name="custom_fp_select_title">Sélectionnez l\'icône UDFPS personnalisée</string>
     <string name="custom_fp_select_summary">Sélectionnez une image personnalisée à partir de vos fichiers enregistrés ou de votre galerie</string>
-    <!-- Screen off FOD -->
-    <string name="screen_off_fod_title">Screen off FOD</string>
-    <string name="screen_off_fod_summary">Keep FOD enabled when the screen is off</string>
     <!-- UI settings -->
     <string name="monet_title">Paramètres Monet</string>
     <string name="monet_summary">Personnaliser le thème Monet</string>
@@ -352,4 +349,8 @@
     <!-- Statusbar colored icons -->
     <string name="statusbar_colored_icons_title">Icônes colorées</string>
     <string name="statusbar_colored_icons_summary">Utiliser les icônes des applications comme icônes de notification dans la barre d\'état</string>
+    <!-- Preference and settings suggestion title text for screen off UDFPS  (device) [CHAR LIMIT=60]-->
+    <string name="ambient_display_screen_off_udfps_title">Long press on fingerprint sensor to unlock device</string>
+    <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
+    <string name="ambient_display_screen_off_udfps_summary">To wake up your screen and unlock, long press your under-display fingerprint sensor.</string>
 </resources>
