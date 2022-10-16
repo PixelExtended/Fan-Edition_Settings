@@ -42,7 +42,7 @@
     <Preference
         android:key="battery_settings"
         android:title="@string/battery_style_category_title"
-        android:fragment="org.pixelextended.snowhouse.fragments.StatusBarBattery" />
+        android:fragment="org.pixelextended.pextension.fragments.StatusBarBattery" />
 
          <com.android.settings.custom.preference.SystemSettingSwitchPreference
              android:key="show_fourg_icon"
