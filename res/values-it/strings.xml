@@ -260,17 +260,17 @@
     <string name="pulse_solid_units_opacity">Opacità delle linee solide</string>
     <string name="pulse_solid_dimen_category">Impostazioni della modalità linee solide</string>
     <string name="pulse_color_mode_title">Colore</string>
-    <string name="pulse_color_accent">Accent</string>
-    <string name="pulse_color_custom">Custom</string>
-    <string name="pulse_color_lava_lamp">Lava lamp</string>
-    <string name="pulse_color_user_title">Choose color</string>
-    <string name="pulse_smoothing_enabled_title">Turn on smoothing</string>
-    <string name="pulse_smoothing_enabled_summary">Each bar is animated more smoothly</string>
-    <string name="pulse_custom_dimen">Bar width</string>
-    <string name="pulse_custom_div">Bar spacing</string>
-    <string name="pulse_filled_block_size">Block size</string>
-    <string name="pulse_empty_block_size">Block spacing</string>
+    <string name="pulse_color_accent">Accento</string>
+    <string name="pulse_color_custom">Personalizzato</string>
+    <string name="pulse_color_lava_lamp">Lampada a lava</string>
+    <string name="pulse_color_user_title">Scegli il colore</string>
+    <string name="pulse_smoothing_enabled_title">Attivare lo smussamento</string>
+    <string name="pulse_smoothing_enabled_summary">Ogni barra è animata in modo più fluido</string>
+    <string name="pulse_custom_dimen">Spessore barra</string>
+    <string name="pulse_custom_div">Spazio barra</string>
+    <string name="pulse_filled_block_size">Dimensione del blocco</string>
+    <string name="pulse_empty_block_size">Spaziatura tra i blocchi</string>
     <!-- Units -->
-    <string name="unit_milliseconds">milliseconds</string>
-    <string name="unit_seconds">seconds</string>
+    <string name="unit_milliseconds">millisecondi</string>
+    <string name="unit_seconds">secondi</string>
 </resources>
