@@ -192,6 +192,10 @@
     <!-- Udfps animations -->
     <string name="udfps_category">Udfps</string>
 
+    <!-- Screen off UDFPS -->
+    <string name="screen_off_udfps_title">Screen off UDFPS</string>
+    <string name="screen_off_udfps_summary">Keep UDFPS enabled when the screen is off</string>
+
     <string name="search">Search</string>
     <string name="search_apps">Search apps</string>
 
