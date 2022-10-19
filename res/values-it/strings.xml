@@ -17,7 +17,7 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General app strings -->
-    <string name="extensions_title">PEXtension</string>
+    <string name="extensions_title">PEXtensioni</string>
     <string name="add">Aggiungi</string>
     <string name="advanced">Avanzate</string>
     <string name="cancel">Annulla</string>
@@ -57,7 +57,7 @@
     <string name="quick_settings_vibrate_title">Vibra al tocco</string>
     <string name="quick_settings_vibrate_summary">Vibra quando si toccano i Qs tiles</string>
     <!-- 4G icon -->
-    <string name="show_fourg_icon_title">icona 4G</string>
+    <string name="show_fourg_icon_title">Icona 4G</string>
     <string name="show_fourg_icon_summary">Visualizzare l\'icona 4G invece di LTE</string>
     <!-- Show VoLTE icon on statusbar -->
     <string name="volte_icon_title">Icona VoLTE</string>
@@ -70,8 +70,8 @@
     <!-- Statusbar Tuner -->
     <string name="statusbar_items_title">Elementi della barra di stato</string>
     <!-- Double Tap to Sleep Statusbar -->
-    <string name="double_tap_sleep_gesture_title">Toccare per spegnere</string>
-    <string name="double_tap_sleep_gesture_summary">Doppio tocco sulla barra di stato per sospendere il dispositivo</string>
+    <string name="double_tap_sleep_gesture_title">Tocca per bloccare</string>
+    <string name="double_tap_sleep_gesture_summary">Doppio tocco sulla barra di stato per bloccare il dispositivo</string>
     <!--Double Tap to Sleep Lockscreen-->
     <string name="lockscreen_tweaks_category_title">Che cosa fare</string>
     <string name="double_tap_sleep_lockscreen_title">Doppio tocco per spegnere sulla schermata di blocco</string>
