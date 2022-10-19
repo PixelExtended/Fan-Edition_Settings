@@ -18,60 +18,60 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General app strings -->
     <string name="extensions_title">PEXtension</string>
-    <string name="add">Add</string>
-    <string name="advanced">Advanced</string>
-    <string name="cancel">Cancel</string>
-    <string name="default_text">Default</string>
+    <string name="add">Ajouter</string>
+    <string name="advanced">Avancé</string>
+    <string name="cancel">Annuler</string>
+    <string name="default_text">Par défaut</string>
     <string name="dlg_ok">OK</string>
     <string name="attention">Attention</string>
     <string name="loading">Loading\u2026</string>
-    <string name="reset">Reset</string>
-    <string name="reset_colors">Reset colors</string>
+    <string name="reset">Réinitialiser</string>
+    <string name="reset_colors">Réinitialiser les couleurs</string>
     <string name="reset_android">Android</string>
-    <string name="text_title">Text</string>
-    <string name="icon_title">Icon</string>
-    <string name="color_title">Color</string>
-    <string name="colors_title">Colors</string>
-    <string name="misc_title">Miscellaneous</string>
+    <string name="text_title">Texte</string>
+    <string name="icon_title">Icône</string>
+    <string name="color_title">Couleur</string>
+    <string name="colors_title">Couleurs</string>
+    <string name="misc_title">Divers</string>
     <!-- Extensions categories -->
-    <string name="status_bar_category">Statusbar</string>
-    <string name="system_category">System</string>
-    <string name="lockscreen_category">Lockscreen</string>
-    <string name="hardware_category">Hardware</string>
+    <string name="status_bar_category">Barre d\'état</string>
+    <string name="system_category">Système</string>
+    <string name="lockscreen_category">Écran de verrouillage</string>
+    <string name="hardware_category">Matériel</string>
     <string name="build_tweaks_summary_title">Enter here for the new world!</string>
-    <string name="listview">ListView</string>
-    <string name="misc_category">Misc Settings</string>
+    <string name="listview">Affichage Liste</string>
+    <string name="misc_category">Paramètres divers</string>
     <string name="fingerprint_category">FP Sensor</string>
-    <string name="qs_category">Quick Settings</string>
-    <string name="power_key">Power Button</string>
-    <string name="volume_keys">Volume Buttons</string>
-    <string name="lockscreen_gestures_category">LockScreen Gesture</string>
-    <string name="battery_settings_title">Battery Settings</string>
-    <string name="gestures_category">Gestures Customizations</string>
+    <string name="qs_category">Réglages rapides</string>
+    <string name="power_key">Bouton marche/arrêt</string>
+    <string name="volume_keys">Boutons de volume</string>
+    <string name="lockscreen_gestures_category">Geste de verrouillage de l\'écran</string>
+    <string name="battery_settings_title">Paramètres de la batterie</string>
+    <string name="gestures_category">Personnalisations des gestes</string>
     <!-- App info dialog -->
-    <string name="extensions_dialog_title">Help us help you!</string>
+    <string name="extensions_dialog_title">Aidez-nous à vous aider !</string>
     <string name="extensions_dialog_message">If you find a bug with any of these settings, report it in our Telegram Group. You MUST include the following when posting a bug report:\n\n1. A logcat or last_kmsg\n2. Kernel and mods used\n3. Useful information\n\nIf you fail to report something adequately, DO NOT expect things to be fixed.</string>
     <string name="extensions_dialog_toast">READ THE WHOLE THING!</string>
     <string name="artwork_media_fade_level_summary">Fading the media artwork image</string>
     <!-- QuickSettings haptic feedback -->
     <string name="quick_settings_vibrate_title">Vibrate on touch</string>
-    <string name="quick_settings_vibrate_summary">Vibrate when touching QS tiles</string>
+    <string name="quick_settings_vibrate_summary">Vibrer en touchant les tuiles QS</string>
     <!-- 4G icon -->
-    <string name="show_fourg_icon_title">4G icon</string>
-    <string name="show_fourg_icon_summary">Display 4G icon in signal icon instead LTE</string>
+    <string name="show_fourg_icon_title">Icône 4G</string>
+    <string name="show_fourg_icon_summary">Afficher l\'icône 4G à la place du LTE</string>
     <!-- Show VoLTE icon on statusbar -->
-    <string name="volte_icon_title">VoLTE icon</string>
-    <string name="volte_icon_summary">Display VoLTE icon</string>
+    <string name="volte_icon_title">Icône VoLTE</string>
+    <string name="volte_icon_summary">Afficher l\'icône VoLTE</string>
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">In-call vibration options</string>
-    <string name="incall_vibrate_connect_title">Vibrate on connect</string>
-    <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-    <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
+    <string name="incall_vibrate_connect_title">Vibrer à la connexion</string>
+    <string name="incall_vibrate_call_wait_title">Vibrer en cas d\'appel en attente</string>
+    <string name="incall_vibrate_disconnect_title">Vibrer à la déconnexion</string>
     <!-- Statusbar Tuner -->
-    <string name="statusbar_items_title">Statusbar items</string>
+    <string name="statusbar_items_title">Éléments de la barre d\'état</string>
     <!-- Double Tap to Sleep Statusbar -->
-    <string name="double_tap_sleep_gesture_title">Tap to sleep</string>
-    <string name="double_tap_sleep_gesture_summary">Double-tap anywhere on the status bar to put the device to sleep</string>
+    <string name="double_tap_sleep_gesture_title">Appuyez pour mettre en veille</string>
+    <string name="double_tap_sleep_gesture_summary">Appuyez deux fois n\'importe où sur la barre d\'état pour mettre l\'appareil en veille</string>
     <!--Double Tap to Sleep Lockscreen-->
     <string name="lockscreen_tweaks_category_title">What to do</string>
     <string name="double_tap_sleep_lockscreen_title">Double tap to sleep on lockscreen</string>
