@@ -238,7 +238,7 @@
     <string name="heads_up_blacklist_title">Lista nera</string>
     <string name="profile_choose_app">Seleziona un\'applicazione</string>
     <string name="dialog_delete_title">Elimina</string>
-    <string name="dialog_delete_message">Rimuovere gli ogetti selezionati?</string>
+    <string name="dialog_delete_message">Rimuovere gli oggetti selezionati?</string>
     <!-- Pulse music visualizer -->
     <string name="pulse_help_policy_notice_title">Informazioni su Pulse</string>
     <string name="pulse_help_policy_notice_summary">Pulse è un brillante equalizzatore grafico audio quando la musica viene riprodotta sul dispositivo</string>
