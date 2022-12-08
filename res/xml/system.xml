@@ -40,9 +40,17 @@
         android:defaultValue="false"
         android:order="-5"/>
 
+    <com.android.settings.custom.preference.SelfRemovingPreferenceCategory
+        android:key="enable_pocket_judge"
+        android:title="@string/pocket_judge_title"
+        settings:requiresConfig="@*android:bool/config_pocketModeSupported" >
+
     <com.android.settings.custom.preference.SystemSettingSwitchPreference
-            android:key="pocket_judge"
-            android:title="@string/pocket_judge_title"
-            android:summary="@string/pocket_judge_summary" />
+             android:key="pocket_judge"
+             android:title="@string/pocket_judge_title"
+             android:summary="@string/pocket_judge_summary"
+             android:persistent="false" />
+
+    </com.android.settings.custom.preference.SelfRemovingPreferenceCategory>
 
 </PreferenceScreen>
