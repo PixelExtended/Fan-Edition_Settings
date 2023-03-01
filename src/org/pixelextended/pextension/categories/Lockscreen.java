@@ -25,10 +25,14 @@ import com.android.internal.logging.nano.MetricsProto;
 import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 
+import com.android.internal.util.custom.udfps.UdfpsUtils;
+
 public class Lockscreen extends SettingsPreferenceFragment implements
         Preference.OnPreferenceChangeListener {
     
     private static final String TAG = "Lockscreen";
+
+    private static final String UDFPS_SETTINGS = "udfps_settings";
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -37,6 +41,13 @@ public class Lockscreen extends SettingsPreferenceFragment implements
         addPreferencesFromResource(R.xml.lockscreen);
 
         ContentResolver resolver = getActivity().getContentResolver();
+
+        final PreferenceScreen prefScreen = getPreferenceScreen();
+
+         if (!UdfpsUtils.hasUdfpsSupport(getContext())) {
+             prefScreen.removePreference(findPreference(UDFPS_SETTINGS));
+         }
+
     }
 
     @Override
