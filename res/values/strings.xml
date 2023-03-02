@@ -37,6 +37,7 @@
     <string name="misc_title">Miscellaneous</string>
     <string name="enable">Enable</string>
     <string name="disable">Disable</string>
+    <string name="navigation_category">Navigation Buttons</string>
 
     <!-- Extensions categories -->
     <string name="status_bar_category">Statusbar</string>
@@ -319,4 +320,14 @@
     <string name="qs_tile_hide_label_summary">Show only icon for QS tiles</string>
     <string name="qs_tile_vertical_layout_title">Vertical layout</string>
     <string name="qs_tile_vertical_layout_summary">Enable vertical layout for QS tiles</string>
+
+    <!-- Navbar Layout -->
+    <string name="navbar_layout_category_title">Layout</string>
+    <string name="navbar_layout_title">Layout</string>
+    <string name="navbar_layout_normal">Normal</string>
+    <string name="navbar_layout_compact">Compact</string>
+    <string name="navbar_layout_leftleaning">Left-leaning</string>
+    <string name="navbar_layout_rightleaning">Right-leaning</string>
+    <string name="navbar_invert_layout_title">Invert layout</string>
+    <string name="navbar_invert_layout_summary">Inverts the layout of the navigation bar and other items, such as the IME switcher</string>
 </resources>
