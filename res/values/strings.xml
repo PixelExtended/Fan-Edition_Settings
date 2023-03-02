@@ -39,6 +39,7 @@
     <string name="disable">Disable</string>
     <string name="navigation_category">Navigation Buttons</string>
     <string name="privacy_category">Privacy Indicators (Requires Restart)</string>
+    <string name="general_category">General</string> 
 
     <!-- Extensions categories -->
     <string name="status_bar_category">Statusbar</string>
