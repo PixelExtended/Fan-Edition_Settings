@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Copyright (C) 2014-2016 The Dirty Unicorns Project
+      Copyright (C) 2016 AospExtended ROM Project
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- General app strings -->
+    <string name="extensions_title">PEXtension</string>
+    <string name="add">Adicionar</string>
+    <string name="advanced">Avançado</string>
+    <string name="cancel">Cancelar</string>
+    <string name="default_text">Padrão</string>
+    <string name="dlg_ok">Ok</string>
+    <string name="attention">Atenção</string>
+    <string name="loading">Carregando\u2026</string>
+    <string name="reset">Redefinir</string>
+    <string name="reset_colors">Redefinir cores</string>
+    <string name="reset_android">Android</string>
+    <string name="text_title">Texto</string>
+    <string name="icon_title">Ícone</string>
+    <string name="color_title">Cor</string>
+    <string name="colors_title">Cores</string>
+    <string name="misc_title">Diversos</string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+    <!-- Extensions categories -->
+    <string name="status_bar_category">Barra de status</string>
+    <string name="system_category">Sistema</string>
+    <string name="lockscreen_category">Tela de bloqueio</string>
+    <string name="hardware_category">Hardware</string>
+    <string name="build_tweaks_summary_title">Entre aqui para o novo mundo!</string>
+    <string name="listview">Visualização em lista</string>
+    <string name="misc_category">Configurações diversas</string>
+    <string name="fingerprint_category">Sensor de impressão digital</string>
+    <string name="qs_category">Configurações rápidas</string>
+    <string name="power_key">Botão liga/desliga</string>
+    <string name="volume_keys">Botões de volume</string>
+    <string name="lockscreen_gestures_category">Gestos na tela de bloqueio</string>
+    <string name="battery_settings_title">Configurações da bateria</string>
+    <string name="gestures_category">Personalização de gestos</string>
+    <!-- App info dialog -->
+    <string name="extensions_dialog_title">Nos ajude a ajudá-lo!</string>
+    <string name="extensions_dialog_message">Se você encontrar um bug em qualquer uma dessas configurações, reporte em nosso Grupo do Telegram. Você deve incluir o seguinte quando publicar um relatório de bug:\n\n1. Um logcat ou last_kmsg\n2. Kernel e mods utilizados\n3. Informações úteis\n\nSe você não relatar adequadamente, NÃO espere que as coisas sejam corrigidas.</string>
+    <string name="extensions_dialog_toast">LEIA TUDO!</string>
+    <string name="artwork_media_fade_level_summary">Efeito desfocado na arte da mídia</string>
+    <!-- QuickSettings haptic feedback -->
+    <string name="quick_settings_vibrate_title">Vibrar ao tocar</string>
+    <string name="quick_settings_vibrate_summary">Vibrar ao tocar nas configurações rápidas</string>
+    <!-- 4G icon -->
+    <string name="show_fourg_icon_title">Ícone 4G</string>
+    <string name="show_fourg_icon_summary">Exibir 4G no ícone de sinal ao invés de LTE</string>
+    <!-- Show VoLTE icon on statusbar -->
+    <string name="volte_icon_title">Ícone VoLTE</string>
+    <string name="volte_icon_summary">Exibir ícone VoLTE</string>
+    <!-- Incall vibrate options -->
+    <string name="incall_vibration_category">Opções de vibração durante chamada</string>
+    <string name="incall_vibrate_connect_title">Vibrar ao atender</string>
+    <string name="incall_vibrate_call_wait_title">Vibrar na chamada em espera</string>
+    <string name="incall_vibrate_disconnect_title">Vibrar ao encerrar</string>
+    <!-- Statusbar Tuner -->
+    <string name="statusbar_items_title">Ícones da barra de status</string>
+    <!-- Double Tap to Sleep Statusbar -->
+    <string name="double_tap_sleep_gesture_title">Toque para dormir</string>
+    <string name="double_tap_sleep_gesture_summary">Toque duas vezes em qualquer lugar da barra de status para bloquear o dispositivo</string>
+    <!--Double Tap to Sleep Lockscreen-->
+    <string name="lockscreen_tweaks_category_title">O que fazer</string>
+    <string name="double_tap_sleep_lockscreen_title">Toque duplo para desligar a tela na tela de bloqueio</string>
+    <!-- Annoying Notifications -->
+    <string name="notification_sound_vib_screen_on_title">Notificações irritantes</string>
+    <string name="notification_sound_vib_screen_on_summary">Reproduzir som e vibração para notificações quando a tela estiver ligada</string>
+    <!-- Show VoLTE icon on statusbar -->
+    <string name="volte_switch_title">Ícone VoLTE</string>
+    <string name="volte_switch_summary">Exibir ícone VoLTE</string>
+    <string name="volte_icon_style_title">Selecione o ícone VoLTE</string>
+    <string name="volte_icon_asus">Ícone VoLTE da Asus</string>
+    <string name="volte_icon_vo">Ícone Vo apenas</string>
+    <string name="volte_icon_volte">Ícone VoLTE</string>
+    <string name="volte_icon_oos">Ícone VoLTE OOS</string>
+    <string name="volte_icon_hd">Ícone HD</string>
+    <string name="volte_icon_hd2">Ícone HD CAF</string>
+    <string name="volte_icon_miui">Ícone MIUI 11</string>
+    <string name="volte_icon_emui">Ícone EMUI</string>
+    <string name="volte_icon_margaritov">Ícone HD preenchido</string>
+    <string name="volte_icon_margaritov2">Ícone Margaritov</string>
+    <string name="volte_icon_vivo">Ícone Vivo</string>
+    <!-- VoWiFi icon -->
+    <string name="vowifi_icon_title">Ícone VoWiFi</string>
+    <string name="vowifi_icon_enabled">Ícone VoWiFi ativado</string>
+    <string name="vowifi_icon_disabled">Ícone VoWiFi desativado</string>
+    <string name="vowifi_icon_enabled_volte_disabled">Ícone VoWiFi em vez de ícone VoLTE</string>
+    <string name="vowifi_icon_style_title">Estilo do ícone VoWiFi</string>
+    <string name="vowifi_icon_default">Ícone padrão</string>
+    <string name="vowifi_icon_emui">Ícone EMUI</string>
+    <string name="vowifi_icon_asus">Ícone Asus</string>
+    <string name="vowifi_icon_oneplus">Ícone OOS</string>
+    <string name="vowifi_icon_moto">Ícone Motorola</string>
+    <string name="vowifi_icon_simple1">Ícone Simples1</string>
+    <string name="vowifi_icon_simple2">Ícone Simples2</string>
+    <string name="vowifi_icon_simple3">Ícone Simples3</string>
+    <string name="vowifi_icon_vivo">Ícone Vivo</string>
+    <string name="vowifi_icon_margaritov">Ícone Margaritov</string>
+    <!-- Volume rocker music control -->
+    <string name="volume_rocker_music_controls_title">Controle de reprodução</string>
+    <string name="volume_rocker_music_controls_summary">Quando a tela estiver desligada, segurar os botões de volume para avançar ou retroceder faixas de músicas</string>
+    <!-- Volume rocker wake -->
+    <string name="volume_rocker_wake_title">Despertar com botões de volume</string>
+    <string name="volume_rocker_wake_summary">Pressionar as teclas de volume irá acordar seu dispositivo</string>
+    <!-- Lockscreen battery info indicator  -->
+    <string name="lockscreen_battery_info_title">Informação de carregamento na tela de bloqueio</string>
+    <string name="lockscreen_battery_info_summary">Exibe corrente de carga, tensão, potência e temperatura da bateria na tela de bloqueio durante o carregamento</string>
+    <!-- Fingerprint authentication vibration -->
+    <string name="fprint_sucess_vib_title">Vibrar no desbloqueio por impressão digital</string>
+    <string name="fprint_sucess_vib_summary">Resposta tátil ao desbloquear com a impressão digital</string>
+    <string name="fprint_error_vib_title">Vibrar quando o desbloqueio falhar</string>
+    <string name="fprint_error_vib_summary">Resposta tátil quando o desbloqueio por impressão digital falhar</string>
+    <!-- Wake on plug -->
+    <string name="wake_when_plugged_or_unplugged_title">Wake on plug</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Turn the screen on when connecting or disconnecting a power source</string>
+    <!-- Quick QS pulldown -->
+    <string name="status_bar_quick_qs_pulldown">Mostrar configurações rápidas ao deslizar rápido para baixo</string>
+    <string name="quick_pulldown_none">Desativado</string>
+    <string name="quick_pulldown_right">Deslise a partir do lado direito da barra de status</string>
+    <string name="quick_pulldown_left">Deslize a partir do lado esquerdo da barra de status</string>
+    <!-- Torch Power button gestures -->
+    <string name="torch_power_button_gesture_title">Lanterna rápida</string>
+    <string name="torch_power_button_gesture_none">Desativado</string>
+    <string name="torch_power_button_gesture_dt">Double press power button (Disables Quickly open camera feature and adds 170ms wakeup delay)</string>
+    <string name="torch_power_button_gesture_lp">Toque longo no botão liga/desliga</string>
+    <!-- Quick Settings brightness slider -->
+    <string name="qs_brightness_slider_category">Controle deslizante de brilho</string>
+    <string name="qs_brightness_slider_title">Mostrar o controle deslizante de brilho</string>
+    <string name="qs_brightness_slider_summary">Mostrar controle deslizante de brilho no painel de configurações rápidas</string>
+    <string name="qs_brightness_position_bottom_title">Mostrar controle deslizante de brilho na parte inferior</string>
+    <string name="qs_brightness_position_bottom_summary">Mostrar controle deslizante de brilho na parte inferior das configurações rápidas</string>
+    <!-- Quick Settings brightness icon -->
+    <string name="brightness_icon_title">Botão de brilho automático</string>
+    <string name="brightness_icon_summary">Mostrar botão de brilho automático</string>
+    <!-- Quick QS Panel brightness slider -->
+    <string name="quick_qs_brightness_slider_title">Mostrar controle deslizante de brilho no painel de configurações rápidas</string>
+    <string name="quick_qs_brightness_slider_summary">Mostrar o controle deslizante de brilho no painel de configurações rápidas</string>
+    <!-- Brightness control -->
+    <string name="status_bar_toggle_brightness">Controle de brilho</string>
+    <string name="status_bar_toggle_brightness_summary">Ajustar o brilho deslizando através da barra de status</string>
+    <string name="gestures_title">Personalização da barra de navegação</string>
+    <string name="gestures_summary">Tome sua pílula</string>
+    <!-- Lockscreen media artwork -->
+    <string name="lockscreen_media_blur_title">Nível de desfoque da arte de mídia</string>
+    <string name="show_lockscreen_media_art_title">Show media art</string>
+    <string name="lockscreen_media_art_options_title">Lockscreen media art</string>
+    <!-- Udfps animations -->
+    <string name="udfps_category">Impressão digital na tela</string>
+    <string name="search">Pesquisar</string>
+    <string name="search_apps">Pesquisar aplicativos</string>
+    <!-- Old mobile type icons -->
+    <string name="use_old_mobiletype_title">Usar ícones de dados móveis no estilo antigo</string>
+    <string name="use_old_mobiletype_summary">Mostrar o indicador de rede móvel no topo da barra de sinal</string>
+    <!-- Power Menu -->
+    <string name="power_menu_title">Menu de energia</string>
+    <string name="power_menu_title_summary">Exibir ou alterar os itens do menu de energia</string>
+    <string name="powermenu_screenshot">Captura de tela</string>
+    <string name="powermenu_power">Desligar</string>
+    <string name="powermenu_advanced">Menu de reinicialização avançada</string>
+    <string name="powermenu_restart">Reiniciar</string>
+    <string name="powermenu_airplane">Modo avião</string>
+    <string name="powermenu_settings">Configurações</string>
+    <string name="powermenu_lockdown">Bloqueio total</string>
+    <string name="powermenu_soundpanel">Painel de som</string>
+    <string name="powermenu_users">Usuários</string>
+    <string name="powermenu_logout">Sair</string>
+    <string name="powermenu_emergency">Emergência</string>
+    <!-- Fingerprint Ripple Effect -->
+    <string name="enable_fingerprint_ripple_effect_title">Efeito cascata</string>
+    <string name="enable_fingerprint_ripple_effect_summary">Mostrar efeito cascata ao desbloquear com impressão digital</string>
+    <!-- Location Privacy Indicator -->
+    <string name="location_privacy_title"> Mostrar indicador de localização</string>
+    <string name="location_privacy_summary">Ativar/Desativar os indicadores de localização exibidos na barra de status</string>
+    <!-- Power menu on lockscreen -->
+    <string name="lockscreen_power_menu_disabled_title">Desativar o menu de energia na tela de bloqueio</string>
+    <string name="lockscreen_power_menu_disabled_summary">Esta opção só irá desativar o menu de energia na tela de bloqueio</string>
+    <!-- Pulse music visualizer -->
+    <string name="pulse_help_policy_notice_title">Sobre o Pulse</string>
+    <string name="pulse_help_policy_notice_summary">Pulse é uma animação gráfica simulando um equalizador de áudio exibido quando uma música é tocada no dispositivo</string>
+    <string name="pulse_settings">Pulse</string>
+    <string name="pulse_settings_summary">Equalizador gráfico de áudio para a barra de navegação e tela de bloqueio</string>
+    <string name="show_navbar_pulse_title">Pulse na barra de navegação</string>
+    <string name="show_navbar_pulse_summary">Equalizador gráfico de áudio na barra de navegação</string>
+    <string name="show_lockscreen_pulse_title">Pulse na tela de bloqueio</string>
+    <string name="show_lockscreen_pulse_summary">Equalizador gráfico de áudio na tela de bloqueio</string>
+    <string name="show_ambient_pulse_title">Pulse na tela ambiente</string>
+    <string name="show_ambient_pulse_summary">Equalizador gráfico de áudio na tela ambiente</string>
+    <string name="pulse_render_mode_title">Modo de renderização</string>
+    <string name="pulse_render_mode_fading_bars">Blocos desbotados</string>
+    <string name="pulse_render_mode_solid_lines">Linhas sólidas</string>
+    <string name="pulse_legacy_mode_advanced_category">Configurações do modo de blocos desbotados</string>
+    <string name="pulse_custom_fudge_factor">Nível de sanidade</string>
+    <string name="pulse_lavalamp_speed_title">Velocidade da lâmpada de lava</string>
+    <string name="pulse_solid_units_count">Contador de linhas sólidas</string>
+    <string name="pulse_solid_units_opacity">Opacidade das linhas sólidas</string>
+    <string name="pulse_solid_dimen_category">Configurações do modo de linhas sólidas</string>
+    <string name="pulse_color_mode_title">Cor</string>
+    <string name="pulse_color_accent">Cor de destaque</string>
+    <string name="pulse_color_custom">Personalizado</string>
+    <string name="pulse_color_lava_lamp">Lâmpada de lava</string>
+    <string name="pulse_color_user_title">Escolha a cor</string>
+    <string name="pulse_smoothing_enabled_title">Ativar suavização</string>
+    <string name="pulse_smoothing_enabled_summary">Cada barra é animada mais suavemente</string>
+    <string name="pulse_custom_dimen">Largura da barra</string>
+    <string name="pulse_custom_div">Espaçamento da barra</string>
+    <string name="pulse_filled_block_size">Tamanho do bloco</string>
+    <string name="pulse_empty_block_size">Espaçamento do bloco</string>
+    <!-- Units -->
+    <string name="unit_milliseconds">milissegundos</string>
+    <string name="unit_seconds">segundos</string>
+    <!-- UDFPS settings -->
+    <string name="udfps_settings_title">UDFPS customization</string>
+    <string name="udfps_settings_summary">Customize under-display fingerprint scanner</string>
+    <string name="udfps_icon_picker_title">UDFPS icon picker</string>
+    <string name="udfps_icon_picker_summary">Choose your favorite fingerprint icon</string>
+    <string name="udfps_recog_animation_effect_title">UDFPS animation effect</string>
+    <string name="udfps_recog_animation_effect_summary">Choose animation effect</string>
+    <!-- Font style / Icon pack -->
+    <string name="theme_customization_font_title">Font style</string>
+    <string name="theme_customization_font_summary">Set system font style</string>
+    <string name="theme_customization_icon_pack_title">Icon pack</string>
+    <string name="theme_customization_icon_pack_summary">Set custom icon pack style</string>
+    <string name="theme_customization_icon_shape_title">Icon shape</string>
+    <string name="theme_customization_icon_shape_summary">Set system icon shape style</string>
+    <!-- Custom FOD Icon -->
+    <string name="custom_fp_icon_title">Custom UDFPS Icon</string>
+    <string name="custom_fp_icon_summary">Enable custom UDFPS Icon from files</string>
+    <string name="custom_fp_select_title">Select Custom UDFPS Icon</string>
+    <string name="custom_fp_select_summary">Select custom image from your saved files or gallery</string>
+    <!-- Brightness slider -->
+    <string name="qqs_show_brightness_title">Show brightness slider in Quick QS panel</string>
+    <string name="brightness_slider_position_title">Brightness slider position</string>
+    <string name="top">Top</string>
+    <string name="bottom">Bottom</string>
+    <string name="show_auto_brightness_button_title">Show auto brightness button</string>
+    <!-- Statusbar colored icons -->
+    <string name="statusbar_colored_icons_title">Colored icons</string>
+    <string name="statusbar_colored_icons_summary">Use proper app icons for notification icons in statusbar</string>
+    <!-- reTicker -->
+    <string name="reticker_title">reTicker\nRequires SystemUI restart</string>
+    <string name="reticker_summary">Replace your notifications with a redesigned version of tickers. \nSlim and less invasive than a standard notification</string>
+    <string name="reticker_colored_title">Use app colored background</string>
+    <string name="reticker_colored_summary">Replace reTicker background color using notification app main color</string>
+    <string name="reticker_landscape_only_title">Landscape only</string>
+    <string name="reticker_landscape_only_summary">Only enable reTicker when device is in landscape mode</string>
+    <!-- QS tiles layout -->
+    <string name="qs_tile_layout_title">QS tiles layout</string>
+    <string name="qs_tile_layout_summary">Customize tiles layout in QS panel</string>
+    <string name="qs_tiles_layout_category">Tiles layout</string>
+    <string name="qs_rows_portrait_title">Rows (Portrait)</string>
+    <string name="qqs_rows_portrait_title">Rows (Quick QS portrait)</string>
+    <string name="qs_columns_portrait_title">Columns (Portrait)</string>
+    <string name="qs_apply_change_button_title">Apply change</string>
+    <string name="qs_apply_change_failed">Failed to apply change</string>
+    <string name="qs_tile_hide_label_title">Hide labels</string>
+    <string name="qs_tile_hide_label_summary">Show only icon for QS tiles</string>
+    <string name="qs_tile_vertical_layout_title">Vertical layout</string>
+    <string name="qs_tile_vertical_layout_summary">Enable vertical layout for QS tiles</string>
+</resources>
