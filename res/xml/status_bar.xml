@@ -52,6 +52,16 @@
             android:summary="@string/use_old_mobiletype_summary"
             android:defaultValue="false" /> 
 
+    <PreferenceCategory
+        android:title="@string/general_category">
+
+        <com.android.settings.custom.preference.SystemSettingSwitchPreference
+            android:key="qs_footer_data_usage"
+            android:title="@string/qs_footer_datausage_title"
+            android:summary="@string/qs_footer_datausage_summary"
+            android:defaultValue="false" />
+    </PreferenceCategory>
+
 <!--        <com.android.settings.custom.preference.SystemSettingSwitchPreference
             android:key="show_volte_icon"
             android:title="@string/volte_switch_title"
