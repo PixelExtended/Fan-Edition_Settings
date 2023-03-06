@@ -79,11 +79,6 @@ public class UdfpsSettings extends SettingsPreferenceFragment implements
         final PreferenceScreen prefScreen = getPreferenceScreen();
         Resources resources = getResources();
 
-       
-        boolean udfpsResPkgInstalled = CustomUtils.isPackageInstalled(getContext(),
-                "com.custom.udfps.resources");
-	PreferenceCategory udfps_custom = (PreferenceCategory) prefScreen.findPreference("udfps_customization");
-
         mUdfpsIconPicker = (Preference) prefScreen.findPreference("udfps_icon_picker");
 
         mCustomFPImage = findPreference(CUSTOM_FP_FILE_SELECT);
