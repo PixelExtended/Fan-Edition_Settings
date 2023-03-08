@@ -17,7 +17,7 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General app strings -->
-    <string name="extensions_title">PEXtensiones</string>
+    <string name="extensions_title">PEXtension</string>
     <string name="add">Agregar</string>
     <string name="advanced">Avanzado</string>
     <string name="cancel">Cancelar</string>
@@ -33,8 +33,8 @@
     <string name="color_title">Color</string>
     <string name="colors_title">Colores</string>
     <string name="misc_title">Varios</string>
-    <string name="enable">Enable</string>
-    <string name="disable">Disable</string>
+    <string name="enable">Habilitar</string>
+    <string name="disable">Deshabilitar</string>
     <!-- Extensions categories -->
     <string name="status_bar_category">Barra de estado</string>
     <string name="system_category">Sistema</string>
@@ -126,8 +126,8 @@
     <string name="fprint_error_vib_title">Vibrar al pasar huella incorrecta</string>
     <string name="fprint_error_vib_summary">Vibrar al no pasar correctamente la huella al desbloquear</string>
     <!-- Wake on plug -->
-    <string name="wake_when_plugged_or_unplugged_title">Wake on plug</string>
-    <string name="wake_when_plugged_or_unplugged_summary">Turn the screen on when connecting or disconnecting a power source</string>
+    <string name="wake_when_plugged_or_unplugged_title">Despertar al conectar</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Encender pantalla al conectar o desconectar el cargador</string>
     <!-- Quick QS pulldown -->
     <string name="status_bar_quick_qs_pulldown">Despliegue rápido de los ajustes rápidos</string>
     <string name="quick_pulldown_none">Deshabilitado</string>
@@ -136,7 +136,7 @@
     <!-- Torch Power button gestures -->
     <string name="torch_power_button_gesture_title">Activar linterna con la pantalla apagada</string>
     <string name="torch_power_button_gesture_none">Deshabilitado</string>
-    <string name="torch_power_button_gesture_dt">Double press power button (Disables Quickly open camera feature and adds 170ms wakeup delay)</string>
+    <string name="torch_power_button_gesture_dt">Doble pulsación del botón de encendido (Desactiva la función de cámara rápida y añade 170 ms de retraso de encendido)</string>
     <string name="torch_power_button_gesture_lp">Pulsación larga del botón de encendido</string>
     <!-- Quick Settings brightness slider -->
     <string name="qs_brightness_slider_category">Control deslizante de brillo</string>
@@ -157,8 +157,8 @@
     <string name="gestures_summary">Elige tu barra</string>
     <!-- Lockscreen media artwork -->
     <string name="lockscreen_media_blur_title">Nivel de desenfoque de carátula</string>
-    <string name="show_lockscreen_media_art_title">Show media art</string>
-    <string name="lockscreen_media_art_options_title">Lockscreen media art</string>
+    <string name="show_lockscreen_media_art_title">Mostrar carátula de multimedia</string>
+    <string name="lockscreen_media_art_options_title">Portada de álbum en pantalla de bloqueo</string>
     <!-- Udfps animations -->
     <string name="udfps_category">Animación huella</string>
     <string name="search">Buscar</string>
@@ -224,50 +224,50 @@
     <string name="unit_milliseconds">milisegundos</string>
     <string name="unit_seconds">segundos</string>
     <!-- UDFPS settings -->
-    <string name="udfps_settings_title">UDFPS customization</string>
-    <string name="udfps_settings_summary">Customize under-display fingerprint scanner</string>
-    <string name="udfps_icon_picker_title">UDFPS icon picker</string>
-    <string name="udfps_icon_picker_summary">Choose your favorite fingerprint icon</string>
-    <string name="udfps_recog_animation_effect_title">UDFPS animation effect</string>
-    <string name="udfps_recog_animation_effect_summary">Choose animation effect</string>
+    <string name="udfps_settings_title">Personalización de escáner de huella dactilar bajo pantalla</string>
+    <string name="udfps_settings_summary">Personalizar el escáner de huella dactilar bajo pantalla</string>
+    <string name="udfps_icon_picker_title">Selector de iconos de huella en pantalla</string>
+    <string name="udfps_icon_picker_summary">Elige tu icono de huella dactilar favorito</string>
+    <string name="udfps_recog_animation_effect_title">Efecto de animación de huella en pantalla</string>
+    <string name="udfps_recog_animation_effect_summary">Elegir efecto de animación</string>
     <!-- Font style / Icon pack -->
-    <string name="theme_customization_font_title">Font style</string>
-    <string name="theme_customization_font_summary">Set system font style</string>
-    <string name="theme_customization_icon_pack_title">Icon pack</string>
-    <string name="theme_customization_icon_pack_summary">Set custom icon pack style</string>
-    <string name="theme_customization_icon_shape_title">Icon shape</string>
-    <string name="theme_customization_icon_shape_summary">Set system icon shape style</string>
+    <string name="theme_customization_font_title">Estilo de fuente</string>
+    <string name="theme_customization_font_summary">Establecer el estilo de fuente del sistema</string>
+    <string name="theme_customization_icon_pack_title">Paquete de íconos</string>
+    <string name="theme_customization_icon_pack_summary">Seleccionar paquete de iconos personalizado</string>
+    <string name="theme_customization_icon_shape_title">Forma de los iconos</string>
+    <string name="theme_customization_icon_shape_summary">Establece la forma de los iconos del sistema</string>
     <!-- Custom FOD Icon -->
-    <string name="custom_fp_icon_title">Custom UDFPS Icon</string>
-    <string name="custom_fp_icon_summary">Enable custom UDFPS Icon from files</string>
-    <string name="custom_fp_select_title">Select Custom UDFPS Icon</string>
-    <string name="custom_fp_select_summary">Select custom image from your saved files or gallery</string>
+    <string name="custom_fp_icon_title">Icono de huella personalizado</string>
+    <string name="custom_fp_icon_summary">Habilita icono de huella personalizado desde archivos</string>
+    <string name="custom_fp_select_title">Selecciona icono de huella personalizado</string>
+    <string name="custom_fp_select_summary">Selecciona icono de huella desde archivos o galería</string>
     <!-- Brightness slider -->
-    <string name="qqs_show_brightness_title">Show brightness slider in Quick QS panel</string>
-    <string name="brightness_slider_position_title">Brightness slider position</string>
-    <string name="top">Top</string>
-    <string name="bottom">Bottom</string>
-    <string name="show_auto_brightness_button_title">Show auto brightness button</string>
+    <string name="qqs_show_brightness_title">Mostrar barra deslizante de brillo en los ajustes rápidos</string>
+    <string name="brightness_slider_position_title">Posición de la barra deslizante de brillo</string>
+    <string name="top">Arriba</string>
+    <string name="bottom">Abajo</string>
+    <string name="show_auto_brightness_button_title">Mostrar botón de brillo automático</string>
     <!-- Statusbar colored icons -->
-    <string name="statusbar_colored_icons_title">Colored icons</string>
-    <string name="statusbar_colored_icons_summary">Use proper app icons for notification icons in statusbar</string>
+    <string name="statusbar_colored_icons_title">Iconos coloreados</string>
+    <string name="statusbar_colored_icons_summary">Usar iconos de aplicación adecuados para iconos de notificación en la barra de estado</string>
     <!-- reTicker -->
-    <string name="reticker_title">reTicker\nRequires SystemUI restart</string>
-    <string name="reticker_summary">Replace your notifications with a redesigned version of tickers. \nSlim and less invasive than a standard notification</string>
-    <string name="reticker_colored_title">Use app colored background</string>
-    <string name="reticker_colored_summary">Replace reTicker background color using notification app main color</string>
-    <string name="reticker_landscape_only_title">Landscape only</string>
-    <string name="reticker_landscape_only_summary">Only enable reTicker when device is in landscape mode</string>
+    <string name="reticker_title">reTicker\nRequiere reiniciar IU del sistema</string>
+    <string name="reticker_summary">Reemplaza las notificaciones con una versión rediseñada de la información mostrada. \nDelgada y menos invasiva que la notificación estándar</string>
+    <string name="reticker_colored_title">Usar fondo coloreado de la aplicación</string>
+    <string name="reticker_colored_summary">Reemplazar el color de fondo de reTicker usando el color principal</string>
+    <string name="reticker_landscape_only_title">Sólo paisaje</string>
+    <string name="reticker_landscape_only_summary">Solo activar reTicker cuando el dispositivo está en modo horizontal</string>
     <!-- QS tiles layout -->
     <string name="qs_tile_layout_title">QS tiles layout</string>
     <string name="qs_tile_layout_summary">Customize tiles layout in QS panel</string>
-    <string name="qs_tiles_layout_category">Tiles layout</string>
-    <string name="qs_rows_portrait_title">Rows (Portrait)</string>
+    <string name="qs_tiles_layout_category">Estilo de mosaicos</string>
+    <string name="qs_rows_portrait_title">Filas (Vertical)</string>
     <string name="qqs_rows_portrait_title">Rows (Quick QS portrait)</string>
-    <string name="qs_columns_portrait_title">Columns (Portrait)</string>
-    <string name="qs_apply_change_button_title">Apply change</string>
-    <string name="qs_apply_change_failed">Failed to apply change</string>
-    <string name="qs_tile_hide_label_title">Hide labels</string>
+    <string name="qs_columns_portrait_title">Columnas (retrato)</string>
+    <string name="qs_apply_change_button_title">Aplicar cambios</string>
+    <string name="qs_apply_change_failed">Error al aplicar cambios</string>
+    <string name="qs_tile_hide_label_title">Ocultar etiquetas</string>
     <string name="qs_tile_hide_label_summary">Show only icon for QS tiles</string>
     <string name="qs_tile_vertical_layout_title">Vertical layout</string>
     <string name="qs_tile_vertical_layout_summary">Enable vertical layout for QS tiles</string>

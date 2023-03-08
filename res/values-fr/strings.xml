@@ -17,7 +17,7 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General app strings -->
-    <string name="extensions_title">PE Modules</string>
+    <string name="extensions_title">PEXtensions</string>
     <string name="add">Add</string>
     <string name="advanced">Avancé</string>
     <string name="cancel">Annuler</string>
@@ -33,8 +33,8 @@
     <string name="color_title">Couleur</string>
     <string name="colors_title">Couleurs</string>
     <string name="misc_title">Divers</string>
-    <string name="enable">Enable</string>
-    <string name="disable">Disable</string>
+    <string name="enable">Activer</string>
+    <string name="disable">Désactiver</string>
     <!-- Extensions categories -->
     <string name="status_bar_category">Barre d\'état</string>
     <string name="system_category">Système</string>
@@ -131,8 +131,8 @@ Si vous ne signalez pas correctement quelque chose, NE VOUS ATTENDEZ PAS à ce q
     <string name="fprint_error_vib_title">Vibrer en cas d\'échec de l\'authentification par empreinte digitale</string>
     <string name="fprint_error_vib_summary">Vibrer en cas d\'échec de l\'authentification par empreinte digitale</string>
     <!-- Wake on plug -->
-    <string name="wake_when_plugged_or_unplugged_title">Wake on plug</string>
-    <string name="wake_when_plugged_or_unplugged_summary">Turn the screen on when connecting or disconnecting a power source</string>
+    <string name="wake_when_plugged_or_unplugged_title">Réveil sur prise</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Allumer l\'écran lors de la connexion ou de la déconnexion d\'une source d\'alimentation</string>
     <!-- Quick QS pulldown -->
     <string name="status_bar_quick_qs_pulldown">Déroulement rapide QS</string>
     <string name="quick_pulldown_none">Désactivé</string>
@@ -141,7 +141,7 @@ Si vous ne signalez pas correctement quelque chose, NE VOUS ATTENDEZ PAS à ce q
     <!-- Torch Power button gestures -->
     <string name="torch_power_button_gesture_title">Allumer/éteindre la lampe de poche lorsque l\'écran est éteint</string>
     <string name="torch_power_button_gesture_none">Désactivé</string>
-    <string name="torch_power_button_gesture_dt">Double press power button (Disables Quickly open camera feature and adds 170ms wakeup delay)</string>
+    <string name="torch_power_button_gesture_dt">Appui double sur le bouton d\'alimentation (Désactive l\'ouverture rapide de la caméra et ajoute un délai de réveil de 170 ms)</string>
     <string name="torch_power_button_gesture_lp">Appui prolongé sur le bouton d\'alimentation</string>
     <!-- Quick Settings brightness slider -->
     <string name="qs_brightness_slider_category">Curseur de luminosité</string>
@@ -162,8 +162,8 @@ Si vous ne signalez pas correctement quelque chose, NE VOUS ATTENDEZ PAS à ce q
     <string name="gestures_summary">Prenez votre temps</string>
     <!-- Lockscreen media artwork -->
     <string name="lockscreen_media_blur_title">Niveau de flou des pochettes d\'album</string>
-    <string name="show_lockscreen_media_art_title">Show media art</string>
-    <string name="lockscreen_media_art_options_title">Lockscreen media art</string>
+    <string name="show_lockscreen_media_art_title">Afficher la pochette du média</string>
+    <string name="lockscreen_media_art_options_title">Pochette du média sur l\'écran de verrouillage</string>
     <!-- Udfps animations -->
     <string name="udfps_category">Udfps</string>
     <string name="search">Recherche</string>
@@ -229,35 +229,35 @@ Si vous ne signalez pas correctement quelque chose, NE VOUS ATTENDEZ PAS à ce q
     <string name="unit_milliseconds">millisecondes</string>
     <string name="unit_seconds">secondes</string>
     <!-- UDFPS settings -->
-    <string name="udfps_settings_title">UDFPS customization</string>
-    <string name="udfps_settings_summary">Customize under-display fingerprint scanner</string>
-    <string name="udfps_icon_picker_title">UDFPS icon picker</string>
-    <string name="udfps_icon_picker_summary">Choose your favorite fingerprint icon</string>
-    <string name="udfps_recog_animation_effect_title">UDFPS animation effect</string>
-    <string name="udfps_recog_animation_effect_summary">Choose animation effect</string>
+    <string name="udfps_settings_title">Personnalisation du capteur d\'empreinte</string>
+    <string name="udfps_settings_summary">Personnaliser le capteur d\'empreinte digitale</string>
+    <string name="udfps_icon_picker_title">Icône du capteur d\'empreinte</string>
+    <string name="udfps_icon_picker_summary">Choisissez votre icône d\'empreinte digitale préférée</string>
+    <string name="udfps_recog_animation_effect_title">Effet d\'animation du capteur d\'empreinte</string>
+    <string name="udfps_recog_animation_effect_summary">Choisissez l\'effet d\'animation</string>
     <!-- Font style / Icon pack -->
-    <string name="theme_customization_font_title">Font style</string>
-    <string name="theme_customization_font_summary">Set system font style</string>
-    <string name="theme_customization_icon_pack_title">Icon pack</string>
-    <string name="theme_customization_icon_pack_summary">Set custom icon pack style</string>
-    <string name="theme_customization_icon_shape_title">Icon shape</string>
-    <string name="theme_customization_icon_shape_summary">Set system icon shape style</string>
+    <string name="theme_customization_font_title">Style de police</string>
+    <string name="theme_customization_font_summary">Définir le style de police du système</string>
+    <string name="theme_customization_icon_pack_title">Pack d’icônes</string>
+    <string name="theme_customization_icon_pack_summary">Définir le style du pack d\'icônes</string>
+    <string name="theme_customization_icon_shape_title">Forme des icônes</string>
+    <string name="theme_customization_icon_shape_summary">Définir le style de forme des icônes système</string>
     <!-- Custom FOD Icon -->
-    <string name="custom_fp_icon_title">Custom UDFPS Icon</string>
-    <string name="custom_fp_icon_summary">Enable custom UDFPS Icon from files</string>
-    <string name="custom_fp_select_title">Select Custom UDFPS Icon</string>
-    <string name="custom_fp_select_summary">Select custom image from your saved files or gallery</string>
+    <string name="custom_fp_icon_title">Icône UDFPS personnalisée</string>
+    <string name="custom_fp_icon_summary">Activer l\'icône UDFPS personnalisée à partir des fichiers</string>
+    <string name="custom_fp_select_title">Sélectionnez l\'icône UDFPS personnalisée</string>
+    <string name="custom_fp_select_summary">Sélectionnez une image personnalisée à partir de vos fichiers enregistrés ou de votre galerie</string>
     <!-- Brightness slider -->
-    <string name="qqs_show_brightness_title">Show brightness slider in Quick QS panel</string>
-    <string name="brightness_slider_position_title">Brightness slider position</string>
-    <string name="top">Top</string>
-    <string name="bottom">Bottom</string>
-    <string name="show_auto_brightness_button_title">Show auto brightness button</string>
+    <string name="qqs_show_brightness_title">Afficher le curseur de luminosité dans le panneau des réglages rapides</string>
+    <string name="brightness_slider_position_title">Position du curseur de luminosité</string>
+    <string name="top">Haut</string>
+    <string name="bottom">Bas</string>
+    <string name="show_auto_brightness_button_title">Afficher le bouton de luminosité automatique</string>
     <!-- Statusbar colored icons -->
-    <string name="statusbar_colored_icons_title">Colored icons</string>
-    <string name="statusbar_colored_icons_summary">Use proper app icons for notification icons in statusbar</string>
+    <string name="statusbar_colored_icons_title">Icônes colorées</string>
+    <string name="statusbar_colored_icons_summary">Utiliser les icônes des applications comme icônes de notification dans la barre d\'état</string>
     <!-- reTicker -->
-    <string name="reticker_title">reTicker\nRequires SystemUI restart</string>
+    <string name="reticker_title">reTicker\nNécessite un redémarrage de l\'interface utilisateur</string>
     <string name="reticker_summary">Replace your notifications with a redesigned version of tickers. \nSlim and less invasive than a standard notification</string>
     <string name="reticker_colored_title">Use app colored background</string>
     <string name="reticker_colored_summary">Replace reTicker background color using notification app main color</string>
