@@ -17,7 +17,7 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General app strings -->
-    <string name="extensions_title">PEXtensiones</string>
+    <string name="extensions_title">PEXtension</string>
     <string name="add">Agregar</string>
     <string name="advanced">Avanzado</string>
     <string name="cancel">Cancelar</string>
