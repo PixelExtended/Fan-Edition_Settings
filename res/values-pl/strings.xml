@@ -52,7 +52,7 @@
     <string name="gestures_category">Dostosowanie gestów</string>
     <!-- App info dialog -->
     <string name="extensions_dialog_title">Pomóż nam, pomóż sobie!</string>
-    <string name="extensions_dialog_message">Jeśli znajdziesz błąd z którymkolwiek z tych ustawień, zgłoś go w naszej grupie Telegram. MUSISZ zawierać następujące informacje podczas publikowania raportu o błędzie:\n\n1. Logcat lub last_kmsg\n2. Kernel i mods użyto\n3. Przydatne informacje\n\nJeśli nie zgłosisz czegoś w odpowiedni sposób, NIE oczekuj napraw.</string>
+    <string name="extensions_dialog_message">Jeśli znajdziesz błąd z którymkolwiek z tych ustawień, zgłoś go na naszej grupie Telegram. MUSISZ dołączyć następujące informacje podczas publikowania raportu o błędzie:\n\n1. Logcat lub last_kmsg\n2. Kernel i używane mody\n3. Przydatne informacje\n\nJeśli nie zgłosisz czegoś w odpowiedni sposób, NIE oczekuj napraw.</string>
     <string name="extensions_dialog_toast">PRZECZYTAJ WSZYSTKO!</string>
     <string name="artwork_media_fade_level_summary">Zanikanie obrazu grafiki</string>
     <!-- QuickSettings haptic feedback -->
