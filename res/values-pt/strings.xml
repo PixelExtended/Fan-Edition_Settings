@@ -33,8 +33,8 @@
     <string name="color_title">Cor</string>
     <string name="colors_title">Cores</string>
     <string name="misc_title">Diversos</string>
-    <string name="enable">Enable</string>
-    <string name="disable">Disable</string>
+    <string name="enable">Habilitar</string>
+    <string name="disable">Desabilitar</string>
     <!-- Extensions categories -->
     <string name="status_bar_category">Barra de status</string>
     <string name="system_category">Sistema</string>
@@ -126,8 +126,8 @@
     <string name="fprint_error_vib_title">Vibrar quando o desbloqueio falhar</string>
     <string name="fprint_error_vib_summary">Resposta tátil quando o desbloqueio por impressão digital falhar</string>
     <!-- Wake on plug -->
-    <string name="wake_when_plugged_or_unplugged_title">Wake on plug</string>
-    <string name="wake_when_plugged_or_unplugged_summary">Turn the screen on when connecting or disconnecting a power source</string>
+    <string name="wake_when_plugged_or_unplugged_title">Acordar ao plugar</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Ligar a tela ao conectar ou desconectar o carregador</string>
     <!-- Quick QS pulldown -->
     <string name="status_bar_quick_qs_pulldown">Mostrar configurações rápidas ao deslizar rápido para baixo</string>
     <string name="quick_pulldown_none">Desativado</string>
@@ -136,7 +136,7 @@
     <!-- Torch Power button gestures -->
     <string name="torch_power_button_gesture_title">Lanterna rápida</string>
     <string name="torch_power_button_gesture_none">Desativado</string>
-    <string name="torch_power_button_gesture_dt">Double press power button (Disables Quickly open camera feature and adds 170ms wakeup delay)</string>
+    <string name="torch_power_button_gesture_dt">Pressionar o botão liga/desliga (Desativa rapidamente o recurso de abrir camêra e adiciona 170ms de atraso)</string>
     <string name="torch_power_button_gesture_lp">Toque longo no botão liga/desliga</string>
     <!-- Quick Settings brightness slider -->
     <string name="qs_brightness_slider_category">Controle deslizante de brilho</string>
@@ -157,8 +157,8 @@
     <string name="gestures_summary">Tome sua pílula</string>
     <!-- Lockscreen media artwork -->
     <string name="lockscreen_media_blur_title">Nível de desfoque da arte de mídia</string>
-    <string name="show_lockscreen_media_art_title">Show media art</string>
-    <string name="lockscreen_media_art_options_title">Lockscreen media art</string>
+    <string name="show_lockscreen_media_art_title">Mostar arte da capa de mídia</string>
+    <string name="lockscreen_media_art_options_title">Arte do álbum na tela de bloqueio</string>
     <!-- Udfps animations -->
     <string name="udfps_category">Impressão digital na tela</string>
     <string name="search">Pesquisar</string>
@@ -224,51 +224,51 @@
     <string name="unit_milliseconds">milissegundos</string>
     <string name="unit_seconds">segundos</string>
     <!-- UDFPS settings -->
-    <string name="udfps_settings_title">UDFPS customization</string>
-    <string name="udfps_settings_summary">Customize under-display fingerprint scanner</string>
-    <string name="udfps_icon_picker_title">UDFPS icon picker</string>
-    <string name="udfps_icon_picker_summary">Choose your favorite fingerprint icon</string>
-    <string name="udfps_recog_animation_effect_title">UDFPS animation effect</string>
-    <string name="udfps_recog_animation_effect_summary">Choose animation effect</string>
+    <string name="udfps_settings_title">Personalização da impressão digital</string>
+    <string name="udfps_settings_summary">Personalize a impressão digital na tela</string>
+    <string name="udfps_icon_picker_title">Selecionar ícone de impressão digital</string>
+    <string name="udfps_icon_picker_summary">Escolha seu ícone de impressão digital favorito</string>
+    <string name="udfps_recog_animation_effect_title">Animação da impressão digital</string>
+    <string name="udfps_recog_animation_effect_summary">Escolher efeito de animação</string>
     <!-- Font style / Icon pack -->
-    <string name="theme_customization_font_title">Font style</string>
-    <string name="theme_customization_font_summary">Set system font style</string>
-    <string name="theme_customization_icon_pack_title">Icon pack</string>
-    <string name="theme_customization_icon_pack_summary">Set custom icon pack style</string>
-    <string name="theme_customization_icon_shape_title">Icon shape</string>
-    <string name="theme_customization_icon_shape_summary">Set system icon shape style</string>
+    <string name="theme_customization_font_title">Estilo de fonte</string>
+    <string name="theme_customization_font_summary">Definir estilo de fonte do sistema</string>
+    <string name="theme_customization_icon_pack_title">Pacote de ícones</string>
+    <string name="theme_customization_icon_pack_summary">Definir pacote de ícones personalizado</string>
+    <string name="theme_customization_icon_shape_title">Formato dos ícones</string>
+    <string name="theme_customization_icon_shape_summary">Definir formato dos ícones do sistema</string>
     <!-- Custom FOD Icon -->
-    <string name="custom_fp_icon_title">Custom UDFPS Icon</string>
-    <string name="custom_fp_icon_summary">Enable custom UDFPS Icon from files</string>
-    <string name="custom_fp_select_title">Select Custom UDFPS Icon</string>
-    <string name="custom_fp_select_summary">Select custom image from your saved files or gallery</string>
+    <string name="custom_fp_icon_title">Ícone de impressão digital personalizado</string>
+    <string name="custom_fp_icon_summary">Usar ícone de impressão digital personalizado através de um arquivo</string>
+    <string name="custom_fp_select_title">Selecionar ícone de impressão digital personalizado</string>
+    <string name="custom_fp_select_summary">Selecionar uma imagem personalizada dos seus arquivos salvos ou galeria</string>
     <!-- Brightness slider -->
-    <string name="qqs_show_brightness_title">Show brightness slider in Quick QS panel</string>
-    <string name="brightness_slider_position_title">Brightness slider position</string>
-    <string name="top">Top</string>
-    <string name="bottom">Bottom</string>
-    <string name="show_auto_brightness_button_title">Show auto brightness button</string>
+    <string name="qqs_show_brightness_title">Mostrar controle deslizante de brilho no painel de configurações rápidas</string>
+    <string name="brightness_slider_position_title">Posição do controle deslizante de brilho</string>
+    <string name="top">Acima</string>
+    <string name="bottom">Embaixo</string>
+    <string name="show_auto_brightness_button_title">Mostrar botão de brilho automático</string>
     <!-- Statusbar colored icons -->
-    <string name="statusbar_colored_icons_title">Colored icons</string>
-    <string name="statusbar_colored_icons_summary">Use proper app icons for notification icons in statusbar</string>
+    <string name="statusbar_colored_icons_title">Ícones coloridos</string>
+    <string name="statusbar_colored_icons_summary">Mostrar ícones na cor correspondente a do aplicativo nas notificações da barra de status</string>
     <!-- reTicker -->
-    <string name="reticker_title">reTicker\nRequires SystemUI restart</string>
-    <string name="reticker_summary">Replace your notifications with a redesigned version of tickers. \nSlim and less invasive than a standard notification</string>
-    <string name="reticker_colored_title">Use app colored background</string>
-    <string name="reticker_colored_summary">Replace reTicker background color using notification app main color</string>
-    <string name="reticker_landscape_only_title">Landscape only</string>
-    <string name="reticker_landscape_only_summary">Only enable reTicker when device is in landscape mode</string>
+    <string name="reticker_title">reTicker\nRequer reinicialização da SystemUI</string>
+    <string name="reticker_summary">Substitua suas notificações por uma versão redesenhada dos tickers! \nMenos invasivo do que uma notificação padrão</string>
+    <string name="reticker_colored_title">Usar fundo colorido do aplicativo</string>
+    <string name="reticker_colored_summary">Substitua a cor de fundo do reTicker usando a cor principal do aplicativo de notificação</string>
+    <string name="reticker_landscape_only_title">Modo paisagem apenas</string>
+    <string name="reticker_landscape_only_summary">Ativar o reTicker apenas quando o dispositivo estiver em modo paisagem</string>
     <!-- QS tiles layout -->
-    <string name="qs_tile_layout_title">QS tiles layout</string>
-    <string name="qs_tile_layout_summary">Customize tiles layout in QS panel</string>
-    <string name="qs_tiles_layout_category">Tiles layout</string>
-    <string name="qs_rows_portrait_title">Rows (Portrait)</string>
-    <string name="qqs_rows_portrait_title">Rows (Quick QS portrait)</string>
-    <string name="qs_columns_portrait_title">Columns (Portrait)</string>
-    <string name="qs_apply_change_button_title">Apply change</string>
-    <string name="qs_apply_change_failed">Failed to apply change</string>
-    <string name="qs_tile_hide_label_title">Hide labels</string>
-    <string name="qs_tile_hide_label_summary">Show only icon for QS tiles</string>
-    <string name="qs_tile_vertical_layout_title">Vertical layout</string>
-    <string name="qs_tile_vertical_layout_summary">Enable vertical layout for QS tiles</string>
+    <string name="qs_tile_layout_title">Layout das configurações rápidas</string>
+    <string name="qs_tile_layout_summary">Personalizar o layout dos blocos no painel de configurações rápidas</string>
+    <string name="qs_tiles_layout_category">Estilo dos blocos</string>
+    <string name="qs_rows_portrait_title">Número de linhas (retrato)</string>
+    <string name="qqs_rows_portrait_title">Linhas (painel de acesso rápido)</string>
+    <string name="qs_columns_portrait_title">Colunas (retrato)</string>
+    <string name="qs_apply_change_button_title">Aplicar as alterações</string>
+    <string name="qs_apply_change_failed">Falha ao aplicar as alterações</string>
+    <string name="qs_tile_hide_label_title">Ocultar rótulos</string>
+    <string name="qs_tile_hide_label_summary">Mostrar apenas ícones dos blocos nas configurações rápidas</string>
+    <string name="qs_tile_vertical_layout_title">Layout vertical</string>
+    <string name="qs_tile_vertical_layout_summary">Mostrar os blocos das configurações rápidas no estilo vertical</string>
 </resources>
