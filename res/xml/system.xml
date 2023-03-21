@@ -31,6 +31,28 @@
 
        </PreferenceCategory>
 
+    <PreferenceCategory
+        android:title="@string/navigation_category">
+
+        <com.android.settings.custom.preference.SecureSettingListPreference
+            android:key="navbar_layout_views"
+            android:title="@string/navbar_layout_title"
+            android:summary="%s"
+            android:entries="@array/navbar_layout_entries"
+            android:entryValues="@array/navbar_layout_values"
+            android:defaultValue="default" />
+
+        <com.android.settings.custom.preference.SecureSettingSwitchPreference
+            android:key="navbar_inverse_layout"
+            android:title="@string/navbar_invert_layout_title"
+            android:summary="@string/navbar_invert_layout_summary"
+            android:defaultValue="false" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/misc_title">
+
     <!-- In-call feedback -->
     <com.android.settings.custom.preference.SystemSettingSwitchPreference
         android:key="incall_feeedback_vibrate"
@@ -44,5 +66,7 @@
         android:summary="@string/app_volume_summary"
         android:defaultValue="false"
         android:order="-5"/>
+
+    </PreferenceCategory>
 
 </PreferenceScreen>
