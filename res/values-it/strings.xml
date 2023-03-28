@@ -35,6 +35,9 @@
     <string name="misc_title">Varie</string>
     <string name="enable">Attiva</string>
     <string name="disable">Disabilita</string>
+    <string name="navigation_category">Pulsanti di navigazione</string>
+    <string name="privacy_category">Indicatori Di Privacy (Richiede Riavvio)</string>
+    <string name="general_category">Generale</string>
     <!-- Extensions categories -->
     <string name="status_bar_category">Barra di Stato</string>
     <string name="system_category">Sistema</string>
@@ -138,21 +141,6 @@
     <string name="torch_power_button_gesture_none">Disabilitato</string>
     <string name="torch_power_button_gesture_dt">Premi due volte il tasto di accensione (Disabilita la funzione di apertura rapida della Fotocamera e aggiunge un ritardo di risveglio di 170ms)</string>
     <string name="torch_power_button_gesture_lp">Pressione prolungata del pulsante d\'alimentazione</string>
-    <!-- Quick Settings brightness slider -->
-    <string name="qs_brightness_slider_category">Cursore della luminosità</string>
-    <string name="qs_brightness_slider_title">Visualizza il cursore della luminosità</string>
-    <string name="qs_brightness_slider_summary">Mostra il cursore della luminosità nel pannello delle impostazioni rapide</string>
-    <string name="qs_brightness_position_bottom_title">Visualizza il cursore della luminosità nella parte inferiore</string>
-    <string name="qs_brightness_position_bottom_summary">Mostra il cursore della luminosità nella parte inferiore del pannello delle impostazioni rapide</string>
-    <!-- Quick Settings brightness icon -->
-    <string name="brightness_icon_title">Pulsante luminosità adattiva</string>
-    <string name="brightness_icon_summary">Mostra il pulsante della luminosità adattiva</string>
-    <!-- Quick QS Panel brightness slider -->
-    <string name="quick_qs_brightness_slider_title">Mostra il cursore della luminosità nel pannello QS rapido</string>
-    <string name="quick_qs_brightness_slider_summary">Visualizza un cursore della luminosità nel pannello delle impostazioni rapide</string>
-    <!-- Brightness control -->
-    <string name="status_bar_toggle_brightness">Controllo della luminosità</string>
-    <string name="status_bar_toggle_brightness_summary">Regola la luminosità scorrendo sulla barra di stato</string>
     <string name="gestures_title">Personalizzazione dei gesti della barra di navigazione</string>
     <string name="gestures_summary">Mostra il Pill</string>
     <!-- Lockscreen media artwork -->
@@ -242,12 +230,6 @@
     <string name="custom_fp_icon_summary">Abilita l\'icona UDFPS personalizzata da file</string>
     <string name="custom_fp_select_title">Selezionare l\'icona UDFPS personalizzata</string>
     <string name="custom_fp_select_summary">Selezionare un\'immagine personalizzata dai file salvati o dalla galleria - Non usare Google Foto</string>
-    <!-- Brightness slider -->
-    <string name="qqs_show_brightness_title">Mostra la barra della luminosità nel pannello delle impostazioni rapide</string>
-    <string name="brightness_slider_position_title">Posizione barra luminosità</string>
-    <string name="top">In Alto</string>
-    <string name="bottom">In Basso</string>
-    <string name="show_auto_brightness_button_title">Visualizza il pulsante della luminosità adattiva</string>
     <!-- Statusbar colored icons -->
     <string name="statusbar_colored_icons_title">Icone colorate</string>
     <string name="statusbar_colored_icons_summary">Usa le icone delle app appropriate per le icone di notifica nella barra di stato</string>
@@ -271,4 +253,44 @@
     <string name="qs_tile_hide_label_summary">Mostra solo icona per i tile</string>
     <string name="qs_tile_vertical_layout_title">Layout verticale</string>
     <string name="qs_tile_vertical_layout_summary">Abilita il layout verticale per i tile</string>
+    <!-- Navbar Layout -->
+    <string name="navbar_layout_category_title">Layout</string>
+    <string name="navbar_layout_title">Layout</string>
+    <string name="navbar_layout_normal">Normale</string>
+    <string name="navbar_layout_compact">Compatto</string>
+    <string name="navbar_layout_leftleaning">Orientato a sinistra</string>
+    <string name="navbar_layout_rightleaning">Orientato a destra</string>
+    <string name="navbar_invert_layout_title">Inverti il layout</string>
+    <string name="navbar_invert_layout_summary">Inverte il layout della barra di navigazione e altri elementi, come lo switcher IME</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">Utilizzo dati</string>
+    <string name="qs_footer_datausage_summary">Mostra il riepilogo dell\'utilizzo dati giornaliero nella parte inferiore delle impostazioni rapide</string>
+    <!-- Privacy indicators -->
+    <string name="mic_camera_privacy_indicator_title">Indicatore di privacy microfono e fotocamera</string>
+    <string name="mic_camera_privacy_indicator_summary">Mostra un indicatore separato quando qualsiasi app utilizza microfono o fotocamera</string>
+    <string name="location_privacy_indicator_title">Posizione indicatore privacy</string>
+    <string name="location_privacy_indicator_summary">Mostra un indicatore quando un\'app utilizza la posizione</string>
+    <string name="projection_privacy_indicator_title">Indicatore privacy proiezione media</string>
+    <string name="projection_privacy_indicator_summary">Mostra un indicatore quando lo schermo del dispositivo è proiettato</string>
+    <!-- QQS brightness slider -->
+    <string name="qqs_brightness_slider_title">Cursore luminosità nelle impostazioni rapide</string>
+    <string name="qs_brightness_slider_hide">Nascondi</string>
+    <string name="qs_brightness_slider_bottom">In Basso</string>
+    <string name="qs_brightness_slider_top">In Alto</string>
+    <!-- Statusbar brightness control -->
+    <string name="status_bar_brightness_control_title">Cursore luminosità sulla barra di stato</string>
+    <string name="status_bar_brightness_control_summary">Regola la luminosità scorrendo il dito sulla barra di stato</string>
+    <!-- Quick Settings brightness slider -->
+    <string name="qs_show_brightness_slider_title">Cursore della luminosità</string>
+    <string name="qs_show_brightness_slider_never">Non mostrare mai</string>
+    <string name="qs_show_brightness_slider_expanded">Mostra quando esteso</string>
+    <string name="qs_show_brightness_slider_always">Visualizza sempre</string>
+    <string name="qs_show_brightness_slider_not_expanded">Mostra quando non espanso</string>
+    <string name="qs_brightness_slider_position_title">Posizione</string>
+    <string name="qs_brightness_slider_position_top">In Alto</string>
+    <string name="qs_brightness_slider_position_bottom">In Basso</string>
+    <string name="default_string">Predefinito</string>
+    <!-- Quick Settings brightness icon -->
+    <string name="qs_show_auto_brightness_title">Icona luminosità automatica</string>
+    <string name="qs_show_auto_brightness_summary">Mostra il toggle per la luminosità adattiva vicino al cursore</string>
 </resources>
