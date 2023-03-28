@@ -35,6 +35,9 @@
     <string name="misc_title">Varios</string>
     <string name="enable">Habilitar</string>
     <string name="disable">Deshabilitar</string>
+    <string name="navigation_category">Navigation Buttons</string>
+    <string name="privacy_category">Privacy Indicators (Requires Restart)</string>
+    <string name="general_category">General</string>
     <!-- Extensions categories -->
     <string name="status_bar_category">Barra de estado</string>
     <string name="system_category">Sistema</string>
@@ -138,21 +141,6 @@
     <string name="torch_power_button_gesture_none">Deshabilitado</string>
     <string name="torch_power_button_gesture_dt">Doble pulsación del botón de encendido (Desactiva la función de cámara rápida y añade 170 ms de retraso de encendido)</string>
     <string name="torch_power_button_gesture_lp">Pulsación larga del botón de encendido</string>
-    <!-- Quick Settings brightness slider -->
-    <string name="qs_brightness_slider_category">Control deslizante de brillo</string>
-    <string name="qs_brightness_slider_title">Mostrar control deslizante de brillo</string>
-    <string name="qs_brightness_slider_summary">Mostrar un deslizador de brillo en el panel de ajustes rápidos</string>
-    <string name="qs_brightness_position_bottom_title">Mostrar barra deslizante de brillo en la parte inferior</string>
-    <string name="qs_brightness_position_bottom_summary">Mostrar barra deslizante de brillo en la parte inferior de los ajustes rápidos</string>
-    <!-- Quick Settings brightness icon -->
-    <string name="brightness_icon_title">Botón de brillo automático</string>
-    <string name="brightness_icon_summary">Mostrar botón de brillo automático</string>
-    <!-- Quick QS Panel brightness slider -->
-    <string name="quick_qs_brightness_slider_title">Mostrar barra deslizante de brillo en los Ajustes rápidos</string>
-    <string name="quick_qs_brightness_slider_summary">Mostrar la barra de deslizante brillo en el panel de ajustes rápidos</string>
-    <!-- Brightness control -->
-    <string name="status_bar_toggle_brightness">Control de brillo</string>
-    <string name="status_bar_toggle_brightness_summary">Ajusta el brillo deslizando el dedo en la barra de estado</string>
     <string name="gestures_title">Personalización de barra de navegación</string>
     <string name="gestures_summary">Elige tu barra</string>
     <!-- Lockscreen media artwork -->
@@ -242,12 +230,6 @@
     <string name="custom_fp_icon_summary">Habilita icono de huella personalizado desde archivos</string>
     <string name="custom_fp_select_title">Selecciona icono de huella personalizado</string>
     <string name="custom_fp_select_summary">Selecciona icono de huella desde archivos o galería</string>
-    <!-- Brightness slider -->
-    <string name="qqs_show_brightness_title">Mostrar barra deslizante de brillo en los ajustes rápidos</string>
-    <string name="brightness_slider_position_title">Posición de la barra deslizante de brillo</string>
-    <string name="top">Arriba</string>
-    <string name="bottom">Abajo</string>
-    <string name="show_auto_brightness_button_title">Mostrar botón de brillo automático</string>
     <!-- Statusbar colored icons -->
     <string name="statusbar_colored_icons_title">Iconos coloreados</string>
     <string name="statusbar_colored_icons_summary">Usar iconos de aplicación adecuados para iconos de notificación en la barra de estado</string>
@@ -271,4 +253,44 @@
     <string name="qs_tile_hide_label_summary">Show only icon for QS tiles</string>
     <string name="qs_tile_vertical_layout_title">Vertical layout</string>
     <string name="qs_tile_vertical_layout_summary">Enable vertical layout for QS tiles</string>
+    <!-- Navbar Layout -->
+    <string name="navbar_layout_category_title">Layout</string>
+    <string name="navbar_layout_title">Layout</string>
+    <string name="navbar_layout_normal">Normal</string>
+    <string name="navbar_layout_compact">Compact</string>
+    <string name="navbar_layout_leftleaning">Left-leaning</string>
+    <string name="navbar_layout_rightleaning">Right-leaning</string>
+    <string name="navbar_invert_layout_title">Invert layout</string>
+    <string name="navbar_invert_layout_summary">Inverts the layout of the navigation bar and other items, such as the IME switcher</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">Data usage</string>
+    <string name="qs_footer_datausage_summary">Display data usage summary in quick settings footer</string>
+    <!-- Privacy indicators -->
+    <string name="mic_camera_privacy_indicator_title">Mic and camera privacy indicator</string>
+    <string name="mic_camera_privacy_indicator_summary">Show indicator when any app uses mic or camera</string>
+    <string name="location_privacy_indicator_title">Location privacy indicator</string>
+    <string name="location_privacy_indicator_summary">Show indicator when any app uses location</string>
+    <string name="projection_privacy_indicator_title">Media projection privacy indicator</string>
+    <string name="projection_privacy_indicator_summary">Show indicator when device screen is projected</string>
+    <!-- QQS brightness slider -->
+    <string name="qqs_brightness_slider_title">QQS brightness slider</string>
+    <string name="qs_brightness_slider_hide">Hide</string>
+    <string name="qs_brightness_slider_bottom">Bottom</string>
+    <string name="qs_brightness_slider_top">Top</string>
+    <!-- Statusbar brightness control -->
+    <string name="status_bar_brightness_control_title">Statusbar Brightness Control</string>
+    <string name="status_bar_brightness_control_summary">Adjust brightness by sliding across statusbar</string>
+    <!-- Quick Settings brightness slider -->
+    <string name="qs_show_brightness_slider_title">Brightness slider</string>
+    <string name="qs_show_brightness_slider_never">Never show</string>
+    <string name="qs_show_brightness_slider_expanded">Show when expanded</string>
+    <string name="qs_show_brightness_slider_always">Show always</string>
+    <string name="qs_show_brightness_slider_not_expanded">Show when not expanded</string>
+    <string name="qs_brightness_slider_position_title">Position</string>
+    <string name="qs_brightness_slider_position_top">Top</string>
+    <string name="qs_brightness_slider_position_bottom">Bottom</string>
+    <string name="default_string">Default</string>
+    <!-- Quick Settings brightness icon -->
+    <string name="qs_show_auto_brightness_title">Auto brightness icon</string>
+    <string name="qs_show_auto_brightness_summary">Show toggle for adaptive brightness near the slider</string>
 </resources>
