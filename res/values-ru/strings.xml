@@ -35,6 +35,9 @@
     <string name="misc_title">Прочее</string>
     <string name="enable">Включить</string>
     <string name="disable">Отключить</string>
+    <string name="navigation_category">Navigation Buttons</string>
+    <string name="privacy_category">Privacy Indicators (Requires Restart)</string>
+    <string name="general_category">General</string>
     <!-- Extensions categories -->
     <string name="status_bar_category">Строка состояния</string>
     <string name="system_category">Система</string>
@@ -138,21 +141,6 @@
     <string name="torch_power_button_gesture_none">Отключено</string>
     <string name="torch_power_button_gesture_dt">Дважды нажмите кнопку питания (отключает функцию Быстрого открытия камеры и добавляет задержку пробуждения 170 мс)</string>
     <string name="torch_power_button_gesture_lp">Долгое нажатие кнопки питания</string>
-    <!-- Quick Settings brightness slider -->
-    <string name="qs_brightness_slider_category">Ползунок яркости</string>
-    <string name="qs_brightness_slider_title">Показывать ползунок яркости</string>
-    <string name="qs_brightness_slider_summary">Показать ползунок яркости на панели быстрых настроек</string>
-    <string name="qs_brightness_position_bottom_title">Показывать ползунок яркости внизу</string>
-    <string name="qs_brightness_position_bottom_summary">Показывать ползунок яркости внизу быстрых настроек</string>
-    <!-- Quick Settings brightness icon -->
-    <string name="brightness_icon_title">Кнопка адаптивной яркости</string>
-    <string name="brightness_icon_summary">Показывать кнопку адаптивной яркости</string>
-    <!-- Quick QS Panel brightness slider -->
-    <string name="quick_qs_brightness_slider_title">Показать ползунок яркости в панели быстрых настроек</string>
-    <string name="quick_qs_brightness_slider_summary">Показать ползунок яркости в панели быстрых настроек</string>
-    <!-- Brightness control -->
-    <string name="status_bar_toggle_brightness">Управление яркостью</string>
-    <string name="status_bar_toggle_brightness_summary">Регулировка яркости движением по строке состояния</string>
     <string name="gestures_title">Настройки жестов панели навигации</string>
     <string name="gestures_summary">Возьмите таблетку</string>
     <!-- Lockscreen media artwork -->
@@ -242,12 +230,6 @@
     <string name="custom_fp_icon_summary">Включить пользовательский значок UDFPS из файлов</string>
     <string name="custom_fp_select_title">Выбор пользовательского значка UDFPS</string>
     <string name="custom_fp_select_summary">Выберите изображение из сохраненных файлов или галереи</string>
-    <!-- Brightness slider -->
-    <string name="qqs_show_brightness_title">Показать ползунок яркости в панели быстрых настроек</string>
-    <string name="brightness_slider_position_title">Положение слайдера яркости</string>
-    <string name="top">Сверху</string>
-    <string name="bottom">Снизу</string>
-    <string name="show_auto_brightness_button_title">Показывать кнопку автояркости</string>
     <!-- Statusbar colored icons -->
     <string name="statusbar_colored_icons_title">Цветные иконки</string>
     <string name="statusbar_colored_icons_summary">Использовать значки приложений для уведомлений в строке состояния</string>
@@ -271,4 +253,44 @@
     <string name="qs_tile_hide_label_summary">Показывать только иконку для плиток быстрых настроек</string>
     <string name="qs_tile_vertical_layout_title">Вертикальная ориентация</string>
     <string name="qs_tile_vertical_layout_summary">Включить вертикальное расположение плиток быстрых настроек</string>
+    <!-- Navbar Layout -->
+    <string name="navbar_layout_category_title">Layout</string>
+    <string name="navbar_layout_title">Layout</string>
+    <string name="navbar_layout_normal">Normal</string>
+    <string name="navbar_layout_compact">Compact</string>
+    <string name="navbar_layout_leftleaning">Left-leaning</string>
+    <string name="navbar_layout_rightleaning">Right-leaning</string>
+    <string name="navbar_invert_layout_title">Invert layout</string>
+    <string name="navbar_invert_layout_summary">Inverts the layout of the navigation bar and other items, such as the IME switcher</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">Data usage</string>
+    <string name="qs_footer_datausage_summary">Display data usage summary in quick settings footer</string>
+    <!-- Privacy indicators -->
+    <string name="mic_camera_privacy_indicator_title">Mic and camera privacy indicator</string>
+    <string name="mic_camera_privacy_indicator_summary">Show indicator when any app uses mic or camera</string>
+    <string name="location_privacy_indicator_title">Location privacy indicator</string>
+    <string name="location_privacy_indicator_summary">Show indicator when any app uses location</string>
+    <string name="projection_privacy_indicator_title">Media projection privacy indicator</string>
+    <string name="projection_privacy_indicator_summary">Show indicator when device screen is projected</string>
+    <!-- QQS brightness slider -->
+    <string name="qqs_brightness_slider_title">QQS brightness slider</string>
+    <string name="qs_brightness_slider_hide">Hide</string>
+    <string name="qs_brightness_slider_bottom">Bottom</string>
+    <string name="qs_brightness_slider_top">Top</string>
+    <!-- Statusbar brightness control -->
+    <string name="status_bar_brightness_control_title">Statusbar Brightness Control</string>
+    <string name="status_bar_brightness_control_summary">Adjust brightness by sliding across statusbar</string>
+    <!-- Quick Settings brightness slider -->
+    <string name="qs_show_brightness_slider_title">Brightness slider</string>
+    <string name="qs_show_brightness_slider_never">Never show</string>
+    <string name="qs_show_brightness_slider_expanded">Show when expanded</string>
+    <string name="qs_show_brightness_slider_always">Show always</string>
+    <string name="qs_show_brightness_slider_not_expanded">Show when not expanded</string>
+    <string name="qs_brightness_slider_position_title">Position</string>
+    <string name="qs_brightness_slider_position_top">Top</string>
+    <string name="qs_brightness_slider_position_bottom">Bottom</string>
+    <string name="default_string">Default</string>
+    <!-- Quick Settings brightness icon -->
+    <string name="qs_show_auto_brightness_title">Auto brightness icon</string>
+    <string name="qs_show_auto_brightness_summary">Show toggle for adaptive brightness near the slider</string>
 </resources>
