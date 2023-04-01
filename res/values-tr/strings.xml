@@ -35,9 +35,9 @@
     <string name="misc_title">Çeşitli</string>
     <string name="enable">Altif</string>
     <string name="disable">Pasif</string>
-    <string name="navigation_category">Navigation Buttons</string>
-    <string name="privacy_category">Privacy Indicators (Requires Restart)</string>
-    <string name="general_category">General</string>
+    <string name="navigation_category">Gezinme tuşu</string>
+    <string name="privacy_category">Gizlilik göstergeleri (Yeniden başlatma gerektirir)</string>
+    <string name="general_category">Genel</string>
     <!-- Extensions categories -->
     <string name="status_bar_category">Durum çubuğu</string>
     <string name="system_category">Sistem</string>
@@ -139,14 +139,14 @@
     <!-- Torch Power button gestures -->
     <string name="torch_power_button_gesture_title">Ekran kapalıyken fener aç</string>
     <string name="torch_power_button_gesture_none">Devre dışı</string>
-    <string name="torch_power_button_gesture_dt">Double press power button (Disables Quickly open camera feature and adds 170ms wakeup delay)</string>
+    <string name="torch_power_button_gesture_dt">Güç tuşuna iki kez basın (Hızlı kamera açma özelliğini devre dışı bırakır ve 170sn uyanma gecikmesi ekler)</string>
     <string name="torch_power_button_gesture_lp">Güç tuşuna uzun bas</string>
     <string name="gestures_title">Gezinme çubuğu hareketi özelleştirmeleri</string>
     <string name="gestures_summary">Hapını al</string>
     <!-- Lockscreen media artwork -->
     <string name="lockscreen_media_blur_title">Medya resmi bulanıklık seviyesi</string>
-    <string name="show_lockscreen_media_art_title">Show media art</string>
-    <string name="lockscreen_media_art_options_title">Lockscreen media art</string>
+    <string name="show_lockscreen_media_art_title">Medya resmini göster</string>
+    <string name="lockscreen_media_art_options_title">Kilit ekranı medya resmi</string>
     <!-- Udfps animations -->
     <string name="udfps_category">Ekran altı parmak izi sensörü</string>
     <string name="search">Ara</string>
@@ -212,34 +212,34 @@
     <string name="unit_milliseconds">milisaniye</string>
     <string name="unit_seconds">saniye</string>
     <!-- UDFPS settings -->
-    <string name="udfps_settings_title">UDFPS customization</string>
-    <string name="udfps_settings_summary">Customize under-display fingerprint scanner</string>
-    <string name="udfps_icon_picker_title">UDFPS icon picker</string>
-    <string name="udfps_icon_picker_summary">Choose your favorite fingerprint icon</string>
-    <string name="udfps_recog_animation_effect_title">UDFPS animation effect</string>
-    <string name="udfps_recog_animation_effect_summary">Choose animation effect</string>
+    <string name="udfps_settings_title">UDFPS özelleştirmeleri</string>
+    <string name="udfps_settings_summary">Ekran altı parmak izi tarayıcısını özelleştirin</string>
+    <string name="udfps_icon_picker_title">UDFPS simge seçici</string>
+    <string name="udfps_icon_picker_summary">Favori parmak izi simgenizi seçin</string>
+    <string name="udfps_recog_animation_effect_title">UDFPS animasyon efekti</string>
+    <string name="udfps_recog_animation_effect_summary">Animasyon efekti seçin</string>
     <!-- Font style / Icon pack -->
-    <string name="theme_customization_font_title">Font style</string>
-    <string name="theme_customization_font_summary">Set system font style</string>
-    <string name="theme_customization_icon_pack_title">Icon pack</string>
-    <string name="theme_customization_icon_pack_summary">Set custom icon pack style</string>
-    <string name="theme_customization_icon_shape_title">Icon shape</string>
-    <string name="theme_customization_icon_shape_summary">Set system icon shape style</string>
+    <string name="theme_customization_font_title">Yazı tipi stili</string>
+    <string name="theme_customization_font_summary">Sistem yazı tipi stili ayarlayın</string>
+    <string name="theme_customization_icon_pack_title">Simge paketi</string>
+    <string name="theme_customization_icon_pack_summary">Özel simge paketi stili ayarlayın</string>
+    <string name="theme_customization_icon_shape_title">Simge şekli</string>
+    <string name="theme_customization_icon_shape_summary">Sistem simgesi şekil stilini ayarlayın</string>
     <!-- Custom FOD Icon -->
-    <string name="custom_fp_icon_title">Custom UDFPS Icon</string>
-    <string name="custom_fp_icon_summary">Enable custom UDFPS Icon from files</string>
-    <string name="custom_fp_select_title">Select Custom UDFPS Icon</string>
-    <string name="custom_fp_select_summary">Select custom image from your saved files or gallery</string>
+    <string name="custom_fp_icon_title">Özel UDFPS simgesi</string>
+    <string name="custom_fp_icon_summary">Dosyalardan özel UDFPS simgesini etkinleştir</string>
+    <string name="custom_fp_select_title">Özel UDFPS simgesi seç</string>
+    <string name="custom_fp_select_summary">Özel simgeyi kayıtlı dosyalarınızdan veya galeriden seçin</string>
     <!-- Statusbar colored icons -->
-    <string name="statusbar_colored_icons_title">Colored icons</string>
-    <string name="statusbar_colored_icons_summary">Use proper app icons for notification icons in statusbar</string>
+    <string name="statusbar_colored_icons_title">Renkli simgeler</string>
+    <string name="statusbar_colored_icons_summary">Durum çubuğundaki bildirim simgeleri için uygun uygulama simgelerini kullanın</string>
     <!-- reTicker -->
-    <string name="reticker_title">reTicker\nRequires SystemUI restart</string>
-    <string name="reticker_summary">Replace your notifications with a redesigned version of tickers. \nSlim and less invasive than a standard notification</string>
-    <string name="reticker_colored_title">Use app colored background</string>
-    <string name="reticker_colored_summary">Replace reTicker background color using notification app main color</string>
-    <string name="reticker_landscape_only_title">Landscape only</string>
-    <string name="reticker_landscape_only_summary">Only enable reTicker when device is in landscape mode</string>
+    <string name="reticker_title">reTicker\nSistem arayüzünün yeniden başlatılması gerekir</string>
+    <string name="reticker_summary">Bildirimlerinizi, bildirim çubuğu yazılarının yeniden tasarlanmış haliyle değiştirin. \nStandart bildirimlerden daha zarif ve daha az dikkat dağıtıcıdır</string>
+    <string name="reticker_colored_title">Uygulama renkli arka planı kullan</string>
+    <string name="reticker_colored_summary">Bildirim uygulaması ana rengini kullanarak reTicker arka plan rengini değiştirin</string>
+    <string name="reticker_landscape_only_title">Sadece yatay</string>
+    <string name="reticker_landscape_only_summary">ReTicker\'i yalnızca cihaz yatay moddayken etkinleştirin</string>
     <!-- QS tiles layout -->
     <string name="qs_tile_layout_title">QS tiles layout</string>
     <string name="qs_tile_layout_summary">Customize tiles layout in QS panel</string>
