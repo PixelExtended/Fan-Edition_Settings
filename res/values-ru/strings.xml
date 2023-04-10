@@ -35,9 +35,9 @@
     <string name="misc_title">Прочее</string>
     <string name="enable">Включить</string>
     <string name="disable">Отключить</string>
-    <string name="navigation_category">Navigation Buttons</string>
-    <string name="privacy_category">Privacy Indicators (Requires Restart)</string>
-    <string name="general_category">General</string>
+    <string name="navigation_category">Кнопки панели навигаци</string>
+    <string name="privacy_category">Индикаторы конфиденциальности (требуется перезапуск)</string>
+    <string name="general_category">Общее</string>
     <!-- Extensions categories -->
     <string name="status_bar_category">Строка состояния</string>
     <string name="system_category">Система</string>
@@ -254,14 +254,14 @@
     <string name="qs_tile_vertical_layout_title">Вертикальная ориентация</string>
     <string name="qs_tile_vertical_layout_summary">Включить вертикальное расположение плиток быстрых настроек</string>
     <!-- Navbar Layout -->
-    <string name="navbar_layout_category_title">Layout</string>
-    <string name="navbar_layout_title">Layout</string>
-    <string name="navbar_layout_normal">Normal</string>
-    <string name="navbar_layout_compact">Compact</string>
-    <string name="navbar_layout_leftleaning">Left-leaning</string>
-    <string name="navbar_layout_rightleaning">Right-leaning</string>
-    <string name="navbar_invert_layout_title">Invert layout</string>
-    <string name="navbar_invert_layout_summary">Inverts the layout of the navigation bar and other items, such as the IME switcher</string>
+    <string name="navbar_layout_category_title">Внешний вид</string>
+    <string name="navbar_layout_title">Внешний вид</string>
+    <string name="navbar_layout_normal">Обычный</string>
+    <string name="navbar_layout_compact">Компактный</string>
+    <string name="navbar_layout_leftleaning">Со сдвигом влево</string>
+    <string name="navbar_layout_rightleaning">Со сдвигом вправо</string>
+    <string name="navbar_invert_layout_title">Инвертировать порядок кнопок</string>
+    <string name="navbar_invert_layout_summary">Инвертирует расположение элементов панели навигации и другие элементы, такие как кнопка смены метода ввода</string>
     <!-- Data usage info in QS footer -->
     <string name="qs_footer_datausage_title">Data usage</string>
     <string name="qs_footer_datausage_summary">Display data usage summary in quick settings footer</string>
