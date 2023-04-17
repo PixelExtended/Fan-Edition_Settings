@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Copyright (C) 2014-2016 The Dirty Unicorns Project
+      Copyright (C) 2016 AospExtended ROM Project
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- General app strings -->
+    <string name="extensions_title">PeXtension</string>
+    <string name="add">Dodaj</string>
+    <string name="advanced">Zaawansowane</string>
+    <string name="cancel">Anuluj</string>
+    <string name="default_text">Domyślne</string>
+    <string name="dlg_ok">Ok</string>
+    <string name="attention">Uwaga</string>
+    <string name="loading">Ładowanie\u2026</string>
+    <string name="reset">Resetuj</string>
+    <string name="reset_colors">Zresetuj kolory</string>
+    <string name="reset_android">Android</string>
+    <string name="text_title">Tekst</string>
+    <string name="icon_title">Ikona</string>
+    <string name="color_title">Kolor</string>
+    <string name="colors_title">Kolory</string>
+    <string name="enable">Włącz</string>
+    <string name="disable">Wyłącz</string>
+    <!-- Extensions categories -->
+    <string name="status_bar_category">Pasek stanu</string>
+    <string name="system_category">System</string>
+    <string name="lockscreen_category">Ekran blokady</string>
+    <string name="hardware_category">Sprzęt</string>
+    <string name="build_tweaks_summary_title">Wejdź tutaj, aby zobaczyć nowy świat!</string>
+    <string name="listview">Widok listy</string>
+    <string name="misc_category">Różne ustawienia</string>
+    <string name="fingerprint_category">Czytnik linii papilarnych</string>
+    <string name="qs_category">Szybkie ustawienia</string>
+    <string name="power_key">Przycisk zasilania</string>
+    <string name="volume_keys">Przyciski głośności</string>
+    <string name="lockscreen_gestures_category">Gesty ekranu blokady</string>
+    <string name="battery_settings_title">Ustawienia baterii</string>
+    <string name="gestures_category">Dostosowanie gestów</string>
+    <!-- App info dialog -->
+    <string name="extensions_dialog_title">Pomóż nam, pomóż sobie!</string>
+    <string name="extensions_dialog_message">Jeśli znajdziesz błąd z którymkolwiek z tych ustawień, zgłoś go na naszej grupie Telegram. MUSISZ dołączyć następujące informacje podczas publikowania raportu o błędzie:\n\n1. Logcat lub last_kmsg\n2. Kernel i używane mody\n3. Przydatne informacje\n\nJeśli nie zgłosisz czegoś w odpowiedni sposób, NIE oczekuj napraw.</string>
+    <string name="extensions_dialog_toast">PRZECZYTAJ WSZYSTKO!</string>
+    <string name="artwork_media_fade_level_summary">Zanikanie obrazu grafiki</string>
+    <!-- QuickSettings haptic feedback -->
+    <string name="quick_settings_vibrate_title">Wibracja przy dotyku</string>
+    <string name="quick_settings_vibrate_summary">Wibruj podczas dotykania przełączników Szybkich ustawień</string>
+    <!-- 4G icon -->
+    <string name="show_fourg_icon_title">Ikona 4G</string>
+    <string name="show_fourg_icon_summary">Wyświetl ikonę 4G zamiast ikony LTE</string>
+    <!-- Show VoLTE icon on statusbar -->
+    <string name="volte_icon_title">Ikona VoLTE</string>
+    <string name="volte_icon_summary">Wyświetl ikonę VoLTE</string>
+    <!-- Incall vibrate options -->
+    <string name="incall_vibration_category">Wibracja podczas połączenia</string>
+    <string name="incall_vibrate_connect_title">Wibracja przy połączeniu</string>
+    <string name="incall_vibrate_call_wait_title">Wibracja przy połączeniu oczekującym</string>
+    <string name="incall_vibrate_disconnect_title">Wibracje przy rozłączeniu</string>
+    <!-- Statusbar Tuner -->
+    <string name="statusbar_items_title">Ikony paska stanu</string>
+    <!-- Double Tap to Sleep Statusbar -->
+    <string name="double_tap_sleep_gesture_title">Dotknij, by uśpić</string>
+    <string name="double_tap_sleep_gesture_summary">Dwukrotnie stuknij pasek stanu, aby uśpić urządzenie</string>
+    <!--Double Tap to Sleep Lockscreen-->
+    <string name="lockscreen_tweaks_category_title">Co zrobić</string>
+    <string name="double_tap_sleep_lockscreen_title">Dwukrotnie stuknij na ekranie blokady, by uśpić</string>
+    <!-- Annoying Notifications -->
+    <string name="notification_sound_vib_screen_on_title">Irytujące Powiadomienia</string>
+    <string name="notification_sound_vib_screen_on_summary">Odtwarzaj dźwięk i wibracje dla powiadomień, gdy ekran jest włączony</string>
+    <!-- Show VoLTE icon on statusbar -->
+    <string name="volte_switch_title">Ikona VoLTE</string>
+    <string name="volte_switch_summary">Wyświetl ikonę VoLTE</string>
+    <string name="volte_icon_style_title">Wybierz ikonę VoLTE</string>
+    <string name="volte_icon_asus">Ikona VoLTE Asus</string>
+    <string name="volte_icon_vo">Tylko ikona Vo</string>
+    <string name="volte_icon_volte">Ikona VoLTE</string>
+    <string name="volte_icon_oos">Ikona VoLTE OSS</string>
+    <string name="volte_icon_hd">Ikona HD</string>
+    <string name="volte_icon_hd2">Ikona HD CAF</string>
+    <string name="volte_icon_miui">Ikona MIUI 11</string>
+    <string name="volte_icon_emui">Ikona EMUI</string>
+    <string name="volte_icon_margaritov">Ikona wypełniona HD</string>
+    <string name="volte_icon_margaritov2">Ikona Margaritov VoLTE</string>
+    <string name="volte_icon_vivo">Ikona Vivo</string>
+    <!-- VoWiFi icon -->
+    <string name="vowifi_icon_title">Ikona VoWiFi</string>
+    <string name="vowifi_icon_enabled">Ikona VoWiFi włączona</string>
+    <string name="vowifi_icon_disabled">Ikona VoWiFi wyłączona</string>
+    <string name="vowifi_icon_enabled_volte_disabled">Pokaż ikonę VoWiFi zamiast VoLTE</string>
+    <string name="vowifi_icon_style_title">Styl ikony VoWiFi</string>
+    <string name="vowifi_icon_default">Ikona domyślna</string>
+    <string name="vowifi_icon_emui">Ikona EMUI</string>
+    <string name="vowifi_icon_asus">Ikona Asus</string>
+    <string name="vowifi_icon_oneplus">Ikona OOS</string>
+    <string name="vowifi_icon_moto">Ikona Motorola</string>
+    <string name="vowifi_icon_simple1">Ikona Simple1</string>
+    <string name="vowifi_icon_simple2">Ikona Simple2</string>
+    <string name="vowifi_icon_simple3">Ikona Simple3</string>
+    <string name="vowifi_icon_vivo">Ikona Vivo</string>
+    <string name="vowifi_icon_margaritov">Ikona Margaritov</string>
+    <!-- Volume rocker music control -->
+    <string name="volume_rocker_music_controls_title">Kontrolowanie odtwarzania</string>
+    <string name="volume_rocker_music_controls_summary">Długie naciśnięcie przycisków głośności spowoduje zmianę utworu muzycznego, przy wyłączonym ekranie</string>
+    <!-- Volume rocker wake -->
+    <string name="volume_rocker_wake_title">Wybudzanie przyciskami głośności</string>
+    <string name="volume_rocker_wake_summary">Naciśnięcie przycisków głośności wybudzi twoje urządzenie</string>
+    <!-- Lockscreen battery info indicator  -->
+    <string name="lockscreen_battery_info_title">Informacje o ładowaniu na ekranie blokady</string>
+    <string name="lockscreen_battery_info_summary">Podczas ładowania wyświetl aktualne informacje o napięciu, mocy oraz temperaturze ładowania na ekranie blokady</string>
+    <!-- Fingerprint authentication vibration -->
+    <string name="fprint_sucess_vib_title">Wibracja potwierdzająca odblokowanie odciskiem palca</string>
+    <string name="fprint_sucess_vib_summary">Wibracje po udanym uwierzytelnianiu odciskiem palca</string>
+    <string name="fprint_error_vib_title">Wibracja błędu odcisku palca</string>
+    <string name="fprint_error_vib_summary">Wibruj po nieudanym uwierzytelnianiu odcisku palca</string>
+    <!-- Wake on plug -->
+    <string name="wake_when_plugged_or_unplugged_title">Wybudź przy podłączaniu</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Włącz ekran podczas podłączania/odłączania źródła zasilania</string>
+    <!-- Quick QS pulldown -->
+    <string name="status_bar_quick_qs_pulldown">Szybkie rozwijanie paska stanu</string>
+    <string name="quick_pulldown_none">Nieaktywne</string>
+    <string name="quick_pulldown_right">Pociągnij w dół pasek stanu z prawej strony</string>
+    <string name="quick_pulldown_left">Pociągnij w dół pasek stanu z lewej strony</string>
+    <!-- Torch Power button gestures -->
+    <string name="torch_power_button_gesture_title">Przełącz latarkę gdy ekran jest wyłączony</string>
+    <string name="torch_power_button_gesture_none">Nieaktywne</string>
+    <string name="torch_power_button_gesture_dt">Podwójne naciśnięcie przycisku zasilania (Wyłącza funkcję szybkiego otwierania kamery i dodaje opóźnienie wybudzania o 170ms)</string>
+    <string name="torch_power_button_gesture_lp">Przytrzymanie przycisku zasilania</string>
+    <!-- Quick Settings brightness slider -->
+    <string name="qs_brightness_slider_category">Brightness slider</string>
+    <string name="qs_brightness_slider_title">Show brightness slider</string>
+    <string name="qs_brightness_slider_summary">Show a brightness slider in the quick settings panel</string>
+    <string name="qs_brightness_position_bottom_title">Show brightness slider on bottom</string>
+    <string name="qs_brightness_position_bottom_summary">Show a brightness slider on bottom quick settings</string>
+    <!-- Quick Settings brightness icon -->
+    <string name="brightness_icon_title">Adaptive brightness button</string>
+    <string name="brightness_icon_summary">Show adaptive brightness button</string>
+    <!-- Quick QS Panel brightness slider -->
+    <string name="quick_qs_brightness_slider_title">Show brightness slider in Quick QS Panel</string>
+    <string name="quick_qs_brightness_slider_summary">Show a brightness slider in the quick qs panel</string>
+    <!-- Brightness control -->
+    <string name="status_bar_toggle_brightness">Brightness control</string>
+    <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
+    <string name="gestures_title">Dostosowanie gestów paska nawigacji</string>
+    <string name="gestures_summary">Weź swoją pigułkę</string>
+    <!-- Lockscreen media artwork -->
+    <string name="lockscreen_media_blur_title">Poziom rozmycia okładki albumu</string>
+    <string name="show_lockscreen_media_art_title">Pokaż okładkę albumu</string>
+    <string name="lockscreen_media_art_options_title">Okładka albumu na ekranie blokady</string>
+    <!-- Udfps animations -->
+    <string name="udfps_category">Udfps</string>
+    <string name="search">Szukaj</string>
+    <string name="search_apps">Wyszukaj aplikacje</string>
+    <!-- Old mobile type icons -->
+    <string name="use_old_mobiletype_title">Mniejsza ikona typu sieci</string>
+    <string name="use_old_mobiletype_summary">Pokaż mniejszą ikonę typu sieci na górze wskaźnika sygnału</string>
+    <!-- Power Menu -->
+    <string name="power_menu_title">Menu zasilania</string>
+    <string name="power_menu_title_summary">Wyświetl lub zmień elementy menu zasilania</string>
+    <string name="powermenu_screenshot">Zrzut ekranu</string>
+    <string name="powermenu_power">Przycisk zasilania</string>
+    <string name="powermenu_advanced">Zaawansowane opcje restartu</string>
+    <string name="powermenu_restart">Uruchom ponownie</string>
+    <string name="powermenu_airplane">Tryb samolotowy</string>
+    <string name="powermenu_settings">Ustawienia</string>
+    <string name="powermenu_lockdown">Zablokuj</string>
+    <string name="powermenu_soundpanel">Panel Głośności</string>
+    <string name="powermenu_users">Użytkownicy</string>
+    <string name="powermenu_logout">Wyloguj</string>
+    <string name="powermenu_emergency">Alarmowy</string>
+    <!-- Fingerprint Ripple Effect -->
+    <string name="enable_fingerprint_ripple_effect_title">Efekt fali</string>
+    <string name="enable_fingerprint_ripple_effect_summary">Pokaż efekt fali podczas odblokowywania odciskiem palca</string>
+    <!-- Location Privacy Indicator -->
+    <string name="location_privacy_title"> Pokaż wskaźnik ochrony Prywatności Lokalizacji</string>
+    <string name="location_privacy_summary">Włącz - Wyłącz wskaźnik prywatności lokalizacji w szybkich ustawieniach</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">Data usage</string>
+    <string name="qs_footer_datausage_summary">Display data usage summary in quick settings footer</string>
+    <!-- Wi-Fi Standard icon -->
+    <string name="show_wifi_standard_icon_title">Show Wi-Fi type icon</string>
+    <string name="show_wifi_standard_icon_summary">Show Wi-Fi type in Wi-Fi signal indicator</string>
+    <!-- Themes customization -->
+    <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the settings category for theme overlays. -->
+    <string name="theme_customization_category">Theming</string>
+    <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the adaptive icon shape (e.g. launcher and quick settings icons). -->
+    <string name="theme_customization_icon_shape_title">Kształt ikon</string>
+    <string name="theme_customization_icon_shape_summary">Ustaw kształt ikon systemowych</string>
+    <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize headline and body fonts. -->
+    <string name="theme_customization_font_title">Headline / Body font</string>
+    <string name="theme_customization_font_summary">Ustaw styl czcionki systemowej</string>
+    <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the system wide icon pack. -->
+    <string name="theme_customization_icon_pack_title">Pakiet ikon</string>
+    <string name="theme_customization_icon_pack_summary">Wybierz niestandardową paczkę ikon</string>
+    <!-- Custom Signal bar icons -->
+    <string name="theme_customization_signal_icon_title">Signal icon style</string>
+    <string name="theme_customization_signal_icon_summary">Set custom signal icon style</string>
+    <!-- Custom Wi-Fi bar icons -->
+    <string name="theme_customization_wifi_icon_title">WiFi icon style</string>
+    <string name="theme_customization_wifi_icon_summary">Set custom wifi icon style</string>
+    <string name="theme_customization_navbar_title">Navbar style</string>
+    <string name="theme_customization_navbar_summary">Set custom navigation bar style</string>
+    <!-- Custom Fonts -->
+    <string name="theme_customization_lock_clock_title">Lockscreen clock font</string>
+    <string name="theme_customization_lock_clock_summary">Set LS clock font style</string>
+    <!-- Notification count -->
+    <string name="status_bar_notif_count_title">Show notification count</string>
+    <string name="status_bar_notif_count_summary">Display the number of pending notifications</string>
+    <!-- Statusbar colored icons -->
+    <string name="statusbar_colored_icons_title">Kolorowe ikony</string>
+    <string name="statusbar_colored_icons_summary">Use app icons for notification icons in statusbar</string>
+    <!-- Ignore secure flag -->
+    <string name="window_ignore_secure_title">Ignore window secure flags</string>
+    <string name="window_ignore_secure_summary">Remove screenshot / screenrecord limits for all applications</string>
+    <string name="window_ignore_secure_warning">This can be convenient in some cases but may lead to privacy leaks. After changing this toggle, you may need to restart applications for the change to take effect.</string>
+    <!-- Screen off FOD -->
+    <string name="screen_off_fod_title">Screen off FOD</string>
+    <string name="screen_off_fod_summary">Keep FOD enabled when the screen is off</string>
+    <!-- UDFPS settings -->
+    <string name="udfps_settings_title">Dostosowanie UDFPS</string>
+    <string name="udfps_settings_summary">Dostosuj czytnik odcisku palca pod ekranem</string>
+    <string name="udfps_icon_picker_title">Wybór ikon UDFPS</string>
+    <string name="udfps_icon_picker_summary">Wybierz swoją ulubioną ikonę odcisku palca</string>
+    <string name="udfps_recog_animation_effect_title">Efekt animacji UDFPS</string>
+    <string name="udfps_recog_animation_effect_summary">Wybierz efekt animacji</string>
+    <!-- Custom FOD Icon -->
+    <string name="custom_fp_icon_title">Własna ikona UDFPS</string>
+    <string name="custom_fp_icon_summary">Własna ikona UDFPS wybierana z plików lokalnych</string>
+    <string name="custom_fp_select_title">Wybierz własną ikonę UDFPS</string>
+    <string name="custom_fp_select_summary">Wybierz niestandardowy obraz z zapisanych plików lub galerii</string>
+    <!-- Misc gesture settings -->
+    <string name="back_gesture_haptic_title">Haptic feedback</string>
+    <string name="back_gesture_haptic_summary">Enable haptic tick effect on back gesture</string>
+    <!-- Power menu on lockscreen -->
+    <string name="lockscreen_power_menu_disabled_title">Wyłącz menu zasilania, gdy telefon jest zablokowany</string>
+    <string name="lockscreen_power_menu_disabled_summary">Spowoduje to wyłączenie menu zasilania na zabezpieczonych ekranach blokady</string>
+    <!-- QS tiles layout -->
+    <string name="qs_tile_layout_title">Układ kafelków szybkich ustawień</string>
+    <string name="qs_tile_layout_summary">Dostosuj układ kafelków w panelu szybkich ustawień</string>
+    <string name="qs_tiles_layout_category">Układ kafelków</string>
+    <string name="qs_rows_portrait_title">Wiersze (Pion)</string>
+    <string name="qqs_rows_portrait_title">Wiersze (Szybkie ustawienia pionowo)</string>
+    <string name="qs_columns_portrait_title">Kolumny (Pion)</string>
+    <string name="qs_apply_change_button_title">Zastosuj zmianę</string>
+    <string name="qs_apply_change_failed">Nie udało się zastosować zmiany</string>
+    <string name="qs_tile_hide_label_title">Ukryj etykiety</string>
+    <string name="qs_tile_hide_label_summary">Pokaż tylko ikony kafelków szybkich ustawień</string>
+    <string name="qs_tile_vertical_layout_title">Układ pionowy</string>
+    <string name="qs_tile_vertical_layout_summary">Włącz układ pionowy dla kafelków szybkich ustawień</string>
+</resources>
