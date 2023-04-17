@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Copyright (C) 2014-2016 The Dirty Unicorns Project
+      Copyright (C) 2016 AospExtended ROM Project
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- General app strings -->
+    <string name="extensions_title">PeXtension</string>
+    <string name="add">追加</string>
+    <string name="advanced">高度な設定</string>
+    <string name="cancel">中止</string>
+    <string name="default_text">既定</string>
+    <string name="dlg_ok">OK</string>
+    <string name="attention">注意</string>
+    <string name="loading">読込中\u2026</string>
+    <string name="reset">初期化</string>
+    <string name="reset_colors">色を初期化</string>
+    <string name="reset_android">Android</string>
+    <string name="text_title">文字</string>
+    <string name="icon_title">アイコン</string>
+    <string name="color_title">色</string>
+    <string name="colors_title">色</string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+    <!-- Extensions categories -->
+    <string name="status_bar_category">ステータスバー</string>
+    <string name="system_category">システム</string>
+    <string name="lockscreen_category">ロック画面</string>
+    <string name="hardware_category">ハードウェア</string>
+    <string name="build_tweaks_summary_title">ここから新しい世界に入りましょう!</string>
+    <string name="listview">リストビュー</string>
+    <string name="misc_category">その他の設定</string>
+    <string name="fingerprint_category">指紋認証センサー</string>
+    <string name="qs_category">クイック設定</string>
+    <string name="power_key">電源ボタン</string>
+    <string name="volume_keys">音量ボタン</string>
+    <string name="lockscreen_gestures_category">ロック画面のジェスチャー</string>
+    <string name="battery_settings_title">バッテリー設定</string>
+    <string name="gestures_category">ジェスチャーの編集</string>
+    <!-- App info dialog -->
+    <string name="extensions_dialog_title">お互い助け合いましょう!</string>
+    <string name="extensions_dialog_message">これらのどこかでバグを発見した場合、私達の Telegram グループで報告をして下さい。バグ報告の際は必ず以下の要件を満たして下さい。\n\n1. logcat または last_kmsg\n2. 使用したカーネルと mod\n3. その他の報告すべき情報\n\n十分な情報を報告しなかった場合、バグが修正されることを期待しないで下さい。</string>
+    <string name="extensions_dialog_toast">必ず全て読んで下さい!</string>
+    <string name="artwork_media_fade_level_summary">メディアアートのフェード</string>
+    <!-- QuickSettings haptic feedback -->
+    <string name="quick_settings_vibrate_title">タッチで振動</string>
+    <string name="quick_settings_vibrate_summary">クイック設定タイルのタッチ時に振動させる</string>
+    <!-- 4G icon -->
+    <string name="show_fourg_icon_title">4G アイコン</string>
+    <string name="show_fourg_icon_summary">LTE の代わりに 4G アイコンを表示させる</string>
+    <!-- Show VoLTE icon on statusbar -->
+    <string name="volte_icon_title">VoLTE アイコン</string>
+    <string name="volte_icon_summary">VoLTE アイコンを表示させる</string>
+    <!-- Incall vibrate options -->
+    <string name="incall_vibration_category">通話中の振動の設定</string>
+    <string name="incall_vibrate_connect_title">接続時に振動</string>
+    <string name="incall_vibrate_call_wait_title">割込着信時に振動</string>
+    <string name="incall_vibrate_disconnect_title">切断時に振動</string>
+    <!-- Statusbar Tuner -->
+    <string name="statusbar_items_title">ステータスバーのアイコン</string>
+    <!-- Double Tap to Sleep Statusbar -->
+    <string name="double_tap_sleep_gesture_title">タップでスリープ</string>
+    <string name="double_tap_sleep_gesture_summary">ステータスバーをダブルタップして端末をスリープさせる</string>
+    <!--Double Tap to Sleep Lockscreen-->
+    <string name="lockscreen_tweaks_category_title">予定</string>
+    <string name="double_tap_sleep_lockscreen_title">ロック画面でダブルタップでスリープ</string>
+    <!-- Annoying Notifications -->
+    <string name="notification_sound_vib_screen_on_title">迷惑な通知</string>
+    <string name="notification_sound_vib_screen_on_summary">画面点灯時に通知を受け取ったら音楽を流し振動させる</string>
+    <!-- Show VoLTE icon on statusbar -->
+    <string name="volte_switch_title">VoLTE アイコン</string>
+    <string name="volte_switch_summary">VoLTE アイコンを表示させる</string>
+    <string name="volte_icon_style_title">VoLTE アイコンを選択</string>
+    <string name="volte_icon_asus">VoLTE Asus アイコン</string>
+    <string name="volte_icon_vo">Vo のみアイコン</string>
+    <string name="volte_icon_volte">VoLTE アイコン</string>
+    <string name="volte_icon_oos">VoLTE OOS アイコン</string>
+    <string name="volte_icon_hd">HD アイコン</string>
+    <string name="volte_icon_hd2">HD CAF アイコン</string>
+    <string name="volte_icon_miui">MIUI 11 アイコン</string>
+    <string name="volte_icon_emui">EMUI アイコン</string>
+    <string name="volte_icon_margaritov">HD 塗り潰しアイコン</string>
+    <string name="volte_icon_margaritov2">Margaritov VoLTE アイコン</string>
+    <string name="volte_icon_vivo">Vivo アイコン</string>
+    <!-- VoWiFi icon -->
+    <string name="vowifi_icon_title">VoWiFi アイコン</string>
+    <string name="vowifi_icon_enabled">VoWiFi アイコンは有効です</string>
+    <string name="vowifi_icon_disabled">VoWiFi アイコンは無効です</string>
+    <string name="vowifi_icon_enabled_volte_disabled">VoLTE を VoWiFi に置き換え</string>
+    <string name="vowifi_icon_style_title">VoWiFi アイコンのスタイル</string>
+    <string name="vowifi_icon_default">既定のアイコン</string>
+    <string name="vowifi_icon_emui">EMUI アイコン</string>
+    <string name="vowifi_icon_asus">Asus アイコン</string>
+    <string name="vowifi_icon_oneplus">OOS アイコン</string>
+    <string name="vowifi_icon_moto">Motorola アイコン</string>
+    <string name="vowifi_icon_simple1">Simple1 アイコン</string>
+    <string name="vowifi_icon_simple2">Simple2 アイコン</string>
+    <string name="vowifi_icon_simple3">Simple3 アイコン</string>
+    <string name="vowifi_icon_vivo">Vivo アイコン</string>
+    <string name="vowifi_icon_margaritov">Margaritov アイコン</string>
+    <!-- Volume rocker music control -->
+    <string name="volume_rocker_music_controls_title">再生コントロール</string>
+    <string name="volume_rocker_music_controls_summary">画面消灯時に音量ボタンを長押しして音楽トラックをシークする</string>
+    <!-- Volume rocker wake -->
+    <string name="volume_rocker_wake_title">音量ボタンでスリープ解除</string>
+    <string name="volume_rocker_wake_summary">音量ボタンを押して端末をスリープ解除させる</string>
+    <!-- Lockscreen battery info indicator  -->
+    <string name="lockscreen_battery_info_title">ロック画面の充電情報</string>
+    <string name="lockscreen_battery_info_summary">充電時はロック画面に充電電流・電圧・電力・バッテリー温度を表示する</string>
+    <!-- Fingerprint authentication vibration -->
+    <string name="fprint_sucess_vib_title">指紋認証成功時の振動</string>
+    <string name="fprint_sucess_vib_summary">指紋認証に成功したら振動させる</string>
+    <string name="fprint_error_vib_title">指紋認証失敗時の振動</string>
+    <string name="fprint_error_vib_summary">指紋認証に失敗したら振動させる</string>
+    <!-- Wake on plug -->
+    <string name="wake_when_plugged_or_unplugged_title">Wake on plug</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Turn the screen on when connecting or disconnecting a power source</string>
+    <!-- Quick QS pulldown -->
+    <string name="status_bar_quick_qs_pulldown">クイックプルダウン</string>
+    <string name="quick_pulldown_none">無効</string>
+    <string name="quick_pulldown_right">ステータスバー右側をプルダウン</string>
+    <string name="quick_pulldown_left">ステータスバー左側をプルダウン</string>
+    <!-- Torch Power button gestures -->
+    <string name="torch_power_button_gesture_title">画面消灯時のトーチ切替</string>
+    <string name="torch_power_button_gesture_none">無効</string>
+    <string name="torch_power_button_gesture_dt">Double press power button (Disables Quickly open camera feature and adds 170ms wakeup delay)</string>
+    <string name="torch_power_button_gesture_lp">電源ボタンを長押し</string>
+    <!-- Quick Settings brightness slider -->
+    <string name="qs_brightness_slider_category">Brightness slider</string>
+    <string name="qs_brightness_slider_title">Show brightness slider</string>
+    <string name="qs_brightness_slider_summary">Show a brightness slider in the quick settings panel</string>
+    <string name="qs_brightness_position_bottom_title">Show brightness slider on bottom</string>
+    <string name="qs_brightness_position_bottom_summary">Show a brightness slider on bottom quick settings</string>
+    <!-- Quick Settings brightness icon -->
+    <string name="brightness_icon_title">Adaptive brightness button</string>
+    <string name="brightness_icon_summary">Show adaptive brightness button</string>
+    <!-- Quick QS Panel brightness slider -->
+    <string name="quick_qs_brightness_slider_title">Show brightness slider in Quick QS Panel</string>
+    <string name="quick_qs_brightness_slider_summary">Show a brightness slider in the quick qs panel</string>
+    <!-- Brightness control -->
+    <string name="status_bar_toggle_brightness">Brightness control</string>
+    <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
+    <string name="gestures_title">ナビゲーションバージェスチャーの編集</string>
+    <string name="gestures_summary">ピルを手に取る</string>
+    <!-- Lockscreen media artwork -->
+    <string name="lockscreen_media_blur_title">メディアアートのぼかし量</string>
+    <string name="show_lockscreen_media_art_title">Show media art</string>
+    <string name="lockscreen_media_art_options_title">Lockscreen media art</string>
+    <!-- Udfps animations -->
+    <string name="udfps_category">画面内指紋認証</string>
+    <string name="search">検索</string>
+    <string name="search_apps">アプリを検索</string>
+    <!-- Old mobile type icons -->
+    <string name="use_old_mobiletype_title">小さなモバイルアイコン</string>
+    <string name="use_old_mobiletype_summary">電波強度の中に電波種別を表示する</string>
+    <!-- Power Menu -->
+    <string name="power_menu_title">電源メニュー</string>
+    <string name="power_menu_title_summary">電源メニューの内容の表示や変更をする</string>
+    <string name="powermenu_screenshot">スクリーンショット</string>
+    <string name="powermenu_power">電源</string>
+    <string name="powermenu_advanced">高度な再起動オプション</string>
+    <string name="powermenu_restart">再起動</string>
+    <string name="powermenu_airplane">機内モード</string>
+    <string name="powermenu_settings">設定</string>
+    <string name="powermenu_lockdown">画面ロック</string>
+    <string name="powermenu_soundpanel">音量パネル</string>
+    <string name="powermenu_users">ユーザー</string>
+    <string name="powermenu_logout">ログアウト</string>
+    <string name="powermenu_emergency">緊急通報</string>
+    <!-- Fingerprint Ripple Effect -->
+    <string name="enable_fingerprint_ripple_effect_title">波紋の効果</string>
+    <string name="enable_fingerprint_ripple_effect_summary">指紋認証でロック解除した時に波紋効果を表示する</string>
+    <!-- Location Privacy Indicator -->
+    <string name="location_privacy_title">位置情報プライバシー表示</string>
+    <string name="location_privacy_summary">クイック設定とステータスバーの位置情報プライバシー表示を切り替える</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">Data usage</string>
+    <string name="qs_footer_datausage_summary">Display data usage summary in quick settings footer</string>
+    <!-- Wi-Fi Standard icon -->
+    <string name="show_wifi_standard_icon_title">Show Wi-Fi type icon</string>
+    <string name="show_wifi_standard_icon_summary">Show Wi-Fi type in Wi-Fi signal indicator</string>
+    <!-- Themes customization -->
+    <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the settings category for theme overlays. -->
+    <string name="theme_customization_category">Theming</string>
+    <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the adaptive icon shape (e.g. launcher and quick settings icons). -->
+    <string name="theme_customization_icon_shape_title">Icon shape</string>
+    <string name="theme_customization_icon_shape_summary">Set system icon shape style</string>
+    <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize headline and body fonts. -->
+    <string name="theme_customization_font_title">Headline / Body font</string>
+    <string name="theme_customization_font_summary">Set system font style</string>
+    <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the system wide icon pack. -->
+    <string name="theme_customization_icon_pack_title">Icon pack</string>
+    <string name="theme_customization_icon_pack_summary">Set custom icon pack style</string>
+    <!-- Custom Signal bar icons -->
+    <string name="theme_customization_signal_icon_title">Signal icon style</string>
+    <string name="theme_customization_signal_icon_summary">Set custom signal icon style</string>
+    <!-- Custom Wi-Fi bar icons -->
+    <string name="theme_customization_wifi_icon_title">WiFi icon style</string>
+    <string name="theme_customization_wifi_icon_summary">Set custom wifi icon style</string>
+    <string name="theme_customization_navbar_title">Navbar style</string>
+    <string name="theme_customization_navbar_summary">Set custom navigation bar style</string>
+    <!-- Custom Fonts -->
+    <string name="theme_customization_lock_clock_title">Lockscreen clock font</string>
+    <string name="theme_customization_lock_clock_summary">Set LS clock font style</string>
+    <!-- Notification count -->
+    <string name="status_bar_notif_count_title">Show notification count</string>
+    <string name="status_bar_notif_count_summary">Display the number of pending notifications</string>
+    <!-- Statusbar colored icons -->
+    <string name="statusbar_colored_icons_title">Colored icons</string>
+    <string name="statusbar_colored_icons_summary">Use app icons for notification icons in statusbar</string>
+    <!-- Ignore secure flag -->
+    <string name="window_ignore_secure_title">Ignore window secure flags</string>
+    <string name="window_ignore_secure_summary">Remove screenshot / screenrecord limits for all applications</string>
+    <string name="window_ignore_secure_warning">This can be convenient in some cases but may lead to privacy leaks. After changing this toggle, you may need to restart applications for the change to take effect.</string>
+    <!-- Screen off FOD -->
+    <string name="screen_off_fod_title">Screen off FOD</string>
+    <string name="screen_off_fod_summary">Keep FOD enabled when the screen is off</string>
+    <!-- UDFPS settings -->
+    <string name="udfps_settings_title">UDFPS customization</string>
+    <string name="udfps_settings_summary">Customize under-display fingerprint scanner</string>
+    <string name="udfps_icon_picker_title">UDFPS icon picker</string>
+    <string name="udfps_icon_picker_summary">Choose your favorite fingerprint icon</string>
+    <string name="udfps_recog_animation_effect_title">UDFPS animation effect</string>
+    <string name="udfps_recog_animation_effect_summary">Choose animation effect</string>
+    <!-- Custom FOD Icon -->
+    <string name="custom_fp_icon_title">Custom UDFPS Icon</string>
+    <string name="custom_fp_icon_summary">Enable custom UDFPS Icon from files</string>
+    <string name="custom_fp_select_title">Select Custom UDFPS Icon</string>
+    <string name="custom_fp_select_summary">Select custom image from your saved files or gallery</string>
+    <!-- Misc gesture settings -->
+    <string name="back_gesture_haptic_title">Haptic feedback</string>
+    <string name="back_gesture_haptic_summary">Enable haptic tick effect on back gesture</string>
+    <!-- Power menu on lockscreen -->
+    <string name="lockscreen_power_menu_disabled_title">ロック画面で電源メニュー無効化</string>
+    <string name="lockscreen_power_menu_disabled_summary">保護されたロック画面で電源メニューを無効化する</string>
+    <!-- QS tiles layout -->
+    <string name="qs_tile_layout_title">QS tiles layout</string>
+    <string name="qs_tile_layout_summary">Customize tiles layout in QS panel</string>
+    <string name="qs_tiles_layout_category">Tiles layout</string>
+    <string name="qs_rows_portrait_title">Rows (Portrait)</string>
+    <string name="qqs_rows_portrait_title">Rows (Quick QS portrait)</string>
+    <string name="qs_columns_portrait_title">Columns (Portrait)</string>
+    <string name="qs_apply_change_button_title">Apply change</string>
+    <string name="qs_apply_change_failed">Failed to apply change</string>
+    <string name="qs_tile_hide_label_title">Hide labels</string>
+    <string name="qs_tile_hide_label_summary">Show only icon for QS tiles</string>
+    <string name="qs_tile_vertical_layout_title">Vertical layout</string>
+    <string name="qs_tile_vertical_layout_summary">Enable vertical layout for QS tiles</string>
+</resources>
