@@ -33,9 +33,9 @@
     <string name="color_title">颜色</string>
     <string name="colors_title">颜色</string>
     <string name="misc_title">杂项</string>
-    <string name="enable">Enable</string>
-    <string name="disable">Disable</string>
-    <string name="navigation_category">Navigation Buttons</string>
+    <string name="enable">启用</string>
+    <string name="disable">禁用</string>
+    <string name="navigation_category">导航按钮</string>
     <string name="privacy_category">Privacy Indicators (Requires Restart)</string>
     <string name="general_category">General</string>
     <!-- Extensions categories -->
@@ -129,8 +129,8 @@
     <string name="fprint_error_vib_title">指纹验证错误时振动</string>
     <string name="fprint_error_vib_summary">验证指纹身份失败时振动</string>
     <!-- Wake on plug -->
-    <string name="wake_when_plugged_or_unplugged_title">Wake on plug</string>
-    <string name="wake_when_plugged_or_unplugged_summary">Turn the screen on when connecting or disconnecting a power source</string>
+    <string name="wake_when_plugged_or_unplugged_title">充电唤醒</string>
+    <string name="wake_when_plugged_or_unplugged_summary">连接或断开电源时点亮屏幕</string>
     <!-- Quick QS pulldown -->
     <string name="status_bar_quick_qs_pulldown">快速下拉控制中心</string>
     <string name="quick_pulldown_none">已禁用</string>
@@ -219,11 +219,11 @@
     <string name="udfps_recog_animation_effect_title">UDFPS animation effect</string>
     <string name="udfps_recog_animation_effect_summary">Choose animation effect</string>
     <!-- Font style / Icon pack -->
-    <string name="theme_customization_font_title">Font style</string>
+    <string name="theme_customization_font_title">字体样式</string>
     <string name="theme_customization_font_summary">Set system font style</string>
-    <string name="theme_customization_icon_pack_title">Icon pack</string>
+    <string name="theme_customization_icon_pack_title">图标包</string>
     <string name="theme_customization_icon_pack_summary">Set custom icon pack style</string>
-    <string name="theme_customization_icon_shape_title">Icon shape</string>
+    <string name="theme_customization_icon_shape_title">图标形状</string>
     <string name="theme_customization_icon_shape_summary">Set system icon shape style</string>
     <!-- Custom FOD Icon -->
     <string name="custom_fp_icon_title">Custom UDFPS Icon</string>
@@ -247,7 +247,7 @@
     <string name="qs_rows_portrait_title">Rows (Portrait)</string>
     <string name="qqs_rows_portrait_title">Rows (Quick QS portrait)</string>
     <string name="qs_columns_portrait_title">Columns (Portrait)</string>
-    <string name="qs_apply_change_button_title">Apply change</string>
+    <string name="qs_apply_change_button_title">应用更改</string>
     <string name="qs_apply_change_failed">Failed to apply change</string>
     <string name="qs_tile_hide_label_title">Hide labels</string>
     <string name="qs_tile_hide_label_summary">Show only icon for QS tiles</string>
@@ -286,11 +286,11 @@
     <string name="qs_show_brightness_slider_expanded">Show when expanded</string>
     <string name="qs_show_brightness_slider_always">Show always</string>
     <string name="qs_show_brightness_slider_not_expanded">Show when not expanded</string>
-    <string name="qs_brightness_slider_position_title">Position</string>
+    <string name="qs_brightness_slider_position_title">位置</string>
     <string name="qs_brightness_slider_position_top">Top</string>
     <string name="qs_brightness_slider_position_bottom">Bottom</string>
-    <string name="default_string">Default</string>
+    <string name="default_string">默认</string>
     <!-- Quick Settings brightness icon -->
-    <string name="qs_show_auto_brightness_title">Auto brightness icon</string>
-    <string name="qs_show_auto_brightness_summary">Show toggle for adaptive brightness near the slider</string>
+    <string name="qs_show_auto_brightness_title">自动亮度图标</string>
+    <string name="qs_show_auto_brightness_summary">在亮度滑块旁显示自动亮度开关</string>
 </resources>

@@ -35,9 +35,9 @@
     <string name="misc_title">Divers</string>
     <string name="enable">Activer</string>
     <string name="disable">Désactiver</string>
-    <string name="navigation_category">Navigation Buttons</string>
-    <string name="privacy_category">Privacy Indicators (Requires Restart)</string>
-    <string name="general_category">General</string>
+    <string name="navigation_category">Bouton de navigation</string>
+    <string name="privacy_category">Indicateurs de confidentialité (Redémarrage requis)</string>
+    <string name="general_category">Général</string>
     <!-- Extensions categories -->
     <string name="status_bar_category">Barre d\'état</string>
     <string name="system_category">Système</string>
@@ -241,59 +241,59 @@ Si vous ne signalez pas correctement quelque chose, NE VOUS ATTENDEZ PAS à ce q
     <!-- reTicker -->
     <string name="reticker_title">reTicker\nNécessite un redémarrage de l\'interface utilisateur</string>
     <string name="reticker_summary">Replace your notifications with a redesigned version of tickers. \nSlim and less invasive than a standard notification</string>
-    <string name="reticker_colored_title">Use app colored background</string>
-    <string name="reticker_colored_summary">Replace reTicker background color using notification app main color</string>
-    <string name="reticker_landscape_only_title">Landscape only</string>
-    <string name="reticker_landscape_only_summary">Only enable reTicker when device is in landscape mode</string>
+    <string name="reticker_colored_title">Utiliser l\'arrière-plan coloré de l\'application</string>
+    <string name="reticker_colored_summary">Remplacer la couleur d\'arrière-plan de reTicker par la couleur principale de l\'application de notification</string>
+    <string name="reticker_landscape_only_title">Paysage uniquement</string>
+    <string name="reticker_landscape_only_summary">Activer le reTicker uniquement lorsque l\'appareil est en mode paysage</string>
     <!-- QS tiles layout -->
     <string name="qs_tile_layout_title">QS tiles layout</string>
     <string name="qs_tile_layout_summary">Customize tiles layout in QS panel</string>
     <string name="qs_tiles_layout_category">Tiles layout</string>
     <string name="qs_rows_portrait_title">Rows (Portrait)</string>
     <string name="qqs_rows_portrait_title">Rows (Quick QS portrait)</string>
-    <string name="qs_columns_portrait_title">Columns (Portrait)</string>
-    <string name="qs_apply_change_button_title">Apply change</string>
-    <string name="qs_apply_change_failed">Failed to apply change</string>
-    <string name="qs_tile_hide_label_title">Hide labels</string>
+    <string name="qs_columns_portrait_title">Colonnes (portrait)</string>
+    <string name="qs_apply_change_button_title">Appliquer les modifications</string>
+    <string name="qs_apply_change_failed">Échec de l\'application des modifications</string>
+    <string name="qs_tile_hide_label_title">Masquer les étiquettes</string>
     <string name="qs_tile_hide_label_summary">Show only icon for QS tiles</string>
-    <string name="qs_tile_vertical_layout_title">Vertical layout</string>
+    <string name="qs_tile_vertical_layout_title">Disposition verticale</string>
     <string name="qs_tile_vertical_layout_summary">Enable vertical layout for QS tiles</string>
     <!-- Navbar Layout -->
-    <string name="navbar_layout_category_title">Layout</string>
-    <string name="navbar_layout_title">Layout</string>
+    <string name="navbar_layout_category_title">Disposition</string>
+    <string name="navbar_layout_title">Disposition</string>
     <string name="navbar_layout_normal">Normal</string>
     <string name="navbar_layout_compact">Compact</string>
-    <string name="navbar_layout_leftleaning">Left-leaning</string>
-    <string name="navbar_layout_rightleaning">Right-leaning</string>
-    <string name="navbar_invert_layout_title">Invert layout</string>
+    <string name="navbar_layout_leftleaning">Alignée à gauche</string>
+    <string name="navbar_layout_rightleaning">Alignée à droite</string>
+    <string name="navbar_invert_layout_title">Inverser la disposition</string>
     <string name="navbar_invert_layout_summary">Inverts the layout of the navigation bar and other items, such as the IME switcher</string>
     <!-- Data usage info in QS footer -->
-    <string name="qs_footer_datausage_title">Data usage</string>
-    <string name="qs_footer_datausage_summary">Display data usage summary in quick settings footer</string>
+    <string name="qs_footer_datausage_title">Consommation des données</string>
+    <string name="qs_footer_datausage_summary">Afficher le résumé de l\'utilisation des données dans le pied de page des réglages rapides</string>
     <!-- Privacy indicators -->
-    <string name="mic_camera_privacy_indicator_title">Mic and camera privacy indicator</string>
-    <string name="mic_camera_privacy_indicator_summary">Show indicator when any app uses mic or camera</string>
-    <string name="location_privacy_indicator_title">Location privacy indicator</string>
-    <string name="location_privacy_indicator_summary">Show indicator when any app uses location</string>
+    <string name="mic_camera_privacy_indicator_title">Indicateur de confidentialité du micro et de la caméra</string>
+    <string name="mic_camera_privacy_indicator_summary">Afficher l\'indicateur de micro ou caméra lorsqu\'une application utilise ces services</string>
+    <string name="location_privacy_indicator_title">Indicateur de localisation</string>
+    <string name="location_privacy_indicator_summary">Afficher l\'indicateur de localisation lorsqu\'une application utilise ce service</string>
     <string name="projection_privacy_indicator_title">Media projection privacy indicator</string>
     <string name="projection_privacy_indicator_summary">Show indicator when device screen is projected</string>
     <!-- QQS brightness slider -->
     <string name="qqs_brightness_slider_title">QQS brightness slider</string>
-    <string name="qs_brightness_slider_hide">Hide</string>
-    <string name="qs_brightness_slider_bottom">Bottom</string>
-    <string name="qs_brightness_slider_top">Top</string>
+    <string name="qs_brightness_slider_hide">Masquer</string>
+    <string name="qs_brightness_slider_bottom">Bas</string>
+    <string name="qs_brightness_slider_top">Haut</string>
     <!-- Statusbar brightness control -->
-    <string name="status_bar_brightness_control_title">Statusbar Brightness Control</string>
-    <string name="status_bar_brightness_control_summary">Adjust brightness by sliding across statusbar</string>
+    <string name="status_bar_brightness_control_title">Contrôle de la luminosité dans la barre d\'état</string>
+    <string name="status_bar_brightness_control_summary">Ajuster la luminosité en glissant sur la barre d\'état</string>
     <!-- Quick Settings brightness slider -->
-    <string name="qs_show_brightness_slider_title">Brightness slider</string>
-    <string name="qs_show_brightness_slider_never">Never show</string>
-    <string name="qs_show_brightness_slider_expanded">Show when expanded</string>
-    <string name="qs_show_brightness_slider_always">Show always</string>
-    <string name="qs_show_brightness_slider_not_expanded">Show when not expanded</string>
+    <string name="qs_show_brightness_slider_title">Curseur de luminosité</string>
+    <string name="qs_show_brightness_slider_never">Ne jamais afficher</string>
+    <string name="qs_show_brightness_slider_expanded">Afficher une fois développé</string>
+    <string name="qs_show_brightness_slider_always">Toujours afficher</string>
+    <string name="qs_show_brightness_slider_not_expanded">Afficher lorsqu\'il n\'est pas développé</string>
     <string name="qs_brightness_slider_position_title">Position</string>
-    <string name="qs_brightness_slider_position_top">Top</string>
-    <string name="qs_brightness_slider_position_bottom">Bottom</string>
+    <string name="qs_brightness_slider_position_top">Haut</string>
+    <string name="qs_brightness_slider_position_bottom">Bas</string>
     <string name="default_string">Default</string>
     <!-- Quick Settings brightness icon -->
     <string name="qs_show_auto_brightness_title">Auto brightness icon</string>

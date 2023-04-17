@@ -35,9 +35,9 @@
     <string name="misc_title">Çeşitli</string>
     <string name="enable">Altif</string>
     <string name="disable">Pasif</string>
-    <string name="navigation_category">Navigation Buttons</string>
-    <string name="privacy_category">Privacy Indicators (Requires Restart)</string>
-    <string name="general_category">General</string>
+    <string name="navigation_category">Gezinme tuşu</string>
+    <string name="privacy_category">Gizlilik göstergeleri (Yeniden başlatma gerektirir)</string>
+    <string name="general_category">Genel</string>
     <!-- Extensions categories -->
     <string name="status_bar_category">Durum çubuğu</string>
     <string name="system_category">Sistem</string>
@@ -86,34 +86,34 @@
     <!-- Show VoLTE icon on statusbar -->
     <string name="volte_switch_title">VoLTE simgesi</string>
     <string name="volte_switch_summary">VoLTE simgesini görüntüle</string>
-    <string name="volte_icon_style_title">VoLTE simgesini seçin</string>
-    <string name="volte_icon_asus">VoLTE Asus Simgesi</string>
-    <string name="volte_icon_vo">Vo Only Icon</string>
-    <string name="volte_icon_volte">VoLTE Simgesi</string>
-    <string name="volte_icon_oos">OOS VoLTE Simgesi</string>
+    <string name="volte_icon_style_title">VoLTE simgesi seçin</string>
+    <string name="volte_icon_asus">VoLTE Asus simgesi</string>
+    <string name="volte_icon_vo">Yalnızca Vo simgesi</string>
+    <string name="volte_icon_volte">VoLTE simgesi</string>
+    <string name="volte_icon_oos">OOS VoLTE simgesi</string>
     <string name="volte_icon_hd">HD simgesi</string>
-    <string name="volte_icon_hd2">HD CAF Simgesi</string>
-    <string name="volte_icon_miui">MIUI 11 Simgesi</string>
-    <string name="volte_icon_emui">EMIUI Simgesi</string>
-    <string name="volte_icon_margaritov">HD Dolu Simgesi</string>
-    <string name="volte_icon_margaritov2">Margaritov VoLTE Simgesi</string>
-    <string name="volte_icon_vivo">Vivo Simgesi</string>
+    <string name="volte_icon_hd2">HD CAF simgesi</string>
+    <string name="volte_icon_miui">MIUI 11 simgesi</string>
+    <string name="volte_icon_emui">EMIUI simgesi</string>
+    <string name="volte_icon_margaritov">HD Dolu simgesi</string>
+    <string name="volte_icon_margaritov2">Margaritov VoLTE simgesi</string>
+    <string name="volte_icon_vivo">Vivo simgesi</string>
     <!-- VoWiFi icon -->
     <string name="vowifi_icon_title">VoWiFi simgesi</string>
     <string name="vowifi_icon_enabled">VoWiFi simgesi etkin</string>
     <string name="vowifi_icon_disabled">VoWiFi simgesi devre dışı</string>
     <string name="vowifi_icon_enabled_volte_disabled">VoLTE simgesi yerine VoWiFi</string>
     <string name="vowifi_icon_style_title">VoWiFi simge stili</string>
-    <string name="vowifi_icon_default">Varsayılan İkon</string>
-    <string name="vowifi_icon_emui">EMIUI Simgesi</string>
-    <string name="vowifi_icon_asus">Asus Simgesi</string>
+    <string name="vowifi_icon_default">Varsayılan simge</string>
+    <string name="vowifi_icon_emui">EMUI simgesi</string>
+    <string name="vowifi_icon_asus">Asus simgesi</string>
     <string name="vowifi_icon_oneplus">OOS simgesi</string>
     <string name="vowifi_icon_moto">Motorola simgesi</string>
-    <string name="vowifi_icon_simple1">Simple1 Simgesi</string>
-    <string name="vowifi_icon_simple2">Simple2 Simgesi</string>
-    <string name="vowifi_icon_simple3">Simple3 Simgesi</string>
-    <string name="vowifi_icon_vivo">Vivo Simgesi</string>
-    <string name="vowifi_icon_margaritov">Margaritov Simgesi</string>
+    <string name="vowifi_icon_simple1">Simple1 simgesi</string>
+    <string name="vowifi_icon_simple2">Simple2 simgesi</string>
+    <string name="vowifi_icon_simple3">Simple3 simgesi</string>
+    <string name="vowifi_icon_vivo">Vivo simgesi</string>
+    <string name="vowifi_icon_margaritov">Margaritov simgesi</string>
     <!-- Volume rocker music control -->
     <string name="volume_rocker_music_controls_title">Oynatma kontrolü</string>
     <string name="volume_rocker_music_controls_summary">Ekran kapalıyken, ses seviyesi tuşlarına uzun basıldığında müzik parçaları aranacaktır</string>
@@ -139,14 +139,14 @@
     <!-- Torch Power button gestures -->
     <string name="torch_power_button_gesture_title">Ekran kapalıyken fener aç</string>
     <string name="torch_power_button_gesture_none">Devre dışı</string>
-    <string name="torch_power_button_gesture_dt">Double press power button (Disables Quickly open camera feature and adds 170ms wakeup delay)</string>
+    <string name="torch_power_button_gesture_dt">Güç tuşuna iki kez basın (Hızlı kamera açma özelliğini devre dışı bırakır ve 170sn uyanma gecikmesi ekler)</string>
     <string name="torch_power_button_gesture_lp">Güç tuşuna uzun bas</string>
     <string name="gestures_title">Gezinme çubuğu hareketi özelleştirmeleri</string>
     <string name="gestures_summary">Hapını al</string>
     <!-- Lockscreen media artwork -->
     <string name="lockscreen_media_blur_title">Medya resmi bulanıklık seviyesi</string>
-    <string name="show_lockscreen_media_art_title">Show media art</string>
-    <string name="lockscreen_media_art_options_title">Lockscreen media art</string>
+    <string name="show_lockscreen_media_art_title">Medya resmini göster</string>
+    <string name="lockscreen_media_art_options_title">Kilit ekranı medya resmi</string>
     <!-- Udfps animations -->
     <string name="udfps_category">Ekran altı parmak izi sensörü</string>
     <string name="search">Ara</string>
@@ -212,85 +212,85 @@
     <string name="unit_milliseconds">milisaniye</string>
     <string name="unit_seconds">saniye</string>
     <!-- UDFPS settings -->
-    <string name="udfps_settings_title">UDFPS customization</string>
-    <string name="udfps_settings_summary">Customize under-display fingerprint scanner</string>
-    <string name="udfps_icon_picker_title">UDFPS icon picker</string>
-    <string name="udfps_icon_picker_summary">Choose your favorite fingerprint icon</string>
-    <string name="udfps_recog_animation_effect_title">UDFPS animation effect</string>
-    <string name="udfps_recog_animation_effect_summary">Choose animation effect</string>
+    <string name="udfps_settings_title">UDFPS özelleştirmeleri</string>
+    <string name="udfps_settings_summary">Ekran altı parmak izi tarayıcısını özelleştirin</string>
+    <string name="udfps_icon_picker_title">UDFPS simge seçici</string>
+    <string name="udfps_icon_picker_summary">Favori parmak izi simgenizi seçin</string>
+    <string name="udfps_recog_animation_effect_title">UDFPS animasyon efekti</string>
+    <string name="udfps_recog_animation_effect_summary">Animasyon efekti seçin</string>
     <!-- Font style / Icon pack -->
-    <string name="theme_customization_font_title">Font style</string>
-    <string name="theme_customization_font_summary">Set system font style</string>
-    <string name="theme_customization_icon_pack_title">Icon pack</string>
-    <string name="theme_customization_icon_pack_summary">Set custom icon pack style</string>
-    <string name="theme_customization_icon_shape_title">Icon shape</string>
-    <string name="theme_customization_icon_shape_summary">Set system icon shape style</string>
+    <string name="theme_customization_font_title">Yazı tipi stili</string>
+    <string name="theme_customization_font_summary">Sistem yazı tipi stili ayarlayın</string>
+    <string name="theme_customization_icon_pack_title">Simge paketi</string>
+    <string name="theme_customization_icon_pack_summary">Özel simge paketi stili ayarlayın</string>
+    <string name="theme_customization_icon_shape_title">Simge şekli</string>
+    <string name="theme_customization_icon_shape_summary">Sistem simgesi şekil stilini ayarlayın</string>
     <!-- Custom FOD Icon -->
-    <string name="custom_fp_icon_title">Custom UDFPS Icon</string>
-    <string name="custom_fp_icon_summary">Enable custom UDFPS Icon from files</string>
-    <string name="custom_fp_select_title">Select Custom UDFPS Icon</string>
-    <string name="custom_fp_select_summary">Select custom image from your saved files or gallery</string>
+    <string name="custom_fp_icon_title">Özel UDFPS simgesi</string>
+    <string name="custom_fp_icon_summary">Dosyalardan özel UDFPS simgesini etkinleştir</string>
+    <string name="custom_fp_select_title">Özel UDFPS simgesi seç</string>
+    <string name="custom_fp_select_summary">Özel simgeyi kayıtlı dosyalarınızdan veya galeriden seçin</string>
     <!-- Statusbar colored icons -->
-    <string name="statusbar_colored_icons_title">Colored icons</string>
-    <string name="statusbar_colored_icons_summary">Use proper app icons for notification icons in statusbar</string>
+    <string name="statusbar_colored_icons_title">Renkli simgeler</string>
+    <string name="statusbar_colored_icons_summary">Durum çubuğundaki bildirim simgeleri için uygun uygulama simgelerini kullanın</string>
     <!-- reTicker -->
-    <string name="reticker_title">reTicker\nRequires SystemUI restart</string>
-    <string name="reticker_summary">Replace your notifications with a redesigned version of tickers. \nSlim and less invasive than a standard notification</string>
-    <string name="reticker_colored_title">Use app colored background</string>
-    <string name="reticker_colored_summary">Replace reTicker background color using notification app main color</string>
-    <string name="reticker_landscape_only_title">Landscape only</string>
-    <string name="reticker_landscape_only_summary">Only enable reTicker when device is in landscape mode</string>
+    <string name="reticker_title">reTicker\nSistem arayüzünün yeniden başlatılması gerekir</string>
+    <string name="reticker_summary">Bildirimlerinizi, bildirim çubuğu yazılarının yeniden tasarlanmış haliyle değiştirin. \nStandart bildirimlerden daha zarif ve daha az dikkat dağıtıcıdır</string>
+    <string name="reticker_colored_title">Uygulama renkli arka planı kullan</string>
+    <string name="reticker_colored_summary">Bildirim uygulaması ana rengini kullanarak reTicker arka plan rengini değiştirin</string>
+    <string name="reticker_landscape_only_title">Sadece yatay</string>
+    <string name="reticker_landscape_only_summary">ReTicker\'i yalnızca cihaz yatay moddayken etkinleştirin</string>
     <!-- QS tiles layout -->
-    <string name="qs_tile_layout_title">QS tiles layout</string>
-    <string name="qs_tile_layout_summary">Customize tiles layout in QS panel</string>
-    <string name="qs_tiles_layout_category">Tiles layout</string>
-    <string name="qs_rows_portrait_title">Rows (Portrait)</string>
-    <string name="qqs_rows_portrait_title">Rows (Quick QS portrait)</string>
-    <string name="qs_columns_portrait_title">Columns (Portrait)</string>
-    <string name="qs_apply_change_button_title">Apply change</string>
-    <string name="qs_apply_change_failed">Failed to apply change</string>
-    <string name="qs_tile_hide_label_title">Hide labels</string>
-    <string name="qs_tile_hide_label_summary">Show only icon for QS tiles</string>
-    <string name="qs_tile_vertical_layout_title">Vertical layout</string>
-    <string name="qs_tile_vertical_layout_summary">Enable vertical layout for QS tiles</string>
+    <string name="qs_tile_layout_title">Hızlı ayarlar kare düzeni</string>
+    <string name="qs_tile_layout_summary">Hızlı ayarlar panelinde kare düzenini özelleştirin</string>
+    <string name="qs_tiles_layout_category">Kare düzeni</string>
+    <string name="qs_rows_portrait_title">Satırlar (Dikey)</string>
+    <string name="qqs_rows_portrait_title">Satırlar (Hızlı ayarlar dikey)</string>
+    <string name="qs_columns_portrait_title">Sütunlar (Dikey)</string>
+    <string name="qs_apply_change_button_title">Değişiklikleri uygula</string>
+    <string name="qs_apply_change_failed">Değişlikler uygulanamadı</string>
+    <string name="qs_tile_hide_label_title">Etiketleri gizle</string>
+    <string name="qs_tile_hide_label_summary">Sadece hızlı ayarlar kareleri için simge göster</string>
+    <string name="qs_tile_vertical_layout_title">Dikey düzen</string>
+    <string name="qs_tile_vertical_layout_summary">Hızlı ayarlar kareleri için dikey düzeni etkinleştir</string>
     <!-- Navbar Layout -->
-    <string name="navbar_layout_category_title">Layout</string>
-    <string name="navbar_layout_title">Layout</string>
+    <string name="navbar_layout_category_title">Düzen</string>
+    <string name="navbar_layout_title">Düzen</string>
     <string name="navbar_layout_normal">Normal</string>
-    <string name="navbar_layout_compact">Compact</string>
-    <string name="navbar_layout_leftleaning">Left-leaning</string>
-    <string name="navbar_layout_rightleaning">Right-leaning</string>
-    <string name="navbar_invert_layout_title">Invert layout</string>
-    <string name="navbar_invert_layout_summary">Inverts the layout of the navigation bar and other items, such as the IME switcher</string>
+    <string name="navbar_layout_compact">Sıkıştır</string>
+    <string name="navbar_layout_leftleaning">Sola yaslanmış</string>
+    <string name="navbar_layout_rightleaning">Sağa yaslanmış</string>
+    <string name="navbar_invert_layout_title">Düzeni tersine çevir</string>
+    <string name="navbar_invert_layout_summary">Gezinme çubuğu ve klavye değiştiricisi gibi öğelerin düzenini tersine çevirir</string>
     <!-- Data usage info in QS footer -->
-    <string name="qs_footer_datausage_title">Data usage</string>
-    <string name="qs_footer_datausage_summary">Display data usage summary in quick settings footer</string>
+    <string name="qs_footer_datausage_title">Veri kullanımı</string>
+    <string name="qs_footer_datausage_summary">Hızlı ayarlar alt bilgisinde veri kullanım özetini göster</string>
     <!-- Privacy indicators -->
-    <string name="mic_camera_privacy_indicator_title">Mic and camera privacy indicator</string>
-    <string name="mic_camera_privacy_indicator_summary">Show indicator when any app uses mic or camera</string>
-    <string name="location_privacy_indicator_title">Location privacy indicator</string>
-    <string name="location_privacy_indicator_summary">Show indicator when any app uses location</string>
-    <string name="projection_privacy_indicator_title">Media projection privacy indicator</string>
-    <string name="projection_privacy_indicator_summary">Show indicator when device screen is projected</string>
+    <string name="mic_camera_privacy_indicator_title">Mikrofon ve kamera gizlilik göstergesi</string>
+    <string name="mic_camera_privacy_indicator_summary">Herhangi bir uygulama mikrofon veya kamera kullandığında ayrı gösterge göster</string>
+    <string name="location_privacy_indicator_title">Konum gizlilik göstergesi</string>
+    <string name="location_privacy_indicator_summary">Herhangi bir uygulama konum kullandığında ayrı gösterge göster</string>
+    <string name="projection_privacy_indicator_title">Medya projeksiyonu gizlilik göstergesi</string>
+    <string name="projection_privacy_indicator_summary">Cihaz ekranı yansıtıldığında gösterge göster</string>
     <!-- QQS brightness slider -->
-    <string name="qqs_brightness_slider_title">QQS brightness slider</string>
-    <string name="qs_brightness_slider_hide">Hide</string>
-    <string name="qs_brightness_slider_bottom">Bottom</string>
-    <string name="qs_brightness_slider_top">Top</string>
+    <string name="qqs_brightness_slider_title">Hızlı ayarlar parlaklık kaydırıcısı</string>
+    <string name="qs_brightness_slider_hide">Gizle</string>
+    <string name="qs_brightness_slider_bottom">Alt</string>
+    <string name="qs_brightness_slider_top">Üst</string>
     <!-- Statusbar brightness control -->
-    <string name="status_bar_brightness_control_title">Statusbar Brightness Control</string>
-    <string name="status_bar_brightness_control_summary">Adjust brightness by sliding across statusbar</string>
+    <string name="status_bar_brightness_control_title">Durum çubuğu parlaklık kontrolü</string>
+    <string name="status_bar_brightness_control_summary">Durum çubuğunun üzerinde kaydırarak parlaklığı ayarla</string>
     <!-- Quick Settings brightness slider -->
-    <string name="qs_show_brightness_slider_title">Brightness slider</string>
-    <string name="qs_show_brightness_slider_never">Never show</string>
-    <string name="qs_show_brightness_slider_expanded">Show when expanded</string>
-    <string name="qs_show_brightness_slider_always">Show always</string>
-    <string name="qs_show_brightness_slider_not_expanded">Show when not expanded</string>
-    <string name="qs_brightness_slider_position_title">Position</string>
-    <string name="qs_brightness_slider_position_top">Top</string>
-    <string name="qs_brightness_slider_position_bottom">Bottom</string>
-    <string name="default_string">Default</string>
+    <string name="qs_show_brightness_slider_title">Parlaklık kaydırıcısı</string>
+    <string name="qs_show_brightness_slider_never">Asla gösterme</string>
+    <string name="qs_show_brightness_slider_expanded">Genişletildiğinde göster</string>
+    <string name="qs_show_brightness_slider_always">Her zaman göster</string>
+    <string name="qs_show_brightness_slider_not_expanded">Genişletilmediğinde göster</string>
+    <string name="qs_brightness_slider_position_title">Konum</string>
+    <string name="qs_brightness_slider_position_top">Üst</string>
+    <string name="qs_brightness_slider_position_bottom">Alt</string>
+    <string name="default_string">Varsayılan</string>
     <!-- Quick Settings brightness icon -->
-    <string name="qs_show_auto_brightness_title">Auto brightness icon</string>
-    <string name="qs_show_auto_brightness_summary">Show toggle for adaptive brightness near the slider</string>
+    <string name="qs_show_auto_brightness_title">Otomatik parlaklık simgesi</string>
+    <string name="qs_show_auto_brightness_summary">Kaydırıcının yanında uyarlanabilir parlaklık için geçişi göster</string>
 </resources>
