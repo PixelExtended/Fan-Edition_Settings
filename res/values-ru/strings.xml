@@ -138,20 +138,20 @@
     <string name="torch_power_button_gesture_dt">Дважды нажмите кнопку питания (отключает функцию Быстрого открытия камеры и добавляет задержку пробуждения 170 мс)</string>
     <string name="torch_power_button_gesture_lp">Долгое нажатие кнопки питания</string>
     <!-- Quick Settings brightness slider -->
-    <string name="qs_brightness_slider_category">Brightness slider</string>
-    <string name="qs_brightness_slider_title">Show brightness slider</string>
-    <string name="qs_brightness_slider_summary">Show a brightness slider in the quick settings panel</string>
-    <string name="qs_brightness_position_bottom_title">Show brightness slider on bottom</string>
-    <string name="qs_brightness_position_bottom_summary">Show a brightness slider on bottom quick settings</string>
+    <string name="qs_brightness_slider_category">Ползунок яркости</string>
+    <string name="qs_brightness_slider_title">Показывать ползунок яркости</string>
+    <string name="qs_brightness_slider_summary">Показать ползунок яркости на панели быстрых настроек</string>
+    <string name="qs_brightness_position_bottom_title">Показывать ползунок яркости внизу</string>
+    <string name="qs_brightness_position_bottom_summary">Показывать ползунок яркости внизу быстрых настроек</string>
     <!-- Quick Settings brightness icon -->
-    <string name="brightness_icon_title">Adaptive brightness button</string>
-    <string name="brightness_icon_summary">Show adaptive brightness button</string>
+    <string name="brightness_icon_title">Кнопка адаптивной яркости</string>
+    <string name="brightness_icon_summary">Показывать кнопку адаптивной яркости</string>
     <!-- Quick QS Panel brightness slider -->
-    <string name="quick_qs_brightness_slider_title">Show brightness slider in Quick QS Panel</string>
-    <string name="quick_qs_brightness_slider_summary">Show a brightness slider in the quick qs panel</string>
+    <string name="quick_qs_brightness_slider_title">Показать ползунок яркости в панели быстрых настроек</string>
+    <string name="quick_qs_brightness_slider_summary">Показать ползунок яркости в панели быстрых настроек</string>
     <!-- Brightness control -->
-    <string name="status_bar_toggle_brightness">Brightness control</string>
-    <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
+    <string name="status_bar_toggle_brightness">Управление яркостью</string>
+    <string name="status_bar_toggle_brightness_summary">Регулировка яркости движением по строке состояния</string>
     <string name="gestures_title">Настройки жестов панели навигации</string>
     <string name="gestures_summary">Возьмите таблетку</string>
     <!-- Lockscreen media artwork -->
@@ -189,44 +189,44 @@
     <string name="qs_footer_datausage_title">Передача данных</string>
     <string name="qs_footer_datausage_summary">Отображение сводки об использовании данных в нижнем колонтитуле быстрых настроек</string>
     <!-- Wi-Fi Standard icon -->
-    <string name="show_wifi_standard_icon_title">Show Wi-Fi type icon</string>
-    <string name="show_wifi_standard_icon_summary">Show Wi-Fi type in Wi-Fi signal indicator</string>
+    <string name="show_wifi_standard_icon_title">Показывать значок стандарта Wi-Fi</string>
+    <string name="show_wifi_standard_icon_summary">Показывать тип Wi-Fi в иконке</string>
     <!-- Themes customization -->
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the settings category for theme overlays. -->
-    <string name="theme_customization_category">Theming</string>
+    <string name="theme_customization_category">Стиль</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the adaptive icon shape (e.g. launcher and quick settings icons). -->
     <string name="theme_customization_icon_shape_title">Форма значка</string>
     <string name="theme_customization_icon_shape_summary">Установить стиль формы значка системы</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize headline and body fonts. -->
-    <string name="theme_customization_font_title">Headline / Body font</string>
+    <string name="theme_customization_font_title">Заголовок / Основной шрифт</string>
     <string name="theme_customization_font_summary">Установить стиль для системного шрифта</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the system wide icon pack. -->
     <string name="theme_customization_icon_pack_title">Набор значков</string>
     <string name="theme_customization_icon_pack_summary">Установить пользовательский стиль набора значков</string>
     <!-- Custom Signal bar icons -->
-    <string name="theme_customization_signal_icon_title">Signal icon style</string>
-    <string name="theme_customization_signal_icon_summary">Set custom signal icon style</string>
+    <string name="theme_customization_signal_icon_title">Стиль значка сети</string>
+    <string name="theme_customization_signal_icon_summary">Выбрать стиль значка сигнала</string>
     <!-- Custom Wi-Fi bar icons -->
-    <string name="theme_customization_wifi_icon_title">WiFi icon style</string>
-    <string name="theme_customization_wifi_icon_summary">Set custom wifi icon style</string>
-    <string name="theme_customization_navbar_title">Navbar style</string>
-    <string name="theme_customization_navbar_summary">Set custom navigation bar style</string>
+    <string name="theme_customization_wifi_icon_title">Значок Wi-Fi</string>
+    <string name="theme_customization_wifi_icon_summary">Установить пользовательский стиль значка WiFi</string>
+    <string name="theme_customization_navbar_title">Стиль панели навигации</string>
+    <string name="theme_customization_navbar_summary">Установить пользовательский стиль панели навигации</string>
     <!-- Custom Fonts -->
-    <string name="theme_customization_lock_clock_title">Lockscreen clock font</string>
-    <string name="theme_customization_lock_clock_summary">Set LS clock font style</string>
+    <string name="theme_customization_lock_clock_title">Шрифт часов экрана блокировки</string>
+    <string name="theme_customization_lock_clock_summary">Установить стиль шрифта часов экрана блокировки</string>
     <!-- Notification count -->
-    <string name="status_bar_notif_count_title">Show notification count</string>
-    <string name="status_bar_notif_count_summary">Display the number of pending notifications</string>
+    <string name="status_bar_notif_count_title">Показать счетчик уведомлений</string>
+    <string name="status_bar_notif_count_summary">Показывать количество не просмотренных уведомлений</string>
     <!-- Statusbar colored icons -->
     <string name="statusbar_colored_icons_title">Цветные иконки</string>
-    <string name="statusbar_colored_icons_summary">Use app icons for notification icons in statusbar</string>
+    <string name="statusbar_colored_icons_summary">Использовать значки приложений для уведомлений в строке состояния</string>
     <!-- Ignore secure flag -->
-    <string name="window_ignore_secure_title">Ignore window secure flags</string>
-    <string name="window_ignore_secure_summary">Remove screenshot / screenrecord limits for all applications</string>
-    <string name="window_ignore_secure_warning">This can be convenient in some cases but may lead to privacy leaks. After changing this toggle, you may need to restart applications for the change to take effect.</string>
+    <string name="window_ignore_secure_title">Игнорировать флаги безопасности</string>
+    <string name="window_ignore_secure_summary">Удалить ограничения на скриншот / запись экрана для всех приложений</string>
+    <string name="window_ignore_secure_warning">Это может быть удобным в некоторых случаях, но может привести к утечке конфиденциальности. После изменения этого переключателя вам может потребоваться перезапустить приложения, чтобы изменения вступили в силу.</string>
     <!-- Screen off FOD -->
-    <string name="screen_off_fod_title">Screen off FOD</string>
-    <string name="screen_off_fod_summary">Keep FOD enabled when the screen is off</string>
+    <string name="screen_off_fod_title">Отпечаток на выключенном экране</string>
+    <string name="screen_off_fod_summary">Использовать сканер отпечатков пальцев при выключенном экране</string>
     <!-- UDFPS settings -->
     <string name="udfps_settings_title">Настройка UDFPS</string>
     <string name="udfps_settings_summary">Настройки сканера отпечатков пальцев</string>
@@ -240,8 +240,8 @@
     <string name="custom_fp_select_title">Выбор пользовательского значка UDFPS</string>
     <string name="custom_fp_select_summary">Выберите изображение из сохраненных файлов или галереи</string>
     <!-- Misc gesture settings -->
-    <string name="back_gesture_haptic_title">Haptic feedback</string>
-    <string name="back_gesture_haptic_summary">Enable haptic tick effect on back gesture</string>
+    <string name="back_gesture_haptic_title">Виброотклик</string>
+    <string name="back_gesture_haptic_summary">Включить вибрацию для жеста \"Назад\"</string>
     <!-- Power menu on lockscreen -->
     <string name="lockscreen_power_menu_disabled_title">Отключить меню кнопки питания на экране блокировки</string>
     <string name="lockscreen_power_menu_disabled_summary">Эта опция отключит меню питания на экране блокировки</string>
