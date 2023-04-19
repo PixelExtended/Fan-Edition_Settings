@@ -34,6 +34,7 @@
     <string name="colors_title">Renkler</string>
     <string name="enable">Altif</string>
     <string name="disable">Pasif</string>
+    <string name="privacy_category">Privacy Indicators (Requires Restart)</string>
     <!-- Extensions categories -->
     <string name="status_bar_category">Durum çubuğu</string>
     <string name="system_category">Sistem</string>
@@ -258,4 +259,11 @@
     <string name="qs_tile_hide_label_summary">Sadece hızlı ayarlar kareleri için simge göster</string>
     <string name="qs_tile_vertical_layout_title">Dikey düzen</string>
     <string name="qs_tile_vertical_layout_summary">Hızlı ayarlar kareleri için dikey düzeni etkinleştir</string>
+    <!-- Privacy indicators -->
+    <string name="mic_camera_privacy_indicator_title">Mic and camera privacy indicator</string>
+    <string name="mic_camera_privacy_indicator_summary">Show indicator when any app uses mic or camera</string>
+    <string name="location_privacy_indicator_title">Location privacy indicator</string>
+    <string name="location_privacy_indicator_summary">Show indicator when any app uses location</string>
+    <string name="projection_privacy_indicator_title">Media projection privacy indicator</string>
+    <string name="projection_privacy_indicator_summary">Show indicator when device screen is projected</string>
 </resources>
