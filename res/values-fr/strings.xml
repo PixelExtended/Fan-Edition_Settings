@@ -34,6 +34,7 @@
     <string name="colors_title">Couleurs</string>
     <string name="enable">Activer</string>
     <string name="disable">Désactiver</string>
+    <string name="privacy_category">Privacy Indicators (Requires Restart)</string>
     <!-- Extensions categories -->
     <string name="status_bar_category">Barre d\'état</string>
     <string name="system_category">Système</string>
@@ -263,4 +264,11 @@ Si vous ne signalez pas correctement quelque chose, NE VOUS ATTENDEZ PAS à ce q
     <string name="qs_tile_hide_label_summary">Show only icon for QS tiles</string>
     <string name="qs_tile_vertical_layout_title">Disposition verticale</string>
     <string name="qs_tile_vertical_layout_summary">Enable vertical layout for QS tiles</string>
+    <!-- Privacy indicators -->
+    <string name="mic_camera_privacy_indicator_title">Mic and camera privacy indicator</string>
+    <string name="mic_camera_privacy_indicator_summary">Show indicator when any app uses mic or camera</string>
+    <string name="location_privacy_indicator_title">Location privacy indicator</string>
+    <string name="location_privacy_indicator_summary">Show indicator when any app uses location</string>
+    <string name="projection_privacy_indicator_title">Media projection privacy indicator</string>
+    <string name="projection_privacy_indicator_summary">Show indicator when device screen is projected</string>
 </resources>
