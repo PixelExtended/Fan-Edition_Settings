@@ -34,7 +34,7 @@
     <string name="colors_title">Renkler</string>
     <string name="enable">Altif</string>
     <string name="disable">Pasif</string>
-    <string name="privacy_category">Privacy Indicators (Requires Restart)</string>
+    <string name="privacy_category">Gizlilik göstergeleri (Yeniden başlatma gerektirir)</string>
     <!-- Extensions categories -->
     <string name="status_bar_category">Durum çubuğu</string>
     <string name="system_category">Sistem</string>
@@ -126,7 +126,7 @@
     <string name="fprint_error_vib_title">Parmak izi hata titreşimi</string>
     <string name="fprint_error_vib_summary">Başarısız parmak izi kimlik doğrulamasında titret</string>
     <!-- Wake on plug -->
-    <string name="wake_when_plugged_or_unplugged_title">Takıp çıkarmada uyar</string>
+    <string name="wake_when_plugged_or_unplugged_title">Takıp çıkarmada uyandır</string>
     <string name="wake_when_plugged_or_unplugged_summary">Şarj aleti takıldığında ya da çıkarıldığında ekranı aç</string>
     <!-- Quick QS pulldown -->
     <string name="status_bar_quick_qs_pulldown">Hızlı aşağı çekme</string>
@@ -139,20 +139,20 @@
     <string name="torch_power_button_gesture_dt">Güç tuşuna iki kez basın (Hızlı kamera açma özelliğini devre dışı bırakır ve 170sn uyanma gecikmesi ekler)</string>
     <string name="torch_power_button_gesture_lp">Güç tuşuna uzun bas</string>
     <!-- Quick Settings brightness slider -->
-    <string name="qs_brightness_slider_category">Brightness slider</string>
-    <string name="qs_brightness_slider_title">Show brightness slider</string>
-    <string name="qs_brightness_slider_summary">Show a brightness slider in the quick settings panel</string>
-    <string name="qs_brightness_position_bottom_title">Show brightness slider on bottom</string>
-    <string name="qs_brightness_position_bottom_summary">Show a brightness slider on bottom quick settings</string>
+    <string name="qs_brightness_slider_category">Parlaklık kaydırıcısı</string>
+    <string name="qs_brightness_slider_title">Parlaklık kaydırıcısını göster</string>
+    <string name="qs_brightness_slider_summary">Hızlı ayarlar panelinde bir parlaklık kaydırma çubuğu göster</string>
+    <string name="qs_brightness_position_bottom_title">Parlaklık kaydırıcısını altta göster</string>
+    <string name="qs_brightness_position_bottom_summary">Hızlı ayarlar alt panelinde parlaklık kaydırıcısını göster</string>
     <!-- Quick Settings brightness icon -->
-    <string name="brightness_icon_title">Adaptive brightness button</string>
-    <string name="brightness_icon_summary">Show adaptive brightness button</string>
+    <string name="brightness_icon_title">Uyarlanabilir parlaklık tuşu</string>
+    <string name="brightness_icon_summary">Uyarlanabilir parlaklık tuşlarını göster</string>
     <!-- Quick QS Panel brightness slider -->
-    <string name="quick_qs_brightness_slider_title">Show brightness slider in Quick QS Panel</string>
-    <string name="quick_qs_brightness_slider_summary">Show a brightness slider in the quick qs panel</string>
+    <string name="quick_qs_brightness_slider_title">Hızlı ayarlar panelinde parlaklık kaydırıcısını göster</string>
+    <string name="quick_qs_brightness_slider_summary">Hızlı ayarlar panelinde bir parlaklık kaydırıcısı göster</string>
     <!-- Brightness control -->
-    <string name="status_bar_toggle_brightness">Brightness control</string>
-    <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
+    <string name="status_bar_toggle_brightness">Parlaklık kontrolü</string>
+    <string name="status_bar_toggle_brightness_summary">Durum çubuğunu kaydırarak parlaklığı ayarla</string>
     <string name="gestures_title">Gezinme çubuğu hareketi özelleştirmeleri</string>
     <string name="gestures_summary">Hapını al</string>
     <!-- Lockscreen media artwork -->
@@ -190,44 +190,44 @@
     <string name="qs_footer_datausage_title">Veri kullanımı</string>
     <string name="qs_footer_datausage_summary">Hızlı ayarlar alt bilgisinde veri kullanım özetini göster</string>
     <!-- Wi-Fi Standard icon -->
-    <string name="show_wifi_standard_icon_title">Show Wi-Fi type icon</string>
-    <string name="show_wifi_standard_icon_summary">Show Wi-Fi type in Wi-Fi signal indicator</string>
+    <string name="show_wifi_standard_icon_title">Standart Wi-Fi simgesini göster</string>
+    <string name="show_wifi_standard_icon_summary">Wi-Fi sinyali göstergesinde Wi-Fi türünü göster</string>
     <!-- Themes customization -->
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the settings category for theme overlays. -->
-    <string name="theme_customization_category">Theming</string>
+    <string name="theme_customization_category">Tema</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the adaptive icon shape (e.g. launcher and quick settings icons). -->
     <string name="theme_customization_icon_shape_title">Simge şekli</string>
     <string name="theme_customization_icon_shape_summary">Sistem simgesi şekil stilini ayarlayın</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize headline and body fonts. -->
-    <string name="theme_customization_font_title">Headline / Body font</string>
+    <string name="theme_customization_font_title">Başlık / Gövde yazı tipi</string>
     <string name="theme_customization_font_summary">Sistem yazı tipi stili ayarlayın</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the system wide icon pack. -->
     <string name="theme_customization_icon_pack_title">Simge paketi</string>
     <string name="theme_customization_icon_pack_summary">Özel simge paketi stili ayarlayın</string>
     <!-- Custom Signal bar icons -->
-    <string name="theme_customization_signal_icon_title">Signal icon style</string>
-    <string name="theme_customization_signal_icon_summary">Set custom signal icon style</string>
+    <string name="theme_customization_signal_icon_title">Sinyal simgesi stili</string>
+    <string name="theme_customization_signal_icon_summary">Özel sinyal simgesi stili ayarlayın</string>
     <!-- Custom Wi-Fi bar icons -->
-    <string name="theme_customization_wifi_icon_title">WiFi icon style</string>
-    <string name="theme_customization_wifi_icon_summary">Set custom wifi icon style</string>
-    <string name="theme_customization_navbar_title">Navbar style</string>
-    <string name="theme_customization_navbar_summary">Set custom navigation bar style</string>
+    <string name="theme_customization_wifi_icon_title">WiFi simgesi stili</string>
+    <string name="theme_customization_wifi_icon_summary">Özel wifi simge stili ayarlayın</string>
+    <string name="theme_customization_navbar_title">Gezinme çubuğu stili</string>
+    <string name="theme_customization_navbar_summary">Özel gezinme çubuğu stili ayarlayın</string>
     <!-- Custom Fonts -->
-    <string name="theme_customization_lock_clock_title">Lockscreen clock font</string>
-    <string name="theme_customization_lock_clock_summary">Set LS clock font style</string>
+    <string name="theme_customization_lock_clock_title">Kilit ekranı saat yazı tipi</string>
+    <string name="theme_customization_lock_clock_summary">LS saat yazı tipi stilini ayarlayın</string>
     <!-- Notification count -->
-    <string name="status_bar_notif_count_title">Show notification count</string>
-    <string name="status_bar_notif_count_summary">Display the number of pending notifications</string>
+    <string name="status_bar_notif_count_title">Bildirim sayısını göster</string>
+    <string name="status_bar_notif_count_summary">Bekleyen bildirimlerin sayısını görüntüle</string>
     <!-- Statusbar colored icons -->
     <string name="statusbar_colored_icons_title">Renkli simgeler</string>
-    <string name="statusbar_colored_icons_summary">Use app icons for notification icons in statusbar</string>
+    <string name="statusbar_colored_icons_summary">Durum çubuğundaki bildirim simgeleri için uygulama simgelerini kullanın</string>
     <!-- Ignore secure flag -->
-    <string name="window_ignore_secure_title">Ignore window secure flags</string>
-    <string name="window_ignore_secure_summary">Remove screenshot / screenrecord limits for all applications</string>
-    <string name="window_ignore_secure_warning">This can be convenient in some cases but may lead to privacy leaks. After changing this toggle, you may need to restart applications for the change to take effect.</string>
+    <string name="window_ignore_secure_title">Pencere güvenlik işaretlerini yoksay</string>
+    <string name="window_ignore_secure_summary">Tüm uygulamalar için ekran görüntüsü / ekran kaydı sınırlarını kaldırın</string>
+    <string name="window_ignore_secure_warning">Bu bazı durumlarda uygun olabilir ancak gizlilik sızıntılarına yol açabilir. Bu geçişi değiştirdikten sonra, değişikliğin etkili olması için uygulamaları yeniden başlatmanız gerekebilir.</string>
     <!-- Screen off FOD -->
-    <string name="screen_off_fod_title">Screen off FOD</string>
-    <string name="screen_off_fod_summary">Keep FOD enabled when the screen is off</string>
+    <string name="screen_off_fod_title">Ekran kapalı FOD</string>
+    <string name="screen_off_fod_summary">Ekran kapalıyken FOD\'u etkin tutun</string>
     <!-- UDFPS settings -->
     <string name="udfps_settings_title">UDFPS özelleştirmeleri</string>
     <string name="udfps_settings_summary">Ekran altı parmak izi tarayıcısını özelleştirin</string>
@@ -241,8 +241,8 @@
     <string name="custom_fp_select_title">Özel UDFPS simgesi seç</string>
     <string name="custom_fp_select_summary">Özel simgeyi kayıtlı dosyalarınızdan veya galeriden seçin</string>
     <!-- Misc gesture settings -->
-    <string name="back_gesture_haptic_title">Haptic feedback</string>
-    <string name="back_gesture_haptic_summary">Enable haptic tick effect on back gesture</string>
+    <string name="back_gesture_haptic_title">Dokunumsal geri bildirim</string>
+    <string name="back_gesture_haptic_summary">Geri hareketinde dokunumsal tıklama efektini etkinleştirir</string>
     <!-- Power menu on lockscreen -->
     <string name="lockscreen_power_menu_disabled_title">Kilit ekranında güç menüsünü devre dışı bırak</string>
     <string name="lockscreen_power_menu_disabled_summary">Bu seçenek sadece güvenli kilit ekranlarındaki güç menüsünü devre dışı bırakacaktır</string>
@@ -260,10 +260,10 @@
     <string name="qs_tile_vertical_layout_title">Dikey düzen</string>
     <string name="qs_tile_vertical_layout_summary">Hızlı ayarlar kareleri için dikey düzeni etkinleştir</string>
     <!-- Privacy indicators -->
-    <string name="mic_camera_privacy_indicator_title">Mic and camera privacy indicator</string>
-    <string name="mic_camera_privacy_indicator_summary">Show indicator when any app uses mic or camera</string>
-    <string name="location_privacy_indicator_title">Location privacy indicator</string>
-    <string name="location_privacy_indicator_summary">Show indicator when any app uses location</string>
-    <string name="projection_privacy_indicator_title">Media projection privacy indicator</string>
-    <string name="projection_privacy_indicator_summary">Show indicator when device screen is projected</string>
+    <string name="mic_camera_privacy_indicator_title">Mikrofon ve kamera gizlilik göstergesi</string>
+    <string name="mic_camera_privacy_indicator_summary">Herhangi bir uygulama mikrofon veya kamera kullandığında ayrı gösterge göster</string>
+    <string name="location_privacy_indicator_title">Konum gizlilik göstergesi</string>
+    <string name="location_privacy_indicator_summary">Herhangi bir uygulama konum kullandığında ayrı gösterge göster</string>
+    <string name="projection_privacy_indicator_title">Medya projeksiyonu gizlilik göstergesi</string>
+    <string name="projection_privacy_indicator_summary">Cihaz ekranı yansıtıldığında gösterge göster</string>
 </resources>
