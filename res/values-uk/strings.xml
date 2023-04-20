@@ -18,252 +18,252 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General app strings -->
     <string name="extensions_title">PeXtension</string>
-    <string name="add">Add</string>
-    <string name="advanced">Advanced</string>
-    <string name="cancel">Cancel</string>
-    <string name="default_text">Default</string>
-    <string name="dlg_ok">OK</string>
-    <string name="attention">Attention</string>
-    <string name="loading">Loading\u2026</string>
-    <string name="reset">Reset</string>
-    <string name="reset_colors">Reset colors</string>
-    <string name="reset_android">Android</string>
-    <string name="text_title">Text</string>
-    <string name="icon_title">Icon</string>
-    <string name="color_title">Color</string>
-    <string name="colors_title">Colors</string>
-    <string name="enable">Enable</string>
-    <string name="disable">Disable</string>
-    <string name="privacy_category">Privacy Indicators (Requires Restart)</string>
+    <string name="add">Додати</string>
+    <string name="advanced">Додатково</string>
+    <string name="cancel">Скасувати</string>
+    <string name="default_text">За замовчуванням</string>
+    <string name="dlg_ok">Добре</string>
+    <string name="attention">Попередження</string>
+    <string name="loading">Завантаження\u2026</string>
+    <string name="reset">Скинути</string>
+    <string name="reset_colors">Скидання кольорів</string>
+    <string name="reset_android">Андроїд</string>
+    <string name="text_title">Текст</string>
+    <string name="icon_title">Іконка</string>
+    <string name="color_title">Колір</string>
+    <string name="colors_title">Кольори</string>
+    <string name="enable">Увімкнути</string>
+    <string name="disable">Вимкнути</string>
+    <string name="privacy_category">Індикатори конфіденційності (потрібний перезапуск)</string>
     <!-- Extensions categories -->
-    <string name="status_bar_category">Statusbar</string>
-    <string name="system_category">System</string>
-    <string name="lockscreen_category">Lockscreen</string>
-    <string name="hardware_category">Hardware</string>
-    <string name="build_tweaks_summary_title">Enter here for the new world!</string>
-    <string name="listview">ListView</string>
-    <string name="misc_category">Misc Settings</string>
-    <string name="fingerprint_category">FP Sensor</string>
-    <string name="qs_category">Quick Settings</string>
-    <string name="power_key">Power Button</string>
-    <string name="volume_keys">Volume Buttons</string>
-    <string name="lockscreen_gestures_category">LockScreen Gesture</string>
-    <string name="battery_settings_title">Battery Settings</string>
-    <string name="gestures_category">Gestures Customizations</string>
+    <string name="status_bar_category">Рядок стану</string>
+    <string name="system_category">Система</string>
+    <string name="lockscreen_category">Екран блокування</string>
+    <string name="hardware_category">Апаратне забезпечення</string>
+    <string name="build_tweaks_summary_title">Увійдіть тут для нового світу!</string>
+    <string name="listview">Список</string>
+    <string name="misc_category">Інші налаштування</string>
+    <string name="fingerprint_category">Сенсор відбитків пальців</string>
+    <string name="qs_category">Швидкі налаштування</string>
+    <string name="power_key">Кнопка живлення</string>
+    <string name="volume_keys">Кнопки гучності</string>
+    <string name="lockscreen_gestures_category">Жести на екрані блокування</string>
+    <string name="battery_settings_title">Параметри батареї</string>
+    <string name="gestures_category">Параметри жестів</string>
     <!-- App info dialog -->
-    <string name="extensions_dialog_title">Help us help you!</string>
-    <string name="extensions_dialog_message">If you find a bug with any of these settings, report it in our Telegram Group. You MUST include the following when posting a bug report:\n\n1. A logcat or last_kmsg\n2. Kernel and mods used\n3. Useful information\n\nIf you fail to report something adequately, DO NOT expect things to be fixed.</string>
-    <string name="extensions_dialog_toast">READ THE WHOLE THING!</string>
-    <string name="artwork_media_fade_level_summary">Fading the media artwork image</string>
+    <string name="extensions_dialog_title">Допоможіть нам допомогти Вам!</string>
+    <string name="extensions_dialog_message">Якщо Ви знайшли баг у будь-яких з цих налаштувань, напишіть про це у нашій групі в Telegram. Ви ПОВИННІ додати наступне коли будете писати про баг:\n\n1. Logcat чи last_kmsg;\n2. Ядро та модифікації, що встановлені;\n3. Корисна інформація\n\nЯкщо Ви не можете адекватно надати необхідну інформацію, НЕ ОЧІКУЙТЕ, що щось буде виправлено.</string>
+    <string name="extensions_dialog_toast">ПРОЧИТАЙТЕ ВСЕ!</string>
+    <string name="artwork_media_fade_level_summary">Затухання зображення для медіа-файлу</string>
     <!-- QuickSettings haptic feedback -->
-    <string name="quick_settings_vibrate_title">Vibrate on touch</string>
-    <string name="quick_settings_vibrate_summary">Vibrate when touching QS tiles</string>
+    <string name="quick_settings_vibrate_title">Вібрація під час дотику</string>
+    <string name="quick_settings_vibrate_summary">Вібрація при дотику до плитки швидких налаштувань</string>
     <!-- 4G icon -->
-    <string name="show_fourg_icon_title">4G icon</string>
-    <string name="show_fourg_icon_summary">Display 4G icon in signal icon instead LTE</string>
+    <string name="show_fourg_icon_title">Значок 4G</string>
+    <string name="show_fourg_icon_summary">Показувати значок 4G замість LTE</string>
     <!-- Show VoLTE icon on statusbar -->
-    <string name="volte_icon_title">VoLTE icon</string>
-    <string name="volte_icon_summary">Display VoLTE icon</string>
+    <string name="volte_icon_title">Значок VoLTE</string>
+    <string name="volte_icon_summary">Відображати значок VoLTE</string>
     <!-- Incall vibrate options -->
-    <string name="incall_vibration_category">In-call vibration options</string>
-    <string name="incall_vibrate_connect_title">Vibrate on connect</string>
-    <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-    <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
+    <string name="incall_vibration_category">Параметри вібрації під час дзвінка</string>
+    <string name="incall_vibrate_connect_title">Вібрація при з\'єднанні</string>
+    <string name="incall_vibrate_call_wait_title">Вібрувати під час очікування дзвінка</string>
+    <string name="incall_vibrate_disconnect_title">Вібрація при роз\'єднанні</string>
     <!-- Statusbar Tuner -->
-    <string name="statusbar_items_title">Statusbar items</string>
+    <string name="statusbar_items_title">Значки рядку стану</string>
     <!-- Double Tap to Sleep Statusbar -->
-    <string name="double_tap_sleep_gesture_title">Tap to sleep</string>
-    <string name="double_tap_sleep_gesture_summary">Double-tap anywhere on the status bar to put the device to sleep</string>
+    <string name="double_tap_sleep_gesture_title">Торкніться для сну</string>
+    <string name="double_tap_sleep_gesture_summary">Двічі торкніться в будь-якому місці рядка стану, щоб перевести пристрій у режим сну</string>
     <!--Double Tap to Sleep Lockscreen-->
-    <string name="lockscreen_tweaks_category_title">What to do</string>
-    <string name="double_tap_sleep_lockscreen_title">Double tap to sleep on lockscreen</string>
+    <string name="lockscreen_tweaks_category_title">Що необхідно зробити</string>
+    <string name="double_tap_sleep_lockscreen_title">Подвійне натискання для сну на екрані блокування</string>
     <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">Annoying Notifications</string>
-    <string name="notification_sound_vib_screen_on_summary">Play sound and vibration for notifications when screen is on</string>
+    <string name="notification_sound_vib_screen_on_title">Надокучливі сповіщення</string>
+    <string name="notification_sound_vib_screen_on_summary">Відтворювання звуку та вібрації для сповіщень при увімкненому екрані</string>
     <!-- Show VoLTE icon on statusbar -->
-    <string name="volte_switch_title">VoLTE icon</string>
-    <string name="volte_switch_summary">Display VoLTE icon</string>
-    <string name="volte_icon_style_title">Select VoLTE Icon</string>
-    <string name="volte_icon_asus">VoLTE Asus Icon</string>
-    <string name="volte_icon_vo">Vo Only Icon</string>
-    <string name="volte_icon_volte">VoLTE Icon</string>
-    <string name="volte_icon_oos">VoLTE OOS Icon</string>
-    <string name="volte_icon_hd">HD Icon</string>
-    <string name="volte_icon_hd2">HD CAF Icon</string>
-    <string name="volte_icon_miui">MIUI 11 Icon</string>
-    <string name="volte_icon_emui">EMUI Icon</string>
-    <string name="volte_icon_margaritov">HD Filled Icon</string>
-    <string name="volte_icon_margaritov2">Margaritov VoLTE Icon</string>
-    <string name="volte_icon_vivo">Vivo Icon</string>
+    <string name="volte_switch_title">Значок VoLTE</string>
+    <string name="volte_switch_summary">Відображати значок VoLTE</string>
+    <string name="volte_icon_style_title">Виберіть значок VoLTE</string>
+    <string name="volte_icon_asus">VoLTE Asus значок</string>
+    <string name="volte_icon_vo">Тільки Vo значок</string>
+    <string name="volte_icon_volte">VoLTE значок</string>
+    <string name="volte_icon_oos">VoLTE OOS значок</string>
+    <string name="volte_icon_hd">Значок HD</string>
+    <string name="volte_icon_hd2">Іконка HD CAF</string>
+    <string name="volte_icon_miui">Значок MIUI 11</string>
+    <string name="volte_icon_emui">Значок EMUI</string>
+    <string name="volte_icon_margaritov">HD Заповнена іконка</string>
+    <string name="volte_icon_margaritov2">Іконка VoLTE Маргаритова</string>
+    <string name="volte_icon_vivo">Значок Vivo</string>
     <!-- VoWiFi icon -->
-    <string name="vowifi_icon_title">VoWiFi icon</string>
-    <string name="vowifi_icon_enabled">VoWiFi icon enabled</string>
-    <string name="vowifi_icon_disabled">VoWiFi icon disabled</string>
-    <string name="vowifi_icon_enabled_volte_disabled">VoWiFi instead of VoLTE icon</string>
-    <string name="vowifi_icon_style_title">VoWiFi icon style</string>
-    <string name="vowifi_icon_default">Default Icon</string>
-    <string name="vowifi_icon_emui">EMUI Icon</string>
-    <string name="vowifi_icon_asus">Asus Icon</string>
-    <string name="vowifi_icon_oneplus">OOS Icon</string>
-    <string name="vowifi_icon_moto">Motorola Icon</string>
-    <string name="vowifi_icon_simple1">Simple1 Icon</string>
-    <string name="vowifi_icon_simple2">Simple2 Icon</string>
-    <string name="vowifi_icon_simple3">Simple3 Icon</string>
-    <string name="vowifi_icon_vivo">Vivo Icon</string>
-    <string name="vowifi_icon_margaritov">Margaritov Icon</string>
+    <string name="vowifi_icon_title">Значок VoWiFi</string>
+    <string name="vowifi_icon_enabled">Піктограму VoWiFi увікнено</string>
+    <string name="vowifi_icon_disabled">Піктограму VoWiFi вимкнено</string>
+    <string name="vowifi_icon_enabled_volte_disabled">VoWiFi замість значка VoLTE</string>
+    <string name="vowifi_icon_style_title">Стиль значка VoWiFi</string>
+    <string name="vowifi_icon_default">Типовий значок</string>
+    <string name="vowifi_icon_emui">Значок EMUI</string>
+    <string name="vowifi_icon_asus">Значок Asus</string>
+    <string name="vowifi_icon_oneplus">Значок OOS</string>
+    <string name="vowifi_icon_moto">Значок Motorola</string>
+    <string name="vowifi_icon_simple1">Простий значок 1</string>
+    <string name="vowifi_icon_simple2">Простий значок 2</string>
+    <string name="vowifi_icon_simple3">Значок Simple3</string>
+    <string name="vowifi_icon_vivo">Значок Vivo</string>
+    <string name="vowifi_icon_margaritov">Іконка VoLTE Маргаритова</string>
     <!-- Volume rocker music control -->
-    <string name="volume_rocker_music_controls_title">Playback control</string>
-    <string name="volume_rocker_music_controls_summary">When the screen is off, long-pressing the volume keys will seek music tracks</string>
+    <string name="volume_rocker_music_controls_title">Керування відтворенням</string>
+    <string name="volume_rocker_music_controls_summary">Коли екран вимкнений, тривале натискання клавіш регулювання гучності буде перемикати музичні композиції</string>
     <!-- Volume rocker wake -->
-    <string name="volume_rocker_wake_title">Volume rocker wake</string>
-    <string name="volume_rocker_wake_summary">Pressing the volume keys will wake your device</string>
+    <string name="volume_rocker_wake_title">Пробудження клавішами гучності</string>
+    <string name="volume_rocker_wake_summary">Натискання будь-якої кнопки гучності пробудить Ваш пристрій</string>
     <!-- Lockscreen battery info indicator  -->
-    <string name="lockscreen_battery_info_title">Lockscreen charging info</string>
-    <string name="lockscreen_battery_info_summary">Show charging current, voltage, wattage and battery temperature on lockscreen while charging</string>
+    <string name="lockscreen_battery_info_title">Інформація про заряджання на екрані блокування</string>
+    <string name="lockscreen_battery_info_summary">Відобразити струм заряджання, напругу, потужність та температуру акумулятора на екрані блокування під час зарядки</string>
     <!-- Fingerprint authentication vibration -->
-    <string name="fprint_sucess_vib_title">Fingerprint success vibration</string>
+    <string name="fprint_sucess_vib_title">Fingerprint error vibration</string>
     <string name="fprint_sucess_vib_summary">Vibrate on successful fingerprint authentication</string>
-    <string name="fprint_error_vib_title">Fingerprint error vibration</string>
-    <string name="fprint_error_vib_summary">Vibrate on failed fingerprint authentication</string>
+    <string name="fprint_error_vib_title">Вібрація помилки відбитку пальця</string>
+    <string name="fprint_error_vib_summary">Вібрувати при невдалій аутентифікації відбитку пальця</string>
     <!-- Wake on plug -->
-    <string name="wake_when_plugged_or_unplugged_title">Wake on plug</string>
-    <string name="wake_when_plugged_or_unplugged_summary">Turn the screen on when connecting or disconnecting a power source</string>
+    <string name="wake_when_plugged_or_unplugged_title">Екран прокидається при підключені</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Будити пристрій з під\'єднанням і від\'єднанням кабелю</string>
     <!-- Quick QS pulldown -->
-    <string name="status_bar_quick_qs_pulldown">Quick QS pulldown</string>
-    <string name="quick_pulldown_none">Disabled</string>
-    <string name="quick_pulldown_right">Pulldown statusbar from right side</string>
-    <string name="quick_pulldown_left">Pulldown statusbar from left side</string>
+    <string name="status_bar_quick_qs_pulldown">Швидкий доступ до швидких налаштувань</string>
+    <string name="quick_pulldown_none">Вимкнено</string>
+    <string name="quick_pulldown_right">Потягніть рядок стану вниз з правого боку</string>
+    <string name="quick_pulldown_left">Потягніть рядок стану вниз з лівого боку</string>
     <!-- Torch Power button gestures -->
-    <string name="torch_power_button_gesture_title">Toggle torch when screen off</string>
-    <string name="torch_power_button_gesture_none">Disabled</string>
-    <string name="torch_power_button_gesture_dt">Double press power button (Disables Quickly open camera feature and adds 170ms wakeup delay)</string>
-    <string name="torch_power_button_gesture_lp">Long press power button</string>
+    <string name="torch_power_button_gesture_title">Увімкніть ліхтарик, коли екран вимкнено</string>
+    <string name="torch_power_button_gesture_none">Вимкнено</string>
+    <string name="torch_power_button_gesture_dt">Двічі натисніть кнопку живлення (вимикає швидкий доступ до камери та додає затримку пробудження на 170 мс)</string>
+    <string name="torch_power_button_gesture_lp">Утримувати кнопку живлення</string>
     <!-- Quick Settings brightness slider -->
-    <string name="qs_brightness_slider_category">Brightness slider</string>
-    <string name="qs_brightness_slider_title">Show brightness slider</string>
-    <string name="qs_brightness_slider_summary">Show a brightness slider in the quick settings panel</string>
-    <string name="qs_brightness_position_bottom_title">Show brightness slider on bottom</string>
-    <string name="qs_brightness_position_bottom_summary">Show a brightness slider on bottom quick settings</string>
+    <string name="qs_brightness_slider_category">Повзунок яскравості</string>
+    <string name="qs_brightness_slider_title">Відображати повзунок яскравості</string>
+    <string name="qs_brightness_slider_summary">Показати повзунок яскравості на панелі швидких налаштувань</string>
+    <string name="qs_brightness_position_bottom_title">Повзунок яскравості внизу (працює тільки для розширеної панелі швидких налаштувань)</string>
+    <string name="qs_brightness_position_bottom_summary">Показувати повзунок яскравості на панелі швидких налаштувань</string>
     <!-- Quick Settings brightness icon -->
-    <string name="brightness_icon_title">Adaptive brightness button</string>
-    <string name="brightness_icon_summary">Show adaptive brightness button</string>
+    <string name="brightness_icon_title">Показати кнопку адаптивної яскравості</string>
+    <string name="brightness_icon_summary">Відображати кнопку адаптивної яскравості</string>
     <!-- Quick QS Panel brightness slider -->
-    <string name="quick_qs_brightness_slider_title">Show brightness slider in Quick QS Panel</string>
-    <string name="quick_qs_brightness_slider_summary">Show a brightness slider in the quick qs panel</string>
+    <string name="quick_qs_brightness_slider_title">Відображати повзунок яскравості у панелі швидких налаштувань</string>
+    <string name="quick_qs_brightness_slider_summary">Відображати повзунок яскравості на панелі швидких налаштувань</string>
     <!-- Brightness control -->
-    <string name="status_bar_toggle_brightness">Brightness control</string>
-    <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
-    <string name="gestures_title">Nav Bar Gesture Customisations</string>
-    <string name="gestures_summary">Take Your Pill</string>
+    <string name="status_bar_toggle_brightness">Регулювання яскравості</string>
+    <string name="status_bar_toggle_brightness_summary">Регулювати яскравість екрану рухом пальця по рядку стану</string>
+    <string name="gestures_title">Налаштування жестів панелі навігації</string>
+    <string name="gestures_summary">Налаштування пігулки</string>
     <!-- Lockscreen media artwork -->
-    <string name="lockscreen_media_blur_title">Media art blur level</string>
-    <string name="show_lockscreen_media_art_title">Show media art</string>
-    <string name="lockscreen_media_art_options_title">Lockscreen media art</string>
+    <string name="lockscreen_media_blur_title">Рівень розмиття обкладинки альбому</string>
+    <string name="show_lockscreen_media_art_title">Показувати обкладинку</string>
+    <string name="lockscreen_media_art_options_title">Обкладинка на екрані блокування</string>
     <!-- Udfps animations -->
-    <string name="udfps_category">Udfps</string>
-    <string name="search">Search</string>
-    <string name="search_apps">Search apps</string>
+    <string name="udfps_category">Відбиток пальця</string>
+    <string name="search">Пошук</string>
+    <string name="search_apps">Пошук додатків</string>
     <!-- Old mobile type icons -->
-    <string name="use_old_mobiletype_title">Small mobile type icon</string>
-    <string name="use_old_mobiletype_summary">Show mobile type icon on top of the signal indicator</string>
+    <string name="use_old_mobiletype_title">Використовувати старий стиль значка мобільної мережі</string>
+    <string name="use_old_mobiletype_summary">Старий стиль відображення піктограм мережі</string>
     <!-- Power Menu -->
-    <string name="power_menu_title">Power menu</string>
-    <string name="power_menu_title_summary">View or change power menu entries</string>
-    <string name="powermenu_screenshot">Screenshot</string>
-    <string name="powermenu_power">Power</string>
-    <string name="powermenu_advanced">Advanced reboot options</string>
-    <string name="powermenu_restart">Restart</string>
-    <string name="powermenu_airplane">Airplane</string>
-    <string name="powermenu_settings">Settings</string>
-    <string name="powermenu_lockdown">Lock Down</string>
-    <string name="powermenu_soundpanel">Sound Panel</string>
-    <string name="powermenu_users">Users</string>
-    <string name="powermenu_logout">Logout</string>
-    <string name="powermenu_emergency">Emergency</string>
+    <string name="power_menu_title">Меню живлення</string>
+    <string name="power_menu_title_summary">Перегляд або зміна пунктів меню живлення</string>
+    <string name="powermenu_screenshot">Знімок екрану</string>
+    <string name="powermenu_power">Живлення</string>
+    <string name="powermenu_advanced">Розширене меню перезавантаження</string>
+    <string name="powermenu_restart">Перезавантажити</string>
+    <string name="powermenu_airplane">Режим \"у літаку\"</string>
+    <string name="powermenu_settings">Налаштування</string>
+    <string name="powermenu_lockdown">Заблокувати</string>
+    <string name="powermenu_soundpanel">Звукова панель</string>
+    <string name="powermenu_users">Користувачі</string>
+    <string name="powermenu_logout">Вийти</string>
+    <string name="powermenu_emergency">Екстрений виклик</string>
     <!-- Fingerprint Ripple Effect -->
-    <string name="enable_fingerprint_ripple_effect_title">Ripple effect</string>
-    <string name="enable_fingerprint_ripple_effect_summary">Show ripple effect on unlock with fingerprint</string>
+    <string name="enable_fingerprint_ripple_effect_title">Ефект пульсації</string>
+    <string name="enable_fingerprint_ripple_effect_summary">Показувати ефект пульсації під час розблокування відбитком пальця</string>
     <!-- Location Privacy Indicator -->
-    <string name="location_privacy_title"> Show Location Privacy Indicator</string>
-    <string name="location_privacy_summary">Enable - Disable location privacy indicator in qs and sb</string>
+    <string name="location_privacy_title"> Індикатор конфіденційності місцезнаходження</string>
+    <string name="location_privacy_summary">Увімкнути - Вимкнути індикатор Приватності місцезнаходження в швидких налаштуваннях і рядках стану</string>
     <!-- Data usage info in QS footer -->
-    <string name="qs_footer_datausage_title">Data usage</string>
-    <string name="qs_footer_datausage_summary">Display data usage summary in quick settings footer</string>
+    <string name="qs_footer_datausage_title">Використання даних</string>
+    <string name="qs_footer_datausage_summary">Показувати інформацію про використання у нижньому колонтитулі швидких налаштувань</string>
     <!-- Wi-Fi Standard icon -->
-    <string name="show_wifi_standard_icon_title">Show Wi-Fi type icon</string>
-    <string name="show_wifi_standard_icon_summary">Show Wi-Fi type in Wi-Fi signal indicator</string>
+    <string name="show_wifi_standard_icon_title">Показувати стандартну піктограму Wi-Fi</string>
+    <string name="show_wifi_standard_icon_summary">Відображати тип Wi-Fi в індикаторі сигналу Wi-Fi</string>
     <!-- Themes customization -->
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the settings category for theme overlays. -->
-    <string name="theme_customization_category">Theming</string>
+    <string name="theme_customization_category">Вигляд</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the adaptive icon shape (e.g. launcher and quick settings icons). -->
-    <string name="theme_customization_icon_shape_title">Icon shape</string>
-    <string name="theme_customization_icon_shape_summary">Set system icon shape style</string>
+    <string name="theme_customization_icon_shape_title">Форма значків</string>
+    <string name="theme_customization_icon_shape_summary">Задати форму піктограми</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize headline and body fonts. -->
-    <string name="theme_customization_font_title">Headline / Body font</string>
-    <string name="theme_customization_font_summary">Set system font style</string>
+    <string name="theme_customization_font_title">Заголовок / Основний шрифт</string>
+    <string name="theme_customization_font_summary">Встановити системний шрифт</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the system wide icon pack. -->
-    <string name="theme_customization_icon_pack_title">Icon pack</string>
-    <string name="theme_customization_icon_pack_summary">Set custom icon pack style</string>
+    <string name="theme_customization_icon_pack_title">Пакет іконок</string>
+    <string name="theme_customization_icon_pack_summary">Задати форму піктограми</string>
     <!-- Custom Signal bar icons -->
-    <string name="theme_customization_signal_icon_title">Signal icon style</string>
-    <string name="theme_customization_signal_icon_summary">Set custom signal icon style</string>
+    <string name="theme_customization_signal_icon_title">Стиль індикатора сигналу</string>
+    <string name="theme_customization_signal_icon_summary">Встановити власний стиль іконки сигналу</string>
     <!-- Custom Wi-Fi bar icons -->
-    <string name="theme_customization_wifi_icon_title">WiFi icon style</string>
-    <string name="theme_customization_wifi_icon_summary">Set custom wifi icon style</string>
-    <string name="theme_customization_navbar_title">Navbar style</string>
-    <string name="theme_customization_navbar_summary">Set custom navigation bar style</string>
+    <string name="theme_customization_wifi_icon_title">Стиль іконки Wi-Fi</string>
+    <string name="theme_customization_wifi_icon_summary">Встановити стиль іконки Wi-Fi</string>
+    <string name="theme_customization_navbar_title">Стиль панелі навігації</string>
+    <string name="theme_customization_navbar_summary">Встановити користувацький стиль панелі навігації</string>
     <!-- Custom Fonts -->
-    <string name="theme_customization_lock_clock_title">Lockscreen clock font</string>
-    <string name="theme_customization_lock_clock_summary">Set LS clock font style</string>
+    <string name="theme_customization_lock_clock_title">Налаштування шрифту годинника</string>
+    <string name="theme_customization_lock_clock_summary">Стиль шрифту для годинника на Екрані блокування</string>
     <!-- Notification count -->
-    <string name="status_bar_notif_count_title">Show notification count</string>
-    <string name="status_bar_notif_count_summary">Display the number of pending notifications</string>
+    <string name="status_bar_notif_count_title">Кількість сповіщень</string>
+    <string name="status_bar_notif_count_summary">Показувати кількість нових сповіщень в рядку стану</string>
     <!-- Statusbar colored icons -->
-    <string name="statusbar_colored_icons_title">Colored icons</string>
-    <string name="statusbar_colored_icons_summary">Use app icons for notification icons in statusbar</string>
+    <string name="statusbar_colored_icons_title">Кольорові значки</string>
+    <string name="statusbar_colored_icons_summary">Використовувати значки сповіщень в рядку стану</string>
     <!-- Ignore secure flag -->
-    <string name="window_ignore_secure_title">Ignore window secure flags</string>
-    <string name="window_ignore_secure_summary">Remove screenshot / screenrecord limits for all applications</string>
-    <string name="window_ignore_secure_warning">This can be convenient in some cases but may lead to privacy leaks. After changing this toggle, you may need to restart applications for the change to take effect.</string>
+    <string name="window_ignore_secure_title">Ігнорувати віконні прапори безпеки</string>
+    <string name="window_ignore_secure_summary">Видалити обмеження знімків екрану та екрану для всіх додатків</string>
+    <string name="window_ignore_secure_warning">Це може бути зручним у деяких випадках, але може призвести до витоку конфіденційності. Після зміни цього перемикача, вам може знадобитися перезапуск програм, щоб зміни набрали сили.</string>
     <!-- Screen off FOD -->
-    <string name="screen_off_fod_title">Screen off FOD</string>
-    <string name="screen_off_fod_summary">Keep FOD enabled when the screen is off</string>
+    <string name="screen_off_fod_title">Відбиток пальця на вимкненому екрані</string>
+    <string name="screen_off_fod_summary">Розпізнавати відбиток пальця з вимкненим екраном</string>
     <!-- UDFPS settings -->
-    <string name="udfps_settings_title">UDFPS customization</string>
-    <string name="udfps_settings_summary">Customize under-display fingerprint scanner</string>
-    <string name="udfps_icon_picker_title">UDFPS icon picker</string>
-    <string name="udfps_icon_picker_summary">Choose your favorite fingerprint icon</string>
-    <string name="udfps_recog_animation_effect_title">UDFPS animation effect</string>
-    <string name="udfps_recog_animation_effect_summary">Choose animation effect</string>
+    <string name="udfps_settings_title">Користувацька анімація іконки відбитків пальців</string>
+    <string name="udfps_settings_summary">Налаштувати сканера відбитків пальців</string>
+    <string name="udfps_icon_picker_title">Вибір іконки сканера відбитків пальців</string>
+    <string name="udfps_icon_picker_summary">Виберіть ваш улюблений значок відбитку пальця</string>
+    <string name="udfps_recog_animation_effect_title">Ефект анімації відбитка пальців</string>
+    <string name="udfps_recog_animation_effect_summary">Виберіть ефект анімації</string>
     <!-- Custom FOD Icon -->
-    <string name="custom_fp_icon_title">Custom UDFPS Icon</string>
-    <string name="custom_fp_icon_summary">Enable custom UDFPS Icon from files</string>
-    <string name="custom_fp_select_title">Select Custom UDFPS Icon</string>
-    <string name="custom_fp_select_summary">Select custom image from your saved files or gallery</string>
+    <string name="custom_fp_icon_title">Налаштовування значка відбитків пальців на екрані блокування</string>
+    <string name="custom_fp_icon_summary">Обрати файл користувацької піктограми відбитка пальця</string>
+    <string name="custom_fp_select_title">Вибрати нетипову піктограму</string>
+    <string name="custom_fp_select_summary">Обрати користувацьку піктограму зі збережених файлів або галереї</string>
     <!-- Misc gesture settings -->
-    <string name="back_gesture_haptic_title">Haptic feedback</string>
-    <string name="back_gesture_haptic_summary">Enable haptic tick effect on back gesture</string>
+    <string name="back_gesture_haptic_title">Інтенсивність вібрації</string>
+    <string name="back_gesture_haptic_summary">Увімкнути тактильний ефект від жесту назад</string>
     <!-- Power menu on lockscreen -->
-    <string name="lockscreen_power_menu_disabled_title">Disable power menu on lock screen</string>
-    <string name="lockscreen_power_menu_disabled_summary">This will only disable the power menu on secure lock screens</string>
+    <string name="lockscreen_power_menu_disabled_title">Не показувати меню живлення на екрані блокування</string>
+    <string name="lockscreen_power_menu_disabled_summary">Ця опція вимикає меню живлення тільки на захищеному екрані блокування</string>
     <!-- QS tiles layout -->
-    <string name="qs_tile_layout_title">QS tiles layout</string>
-    <string name="qs_tile_layout_summary">Customize tiles layout in QS panel</string>
-    <string name="qs_tiles_layout_category">Tiles layout</string>
-    <string name="qs_rows_portrait_title">Rows (Portrait)</string>
-    <string name="qqs_rows_portrait_title">Rows (Quick QS portrait)</string>
-    <string name="qs_columns_portrait_title">Columns (Portrait)</string>
-    <string name="qs_apply_change_button_title">Apply change</string>
-    <string name="qs_apply_change_failed">Failed to apply change</string>
-    <string name="qs_tile_hide_label_title">Hide labels</string>
-    <string name="qs_tile_hide_label_summary">Show only icon for QS tiles</string>
-    <string name="qs_tile_vertical_layout_title">Vertical layout</string>
-    <string name="qs_tile_vertical_layout_summary">Enable vertical layout for QS tiles</string>
+    <string name="qs_tile_layout_title">Плитки швидких налаштувань</string>
+    <string name="qs_tile_layout_summary">Відображати підпис під іконкою замість поряд з іконкою</string>
+    <string name="qs_tiles_layout_category">Розташування плиток швидких налаштувань</string>
+    <string name="qs_rows_portrait_title">Рядки (портретна орієнтація)</string>
+    <string name="qqs_rows_portrait_title">Рядки (дуже швидкі налаштування в портретній орієнтації)</string>
+    <string name="qs_columns_portrait_title">Колонки (портретна орієнтація)</string>
+    <string name="qs_apply_change_button_title">Застосувати зміни</string>
+    <string name="qs_apply_change_failed">Не вдалося застосувати зміни</string>
+    <string name="qs_tile_hide_label_title">Сховати підписи</string>
+    <string name="qs_tile_hide_label_summary">Показати тільки значок для плиток швидких налаштувань</string>
+    <string name="qs_tile_vertical_layout_title">Вертикальне розташування</string>
+    <string name="qs_tile_vertical_layout_summary">Увімкнути вертикальне розташування для плиток швидких налаштувань</string>
     <!-- Privacy indicators -->
-    <string name="mic_camera_privacy_indicator_title">Mic and camera privacy indicator</string>
-    <string name="mic_camera_privacy_indicator_summary">Show indicator when any app uses mic or camera</string>
-    <string name="location_privacy_indicator_title">Location privacy indicator</string>
-    <string name="location_privacy_indicator_summary">Show indicator when any app uses location</string>
-    <string name="projection_privacy_indicator_title">Media projection privacy indicator</string>
-    <string name="projection_privacy_indicator_summary">Show indicator when device screen is projected</string>
+    <string name="mic_camera_privacy_indicator_title">Індикатор використання мікрофону та камери</string>
+    <string name="mic_camera_privacy_indicator_summary">Відображати окремий індикатор при використанні додатків з мікрофону чи камери</string>
+    <string name="location_privacy_indicator_title">Індикатор місцезнаходження</string>
+    <string name="location_privacy_indicator_summary">Відображати окремий індикатор коли програма використовує місцезнаходження</string>
+    <string name="projection_privacy_indicator_title">Індикатор конфіденційності мультимедіа</string>
+    <string name="projection_privacy_indicator_summary">Показувати індикатор коли екран пристрою проектовано</string>
 </resources>
