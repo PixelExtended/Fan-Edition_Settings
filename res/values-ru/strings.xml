@@ -34,7 +34,7 @@
     <string name="colors_title">Цвета</string>
     <string name="enable">Включить</string>
     <string name="disable">Отключить</string>
-    <string name="privacy_category">Privacy Indicators (Requires Restart)</string>
+    <string name="privacy_category">Индикаторы конфиденциальности (требуется перезапуск)</string>
     <!-- Extensions categories -->
     <string name="status_bar_category">Строка состояния</string>
     <string name="system_category">Система</string>
@@ -260,10 +260,10 @@
     <string name="qs_tile_vertical_layout_title">Вертикальная ориентация</string>
     <string name="qs_tile_vertical_layout_summary">Включить вертикальное расположение плиток быстрых настроек</string>
     <!-- Privacy indicators -->
-    <string name="mic_camera_privacy_indicator_title">Mic and camera privacy indicator</string>
-    <string name="mic_camera_privacy_indicator_summary">Show indicator when any app uses mic or camera</string>
-    <string name="location_privacy_indicator_title">Location privacy indicator</string>
-    <string name="location_privacy_indicator_summary">Show indicator when any app uses location</string>
-    <string name="projection_privacy_indicator_title">Media projection privacy indicator</string>
-    <string name="projection_privacy_indicator_summary">Show indicator when device screen is projected</string>
+    <string name="mic_camera_privacy_indicator_title">Индикатор использования камеры и микрофона</string>
+    <string name="mic_camera_privacy_indicator_summary">Показывать раздельные индикаторы, когда любое приложение использует микрофон или камеру</string>
+    <string name="location_privacy_indicator_title">Показывать индикатор конфиденциальности для местоположения</string>
+    <string name="location_privacy_indicator_summary">Показывать индикатор, когда приложение использует местоположение</string>
+    <string name="projection_privacy_indicator_title">Индикатор конфиденциальности трансляции медиа</string>
+    <string name="projection_privacy_indicator_summary">Показывать индикатор при проецировании экрана устройства</string>
 </resources>
