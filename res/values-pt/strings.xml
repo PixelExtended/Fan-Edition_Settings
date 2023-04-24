@@ -34,7 +34,7 @@
     <string name="colors_title">Cores</string>
     <string name="enable">Habilitar</string>
     <string name="disable">Desabilitar</string>
-    <string name="privacy_category">Privacy Indicators (Requires Restart)</string>
+    <string name="privacy_category">Indicadores de privacidade (requer reinicialização)</string>
     <!-- Extensions categories -->
     <string name="status_bar_category">Barra de status</string>
     <string name="system_category">Sistema</string>
@@ -139,20 +139,20 @@
     <string name="torch_power_button_gesture_dt">Pressionar o botão liga/desliga (Desativa rapidamente o recurso de abrir camêra e adiciona 170ms de atraso)</string>
     <string name="torch_power_button_gesture_lp">Toque longo no botão liga/desliga</string>
     <!-- Quick Settings brightness slider -->
-    <string name="qs_brightness_slider_category">Brightness slider</string>
-    <string name="qs_brightness_slider_title">Show brightness slider</string>
-    <string name="qs_brightness_slider_summary">Show a brightness slider in the quick settings panel</string>
-    <string name="qs_brightness_position_bottom_title">Show brightness slider on bottom</string>
-    <string name="qs_brightness_position_bottom_summary">Show a brightness slider on bottom quick settings</string>
+    <string name="qs_brightness_slider_category">Controle deslizante de brilho</string>
+    <string name="qs_brightness_slider_title">Mostrar o controle deslizante de brilho</string>
+    <string name="qs_brightness_slider_summary">Mostrar o controle deslizante de brilho no painel de configurações rápidas</string>
+    <string name="qs_brightness_position_bottom_title">Mostrar o controle deslizante de brilho na parte inferior</string>
+    <string name="qs_brightness_position_bottom_summary">Mostrar o controle deslizante de brilho na parte inferior das configurações rápidas</string>
     <!-- Quick Settings brightness icon -->
-    <string name="brightness_icon_title">Adaptive brightness button</string>
-    <string name="brightness_icon_summary">Show adaptive brightness button</string>
+    <string name="brightness_icon_title">Botão de brilho adaptável</string>
+    <string name="brightness_icon_summary">Mostrar botão de brilho adaptável</string>
     <!-- Quick QS Panel brightness slider -->
-    <string name="quick_qs_brightness_slider_title">Show brightness slider in Quick QS Panel</string>
-    <string name="quick_qs_brightness_slider_summary">Show a brightness slider in the quick qs panel</string>
+    <string name="quick_qs_brightness_slider_title">Mostrar controle deslizante de brilho no painel de configurações rápidas</string>
+    <string name="quick_qs_brightness_slider_summary">Mostrar o controle deslizante de brilho no painel de configurações rápidas</string>
     <!-- Brightness control -->
-    <string name="status_bar_toggle_brightness">Brightness control</string>
-    <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
+    <string name="status_bar_toggle_brightness">Controle de brilho</string>
+    <string name="status_bar_toggle_brightness_summary">Ajustar o brilho deslizando através da barra de status</string>
     <string name="gestures_title">Personalização da barra de navegação</string>
     <string name="gestures_summary">Tome sua pílula</string>
     <!-- Lockscreen media artwork -->
@@ -190,11 +190,11 @@
     <string name="qs_footer_datausage_title">Uso de dados</string>
     <string name="qs_footer_datausage_summary">Mostrar resumo de uso de dados no rodapé das configurações rápidas</string>
     <!-- Wi-Fi Standard icon -->
-    <string name="show_wifi_standard_icon_title">Show Wi-Fi type icon</string>
-    <string name="show_wifi_standard_icon_summary">Show Wi-Fi type in Wi-Fi signal indicator</string>
+    <string name="show_wifi_standard_icon_title">Mostrar ícone de tipo de Wi-Fi</string>
+    <string name="show_wifi_standard_icon_summary">Mostrar tipo de Wi-Fi no indicador de sinal do Wi-Fi</string>
     <!-- Themes customization -->
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the settings category for theme overlays. -->
-    <string name="theme_customization_category">Theming</string>
+    <string name="theme_customization_category">Personalização</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the adaptive icon shape (e.g. launcher and quick settings icons). -->
     <string name="theme_customization_icon_shape_title">Formato dos ícones</string>
     <string name="theme_customization_icon_shape_summary">Definir formato dos ícones do sistema</string>
@@ -205,18 +205,18 @@
     <string name="theme_customization_icon_pack_title">Pacote de ícones</string>
     <string name="theme_customization_icon_pack_summary">Definir pacote de ícones personalizado</string>
     <!-- Custom Signal bar icons -->
-    <string name="theme_customization_signal_icon_title">Signal icon style</string>
-    <string name="theme_customization_signal_icon_summary">Set custom signal icon style</string>
+    <string name="theme_customization_signal_icon_title">Estilo do ícone de rede</string>
+    <string name="theme_customization_signal_icon_summary">Definir ícone de rede móvel personalizado</string>
     <!-- Custom Wi-Fi bar icons -->
-    <string name="theme_customization_wifi_icon_title">WiFi icon style</string>
-    <string name="theme_customization_wifi_icon_summary">Set custom wifi icon style</string>
-    <string name="theme_customization_navbar_title">Navbar style</string>
-    <string name="theme_customization_navbar_summary">Set custom navigation bar style</string>
+    <string name="theme_customization_wifi_icon_title">Estilo do ícone WI-FI</string>
+    <string name="theme_customization_wifi_icon_summary">Definir ícone de Wi-Fi personalizado</string>
+    <string name="theme_customization_navbar_title">Estilo da barra de navegação</string>
+    <string name="theme_customization_navbar_summary">Definir estilo personalizado para a barra de navegação</string>
     <!-- Custom Fonts -->
-    <string name="theme_customization_lock_clock_title">Lockscreen clock font</string>
-    <string name="theme_customization_lock_clock_summary">Set LS clock font style</string>
+    <string name="theme_customization_lock_clock_title">Fonte do relógio na tela de bloqueio</string>
+    <string name="theme_customization_lock_clock_summary">Definir estilo de fonte do relógio na tela de bloqueio</string>
     <!-- Notification count -->
-    <string name="status_bar_notif_count_title">Show notification count</string>
+    <string name="status_bar_notif_count_title">Mostrar contador de notificação</string>
     <string name="status_bar_notif_count_summary">Display the number of pending notifications</string>
     <!-- Statusbar colored icons -->
     <string name="statusbar_colored_icons_title">Ícones coloridos</string>
