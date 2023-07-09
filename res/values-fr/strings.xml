@@ -34,7 +34,7 @@
     <string name="colors_title">Couleurs</string>
     <string name="enable">Activer</string>
     <string name="disable">Désactiver</string>
-    <string name="privacy_category">Privacy Indicators (Requires Restart)</string>
+    <string name="privacy_category">Indicateurs de Confidentialité (Redémarrage requis)</string>
     <!-- Extensions categories -->
     <string name="status_bar_category">Barre d\'état</string>
     <string name="system_category">Système</string>
@@ -144,14 +144,14 @@ Si vous ne signalez pas correctement quelque chose, NE VOUS ATTENDEZ PAS à ce q
     <string name="torch_power_button_gesture_dt">Appui double sur le bouton d\'alimentation (Désactive l\'ouverture rapide de la caméra et ajoute un délai de réveil de 170 ms)</string>
     <string name="torch_power_button_gesture_lp">Appui prolongé sur le bouton d\'alimentation</string>
     <!-- Quick Settings brightness slider -->
-    <string name="qs_brightness_slider_category">Brightness slider</string>
+    <string name="qs_brightness_slider_category">Curseur de luminosité</string>
     <string name="qs_brightness_slider_title">Show brightness slider</string>
     <string name="qs_brightness_slider_summary">Show a brightness slider in the quick settings panel</string>
     <string name="qs_brightness_position_bottom_title">Show brightness slider on bottom</string>
     <string name="qs_brightness_position_bottom_summary">Show a brightness slider on bottom quick settings</string>
     <!-- Quick Settings brightness icon -->
-    <string name="brightness_icon_title">Adaptive brightness button</string>
-    <string name="brightness_icon_summary">Show adaptive brightness button</string>
+    <string name="brightness_icon_title">Bouton de luminosité automatique</string>
+    <string name="brightness_icon_summary">Afficher le bouton de luminosité automatique</string>
     <!-- Quick QS Panel brightness slider -->
     <string name="quick_qs_brightness_slider_title">Show brightness slider in Quick QS Panel</string>
     <string name="quick_qs_brightness_slider_summary">Show a brightness slider in the quick qs panel</string>
