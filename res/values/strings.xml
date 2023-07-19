@@ -304,4 +304,8 @@
     <string name="qs_tile_hide_label_summary">Show only icon for QS tiles</string>
     <string name="qs_tile_vertical_layout_title">Vertical layout</string>
     <string name="qs_tile_vertical_layout_summary">Enable vertical layout for QS tiles</string>
+
+    <!-- IME button space -->
+    <string name="navigation_bar_ime_space_title">Hide IME button space</string>
+    <string name="navigation_bar_ime_space_summary">Hide IME button space below keyboard</string>
 </resources>
