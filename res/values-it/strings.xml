@@ -34,7 +34,6 @@
     <string name="colors_title">Colori</string>
     <string name="enable">Attiva</string>
     <string name="disable">Disabilita</string>
-    <string name="privacy_category">Indicatori Di Privacy (Richiede Riavvio)</string>
     <!-- Extensions categories -->
     <string name="status_bar_category">Barra di Stato</string>
     <string name="system_category">Sistema</string>
@@ -259,11 +258,4 @@
     <string name="qs_tile_hide_label_summary">Mostra solo icona per i tile</string>
     <string name="qs_tile_vertical_layout_title">Layout verticale</string>
     <string name="qs_tile_vertical_layout_summary">Abilita il layout verticale per i tile</string>
-    <!-- Privacy indicators -->
-    <string name="mic_camera_privacy_indicator_title">Indicatore privacy microfono e fotocamera</string>
-    <string name="mic_camera_privacy_indicator_summary">Mostra un indicatore separato quando qualsiasi app utilizza microfono o fotocamera</string>
-    <string name="location_privacy_indicator_title">Indicatore di privacy della posizione</string>
-    <string name="location_privacy_indicator_summary">Mostra un indicatore quando un\'app utilizza la posizione</string>
-    <string name="projection_privacy_indicator_title">Indicatore privacy proiezione media</string>
-    <string name="projection_privacy_indicator_summary">Mostra un indicatore quando lo schermo del dispositivo è proiettato</string>
 </resources>
