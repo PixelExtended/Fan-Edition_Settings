@@ -34,7 +34,6 @@
     <string name="colors_title">Кольори</string>
     <string name="enable">Увімкнути</string>
     <string name="disable">Вимкнути</string>
-    <string name="privacy_category">Індикатори конфіденційності (потрібний перезапуск)</string>
     <!-- Extensions categories -->
     <string name="status_bar_category">Рядок стану</string>
     <string name="system_category">Система</string>
@@ -259,11 +258,4 @@
     <string name="qs_tile_hide_label_summary">Показати тільки значок для плиток швидких налаштувань</string>
     <string name="qs_tile_vertical_layout_title">Вертикальне розташування</string>
     <string name="qs_tile_vertical_layout_summary">Увімкнути вертикальне розташування для плиток швидких налаштувань</string>
-    <!-- Privacy indicators -->
-    <string name="mic_camera_privacy_indicator_title">Індикатор використання мікрофону та камери</string>
-    <string name="mic_camera_privacy_indicator_summary">Відображати окремий індикатор при використанні додатків з мікрофону чи камери</string>
-    <string name="location_privacy_indicator_title">Індикатор місцезнаходження</string>
-    <string name="location_privacy_indicator_summary">Відображати окремий індикатор коли програма використовує місцезнаходження</string>
-    <string name="projection_privacy_indicator_title">Індикатор конфіденційності мультимедіа</string>
-    <string name="projection_privacy_indicator_summary">Показувати індикатор коли екран пристрою проектовано</string>
 </resources>
