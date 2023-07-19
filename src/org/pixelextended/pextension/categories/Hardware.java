@@ -96,7 +96,6 @@
      private ListPreference mAssistLongPressAction;
      private ListPreference mAppSwitchPressAction;
      private ListPreference mAppSwitchLongPressAction;
-     private ListPreference mEdgeLongSwipeAction;
      private SwitchPreference mCameraWakeScreen;
      private SwitchPreference mCameraSleepOnRelease;
      private SwitchPreference mCameraLaunch;
@@ -243,12 +242,6 @@
          Action appSwitchLongPressAction = Action.fromSettings(resolver,
                  Settings.System.KEY_APP_SWITCH_LONG_PRESS_ACTION,
                  defaultAppSwitchLongPressAction);
-         Action edgeLongSwipeAction = Action.fromSettings(resolver,
-                 Settings.System.KEY_EDGE_LONG_SWIPE_ACTION,
-                 Action.NOTHING);
- 
-         // Edge long swipe gesture
-         mEdgeLongSwipeAction = initList(KEY_EDGE_LONG_SWIPE, edgeLongSwipeAction);
  
          // Only visible on devices that does not have a navigation bar already
          if (NavbarUtils.canDisable(getActivity())) {
@@ -259,7 +252,6 @@
              mNavigationInverse.setDependency(DISABLE_NAV_KEYS);
              mNavigationGestures.setDependency(DISABLE_NAV_KEYS);
              mNavigationCompactLayout.setDependency(DISABLE_NAV_KEYS);
-             mEdgeLongSwipeAction.setDependency(DISABLE_NAV_KEYS);
          } else {
              mNavbarCategory.removePreference(mDisableNavigationKeys);
              mDisableNavigationKeys = null;
@@ -478,20 +470,15 @@
                  mNavigationCompactLayout = null;
              }
          }else{
-             if (mEdgeLongSwipeAction != null){
-                 mNavbarCategory.removePreference(mEdgeLongSwipeAction);
-                 mEdgeLongSwipeAction = null;
-             }
-         }
-         if (!SystemNavigationPreferenceController.isGestureAvailable(getActivity())){
+             if (!SystemNavigationPreferenceController.isGestureAvailable(getActivity())){
              if (mNavigationGestures != null){
                  mNavbarCategory.removePreference(mNavigationGestures);
                  mNavigationGestures = null;
              }
-         }else{
-             if (mNavigationGestures != null){
+         }
+         }
+         if (mNavigationGestures != null){
                  mNavigationGestures.setSummary(SystemNavigationPreferenceController.getPrefSummary(getActivity()));
-             }
          }
          if (mNavbarCategory != null && mNavbarCategory.getPreferenceCount() == 0){
              getPreferenceScreen().removePreference(mNavbarCategory);
@@ -556,12 +543,6 @@
  
      private void updateEdgeSwipeGesturePreference(){
          final ContentResolver resolver = getActivity().getContentResolver();
-         if (mEdgeLongSwipeAction != null){
-             mEdgeLongSwipeAction.setValue(Integer.toString(Action.fromSettings(resolver,
-                 Settings.System.KEY_EDGE_LONG_SWIPE_ACTION,
-                 Action.NOTHING).ordinal()));
-             mEdgeLongSwipeAction.setSummary(mEdgeLongSwipeAction.getEntry());
-         }
      }
  
      private void handleTogglePowerButtonEndsCallPreferenceClick() {
@@ -646,10 +627,6 @@
          }else if (preference == mVolumeKeyCursorControl) {
              handleListChange(mVolumeKeyCursorControl, newValue,
                      Settings.System.VOLUME_KEY_CURSOR_CONTROL);
-             return true;
-         } else if (preference == mEdgeLongSwipeAction) {
-             handleListChange(mEdgeLongSwipeAction, newValue,
-                     Settings.System.KEY_EDGE_LONG_SWIPE_ACTION);
              return true;
          }
          return false;
