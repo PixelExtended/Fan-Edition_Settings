@@ -18,7 +18,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General app strings -->
     <string name="extensions_title">PeXtension</string>
-    <string name="add">Add</string>
+    <string name="add">Ajouter</string>
     <string name="advanced">Avancé</string>
     <string name="cancel">Annuler</string>
     <string name="default_text">Par défaut</string>
@@ -34,7 +34,6 @@
     <string name="colors_title">Couleurs</string>
     <string name="enable">Activer</string>
     <string name="disable">Désactiver</string>
-    <string name="privacy_category">Privacy Indicators (Requires Restart)</string>
     <!-- Extensions categories -->
     <string name="status_bar_category">Barre d\'état</string>
     <string name="system_category">Système</string>
@@ -144,20 +143,20 @@ Si vous ne signalez pas correctement quelque chose, NE VOUS ATTENDEZ PAS à ce q
     <string name="torch_power_button_gesture_dt">Appui double sur le bouton d\'alimentation (Désactive l\'ouverture rapide de la caméra et ajoute un délai de réveil de 170 ms)</string>
     <string name="torch_power_button_gesture_lp">Appui prolongé sur le bouton d\'alimentation</string>
     <!-- Quick Settings brightness slider -->
-    <string name="qs_brightness_slider_category">Brightness slider</string>
-    <string name="qs_brightness_slider_title">Show brightness slider</string>
-    <string name="qs_brightness_slider_summary">Show a brightness slider in the quick settings panel</string>
-    <string name="qs_brightness_position_bottom_title">Show brightness slider on bottom</string>
-    <string name="qs_brightness_position_bottom_summary">Show a brightness slider on bottom quick settings</string>
+    <string name="qs_brightness_slider_category">Curseur de luminosité</string>
+    <string name="qs_brightness_slider_title">Afficher le curseur de luminosité</string>
+    <string name="qs_brightness_slider_summary">Afficher un curseur de luminosité dans le panneau des réglages rapides</string>
+    <string name="qs_brightness_position_bottom_title">Afficher le curseur de luminosité en bas</string>
+    <string name="qs_brightness_position_bottom_summary">Afficher la barre de luminosité en bas des réglages rapides</string>
     <!-- Quick Settings brightness icon -->
-    <string name="brightness_icon_title">Adaptive brightness button</string>
-    <string name="brightness_icon_summary">Show adaptive brightness button</string>
+    <string name="brightness_icon_title">Bouton de luminosité automatique</string>
+    <string name="brightness_icon_summary">Afficher le bouton de luminosité automatique</string>
     <!-- Quick QS Panel brightness slider -->
-    <string name="quick_qs_brightness_slider_title">Show brightness slider in Quick QS Panel</string>
-    <string name="quick_qs_brightness_slider_summary">Show a brightness slider in the quick qs panel</string>
+    <string name="quick_qs_brightness_slider_title">Afficher le curseur de luminosité dans le panneau des réglages rapides QS</string>
+    <string name="quick_qs_brightness_slider_summary">Afficher un curseur de luminosité dans le panneau des réglages rapides QS</string>
     <!-- Brightness control -->
-    <string name="status_bar_toggle_brightness">Brightness control</string>
-    <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
+    <string name="status_bar_toggle_brightness">Réglage de la luminosité</string>
+    <string name="status_bar_toggle_brightness_summary">Ajuster la luminosité en faisant glisser votre doigt sur la barre d\'état</string>
     <string name="gestures_title">Personnalisations des gestes de la barre de navigation</string>
     <string name="gestures_summary">Prenez votre temps</string>
     <!-- Lockscreen media artwork -->
@@ -195,44 +194,44 @@ Si vous ne signalez pas correctement quelque chose, NE VOUS ATTENDEZ PAS à ce q
     <string name="qs_footer_datausage_title">Consommation des données</string>
     <string name="qs_footer_datausage_summary">Afficher le résumé de l\'utilisation des données dans le pied de page des réglages rapides</string>
     <!-- Wi-Fi Standard icon -->
-    <string name="show_wifi_standard_icon_title">Show Wi-Fi type icon</string>
-    <string name="show_wifi_standard_icon_summary">Show Wi-Fi type in Wi-Fi signal indicator</string>
+    <string name="show_wifi_standard_icon_title">Afficher l\'icône du type de Wi-Fi</string>
+    <string name="show_wifi_standard_icon_summary">Afficher le type de Wi-Fi dans l\'indicateur de signal Wi-Fi</string>
     <!-- Themes customization -->
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the settings category for theme overlays. -->
-    <string name="theme_customization_category">Theming</string>
+    <string name="theme_customization_category">Thèmes</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the adaptive icon shape (e.g. launcher and quick settings icons). -->
     <string name="theme_customization_icon_shape_title">Forme des icônes</string>
     <string name="theme_customization_icon_shape_summary">Définir le style de forme des icônes système</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize headline and body fonts. -->
-    <string name="theme_customization_font_title">Headline / Body font</string>
+    <string name="theme_customization_font_title">Police en-tête &amp; corps</string>
     <string name="theme_customization_font_summary">Définir le style de police du système</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the system wide icon pack. -->
     <string name="theme_customization_icon_pack_title">Pack d’icônes</string>
     <string name="theme_customization_icon_pack_summary">Définir le style du pack d\'icônes</string>
     <!-- Custom Signal bar icons -->
-    <string name="theme_customization_signal_icon_title">Signal icon style</string>
-    <string name="theme_customization_signal_icon_summary">Set custom signal icon style</string>
+    <string name="theme_customization_signal_icon_title">Style d\'icône de signal</string>
+    <string name="theme_customization_signal_icon_summary">Définir le style de l\'icône du signal réseau</string>
     <!-- Custom Wi-Fi bar icons -->
-    <string name="theme_customization_wifi_icon_title">WiFi icon style</string>
-    <string name="theme_customization_wifi_icon_summary">Set custom wifi icon style</string>
-    <string name="theme_customization_navbar_title">Navbar style</string>
-    <string name="theme_customization_navbar_summary">Set custom navigation bar style</string>
+    <string name="theme_customization_wifi_icon_title">Style de l\'icône WiFi</string>
+    <string name="theme_customization_wifi_icon_summary">Définir le style de l\'icône du Wifi</string>
+    <string name="theme_customization_navbar_title">Style de barre de navigation</string>
+    <string name="theme_customization_navbar_summary">Définir le style de la barre de navigation</string>
     <!-- Custom Fonts -->
-    <string name="theme_customization_lock_clock_title">Lockscreen clock font</string>
-    <string name="theme_customization_lock_clock_summary">Set LS clock font style</string>
+    <string name="theme_customization_lock_clock_title">Style de l\'horloge de l\'écran de verrouillage</string>
+    <string name="theme_customization_lock_clock_summary">Définir le style de police de l\'horloge de l\'écran de verrouillage</string>
     <!-- Notification count -->
-    <string name="status_bar_notif_count_title">Show notification count</string>
-    <string name="status_bar_notif_count_summary">Display the number of pending notifications</string>
+    <string name="status_bar_notif_count_title">Montrer le nombre de notifications</string>
+    <string name="status_bar_notif_count_summary">Afficher le nombre de notifications en attente</string>
     <!-- Statusbar colored icons -->
     <string name="statusbar_colored_icons_title">Icônes colorées</string>
-    <string name="statusbar_colored_icons_summary">Use app icons for notification icons in statusbar</string>
+    <string name="statusbar_colored_icons_summary">Utiliser les icônes des applications comme icônes de notification dans la barre d\'état</string>
     <!-- Ignore secure flag -->
-    <string name="window_ignore_secure_title">Ignore window secure flags</string>
-    <string name="window_ignore_secure_summary">Remove screenshot / screenrecord limits for all applications</string>
-    <string name="window_ignore_secure_warning">This can be convenient in some cases but may lead to privacy leaks. After changing this toggle, you may need to restart applications for the change to take effect.</string>
+    <string name="window_ignore_secure_title">Ignorer les drapeaux sécurisés des fenêtres</string>
+    <string name="window_ignore_secure_summary">Supprimer les limites de capture d\'écran / enregistrement d\'écran pour toutes les applications</string>
+    <string name="window_ignore_secure_warning">Cela peut être pratique dans certains cas, mais peut entraîner des fuites de confidentialité. Après avoir changé cette option, vous devrez peut-être redémarrer les applications pour que le changement prenne effet.</string>
     <!-- Screen off FOD -->
-    <string name="screen_off_fod_title">Screen off FOD</string>
-    <string name="screen_off_fod_summary">Keep FOD enabled when the screen is off</string>
+    <string name="screen_off_fod_title">Reconnaissance d\'empreinte lorsque l\'écran est éteint</string>
+    <string name="screen_off_fod_summary">Garder la reconnaissance d\'empreinte activée lorsque l\'écran est éteint</string>
     <!-- UDFPS settings -->
     <string name="udfps_settings_title">Personnalisation du capteur d\'empreinte</string>
     <string name="udfps_settings_summary">Personnaliser le capteur d\'empreinte digitale</string>
@@ -246,29 +245,22 @@ Si vous ne signalez pas correctement quelque chose, NE VOUS ATTENDEZ PAS à ce q
     <string name="custom_fp_select_title">Sélectionnez l\'icône UDFPS personnalisée</string>
     <string name="custom_fp_select_summary">Sélectionnez une image personnalisée à partir de vos fichiers enregistrés ou de votre galerie</string>
     <!-- Misc gesture settings -->
-    <string name="back_gesture_haptic_title">Haptic feedback</string>
-    <string name="back_gesture_haptic_summary">Enable haptic tick effect on back gesture</string>
+    <string name="back_gesture_haptic_title">Retour haptique</string>
+    <string name="back_gesture_haptic_summary">Activer le retour tactile lors d\'un geste de retour</string>
     <!-- Power menu on lockscreen -->
     <string name="lockscreen_power_menu_disabled_title">Désactiver le menu Marche/Arrêt sur l’écran de verrouillage</string>
     <string name="lockscreen_power_menu_disabled_summary">Cela désactivera le menu Marche/Arrêt seulement sur l\'écran de verrouillage</string>
     <!-- QS tiles layout -->
-    <string name="qs_tile_layout_title">QS tiles layout</string>
-    <string name="qs_tile_layout_summary">Customize tiles layout in QS panel</string>
-    <string name="qs_tiles_layout_category">Tiles layout</string>
-    <string name="qs_rows_portrait_title">Rows (Portrait)</string>
-    <string name="qqs_rows_portrait_title">Rows (Quick QS portrait)</string>
+    <string name="qs_tile_layout_title">Disposition des tuiles des paramètres rapides QS</string>
+    <string name="qs_tile_layout_summary">Personnaliser la disposition des tuiles dans le panneau des réglages rapides QS</string>
+    <string name="qs_tiles_layout_category">Disposition des tuiles</string>
+    <string name="qs_rows_portrait_title">Lignes(Portrait)</string>
+    <string name="qqs_rows_portrait_title">Lignes (panneau d\'accès rapides QS, portrait)</string>
     <string name="qs_columns_portrait_title">Colonnes (portrait)</string>
     <string name="qs_apply_change_button_title">Appliquer les modifications</string>
     <string name="qs_apply_change_failed">Échec de l\'application des modifications</string>
     <string name="qs_tile_hide_label_title">Masquer les étiquettes</string>
-    <string name="qs_tile_hide_label_summary">Show only icon for QS tiles</string>
+    <string name="qs_tile_hide_label_summary">Afficher uniquement l\'icône pour les tuiles des réglages rapides QS</string>
     <string name="qs_tile_vertical_layout_title">Disposition verticale</string>
-    <string name="qs_tile_vertical_layout_summary">Enable vertical layout for QS tiles</string>
-    <!-- Privacy indicators -->
-    <string name="mic_camera_privacy_indicator_title">Mic and camera privacy indicator</string>
-    <string name="mic_camera_privacy_indicator_summary">Show indicator when any app uses mic or camera</string>
-    <string name="location_privacy_indicator_title">Location privacy indicator</string>
-    <string name="location_privacy_indicator_summary">Show indicator when any app uses location</string>
-    <string name="projection_privacy_indicator_title">Media projection privacy indicator</string>
-    <string name="projection_privacy_indicator_summary">Show indicator when device screen is projected</string>
+    <string name="qs_tile_vertical_layout_summary">Activer la mise en page verticale pour les tuiles du panneau d\'accès rapides QS</string>
 </resources>
