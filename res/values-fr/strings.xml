@@ -34,7 +34,6 @@
     <string name="colors_title">Couleurs</string>
     <string name="enable">Activer</string>
     <string name="disable">Désactiver</string>
-    <string name="privacy_category">Indicateurs de Confidentialité (Redémarrage requis)</string>
     <!-- Extensions categories -->
     <string name="status_bar_category">Barre d\'état</string>
     <string name="system_category">Système</string>
@@ -264,11 +263,4 @@ Si vous ne signalez pas correctement quelque chose, NE VOUS ATTENDEZ PAS à ce q
     <string name="qs_tile_hide_label_summary">Afficher uniquement l\'icône pour les tuiles des réglages rapides QS</string>
     <string name="qs_tile_vertical_layout_title">Disposition verticale</string>
     <string name="qs_tile_vertical_layout_summary">Activer la mise en page verticale pour les tuiles du panneau d\'accès rapides QS</string>
-    <!-- Privacy indicators -->
-    <string name="mic_camera_privacy_indicator_title">Indicateur de confidentialité du micro et de la caméra</string>
-    <string name="mic_camera_privacy_indicator_summary">Afficher l\'indicateur de micro ou caméra lorsqu\'une application utilise ces services</string>
-    <string name="location_privacy_indicator_title">Indicateur de confidentialité de la localisation</string>
-    <string name="location_privacy_indicator_summary">Afficher un indicateur lorsqu\'une application utilise la localisation</string>
-    <string name="projection_privacy_indicator_title">Indicateur de confidentialité de projection de média</string>
-    <string name="projection_privacy_indicator_summary">Afficher l\'indicateur lorsque l\'écran de l\'appareil est projeté</string>
 </resources>
