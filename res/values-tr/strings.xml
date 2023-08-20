@@ -259,6 +259,6 @@
     <string name="qs_tile_vertical_layout_title">Dikey düzen</string>
     <string name="qs_tile_vertical_layout_summary">Hızlı ayarlar kareleri için dikey düzeni etkinleştir</string>
     <!-- IME button space -->
-    <string name="navigation_bar_ime_space_title">Hide IME button space</string>
-    <string name="navigation_bar_ime_space_summary">Hide IME button space below keyboard</string>
+    <string name="navigation_bar_ime_space_title">Klavye tuş alanını gizle</string>
+    <string name="navigation_bar_ime_space_summary">Klavyenin altında giriş yöntemi düzenleyicisi tuş alanını gizle</string>
 </resources>
