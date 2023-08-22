@@ -222,8 +222,8 @@
     <string name="statusbar_colored_icons_summary">ステータスバーの通知アイコンに適切なアプリアイコンを使用する</string>
     <!-- Ignore secure flag -->
     <string name="window_ignore_secure_title">ウィンドウのセキュアフラグを無視</string>
-    <string name="window_ignore_secure_summary">Remove screenshot / screenrecord limits for all applications</string>
-    <string name="window_ignore_secure_warning">This can be convenient in some cases but may lead to privacy leaks. After changing this toggle, you may need to restart applications for the change to take effect.</string>
+    <string name="window_ignore_secure_summary">全てのアプリのスクリーンショット / 画面録画の制限を削除する</string>
+    <string name="window_ignore_secure_warning">利便性が向上する場合がありますが、プライバシー漏洩につながる可能性も発生します。 この設定を変更した後、変更を有効にするためにアプリを再起動する必要があります。</string>
     <!-- Screen off FOD -->
     <string name="screen_off_fod_title">画面消灯時の画面内指紋認証</string>
     <string name="screen_off_fod_summary">画面消灯時も画面内指紋認証を使用する</string>
