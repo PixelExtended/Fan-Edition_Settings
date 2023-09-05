@@ -138,7 +138,7 @@
     <string name="torch_power_button_gesture_dt">Doble pulsación del botón de encendido (Desactiva la función de cámara rápida y añade 170 ms de retraso de encendido)</string>
     <string name="torch_power_button_gesture_lp">Pulsación larga del botón de encendido</string>
     <!-- Quick Settings brightness slider -->
-    <string name="qs_brightness_slider_category">Brightness slider</string>
+    <string name="qs_brightness_slider_category">Control deslizante de brillo</string>
     <string name="qs_brightness_slider_title">Show brightness slider</string>
     <string name="qs_brightness_slider_summary">Show a brightness slider in the quick settings panel</string>
     <string name="qs_brightness_position_bottom_title">Show brightness slider on bottom</string>
