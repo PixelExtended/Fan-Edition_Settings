@@ -263,4 +263,7 @@ Si vous ne signalez pas correctement quelque chose, NE VOUS ATTENDEZ PAS à ce q
     <string name="qs_tile_hide_label_summary">Afficher uniquement l\'icône pour les tuiles des réglages rapides QS</string>
     <string name="qs_tile_vertical_layout_title">Disposition verticale</string>
     <string name="qs_tile_vertical_layout_summary">Activer la mise en page verticale pour les tuiles du panneau d\'accès rapides QS</string>
+    <!-- IME button space -->
+    <string name="navigation_bar_ime_space_title">Hide IME button space</string>
+    <string name="navigation_bar_ime_space_summary">Hide IME button space below keyboard</string>
 </resources>
