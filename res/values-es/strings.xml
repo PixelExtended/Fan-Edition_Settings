@@ -139,13 +139,13 @@
     <string name="torch_power_button_gesture_lp">Pulsación larga del botón de encendido</string>
     <!-- Quick Settings brightness slider -->
     <string name="qs_brightness_slider_category">Control deslizante de brillo</string>
-    <string name="qs_brightness_slider_title">Show brightness slider</string>
-    <string name="qs_brightness_slider_summary">Show a brightness slider in the quick settings panel</string>
-    <string name="qs_brightness_position_bottom_title">Show brightness slider on bottom</string>
-    <string name="qs_brightness_position_bottom_summary">Show a brightness slider on bottom quick settings</string>
+    <string name="qs_brightness_slider_title">Mostrar barra de brillo</string>
+    <string name="qs_brightness_slider_summary">Mostrar una barra de brillo en el panel de los ajustes rápidos</string>
+    <string name="qs_brightness_position_bottom_title">Mostrar deslizador de brillo en la parte inferior</string>
+    <string name="qs_brightness_position_bottom_summary">Mostrar barra deslizante de brillo en la parte inferior de los ajustes rápidos</string>
     <!-- Quick Settings brightness icon -->
-    <string name="brightness_icon_title">Adaptive brightness button</string>
-    <string name="brightness_icon_summary">Show adaptive brightness button</string>
+    <string name="brightness_icon_title">Botono de brillo adaptativo</string>
+    <string name="brightness_icon_summary">Mostar botón de brillo adaptativo</string>
     <!-- Quick QS Panel brightness slider -->
     <string name="quick_qs_brightness_slider_title">Show brightness slider in Quick QS Panel</string>
     <string name="quick_qs_brightness_slider_summary">Show a brightness slider in the quick qs panel</string>
@@ -193,7 +193,7 @@
     <string name="show_wifi_standard_icon_summary">Show Wi-Fi type in Wi-Fi signal indicator</string>
     <!-- Themes customization -->
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the settings category for theme overlays. -->
-    <string name="theme_customization_category">Theming</string>
+    <string name="theme_customization_category">Tematización</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the adaptive icon shape (e.g. launcher and quick settings icons). -->
     <string name="theme_customization_icon_shape_title">Forma de los iconos</string>
     <string name="theme_customization_icon_shape_summary">Establece la forma de los iconos del sistema</string>
@@ -215,8 +215,8 @@
     <string name="theme_customization_lock_clock_title">Lockscreen clock font</string>
     <string name="theme_customization_lock_clock_summary">Set LS clock font style</string>
     <!-- Notification count -->
-    <string name="status_bar_notif_count_title">Show notification count</string>
-    <string name="status_bar_notif_count_summary">Display the number of pending notifications</string>
+    <string name="status_bar_notif_count_title">Mostrar número de notificaciones</string>
+    <string name="status_bar_notif_count_summary">Mostrar el número de notificaciones pendientes</string>
     <!-- Statusbar colored icons -->
     <string name="statusbar_colored_icons_title">Iconos coloreados</string>
     <string name="statusbar_colored_icons_summary">Use app icons for notification icons in statusbar</string>
@@ -240,7 +240,7 @@
     <string name="custom_fp_select_title">Selecciona icono de huella personalizado</string>
     <string name="custom_fp_select_summary">Selecciona icono de huella desde archivos o galería</string>
     <!-- Misc gesture settings -->
-    <string name="back_gesture_haptic_title">Haptic feedback</string>
+    <string name="back_gesture_haptic_title">Respuesta táctil</string>
     <string name="back_gesture_haptic_summary">Enable haptic tick effect on back gesture</string>
     <!-- Power menu on lockscreen -->
     <string name="lockscreen_power_menu_disabled_title">Deshabilitar el menú de apagado en la pantalla de bloqueo</string>
