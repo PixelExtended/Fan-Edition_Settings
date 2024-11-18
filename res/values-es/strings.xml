@@ -247,8 +247,8 @@
     <string name="lockscreen_power_menu_disabled_summary">Esto sólo deshabilitará el menú de apagado en pantallas con seguridad establecida</string>
     <!-- QS tiles layout -->
     <string name="qs_tile_layout_title">QS tiles layout</string>
-    <string name="qs_tile_layout_summary">Customize tiles layout in QS panel</string>
-    <string name="qs_tiles_layout_category">Estilo de mosaicos</string>
+    <string name="qs_tile_layout_summary">Personalizar distribución de mosaicos en el panel de QS</string>
+    <string name="qs_tiles_layout_category">Disposición de mosaicos</string>
     <string name="qs_rows_portrait_title">Filas (Vertical)</string>
     <string name="qqs_rows_portrait_title">Rows (Quick QS portrait)</string>
     <string name="qs_columns_portrait_title">Columnas (retrato)</string>
@@ -256,8 +256,8 @@
     <string name="qs_apply_change_failed">Error al aplicar cambios</string>
     <string name="qs_tile_hide_label_title">Ocultar etiquetas</string>
     <string name="qs_tile_hide_label_summary">Show only icon for QS tiles</string>
-    <string name="qs_tile_vertical_layout_title">Vertical layout</string>
-    <string name="qs_tile_vertical_layout_summary">Enable vertical layout for QS tiles</string>
+    <string name="qs_tile_vertical_layout_title">Disposición vertical</string>
+    <string name="qs_tile_vertical_layout_summary">Habilitar distribución vertical para mosaicos QS</string>
     <!-- IME button space -->
     <string name="navigation_bar_ime_space_title">Hide IME button space</string>
     <string name="navigation_bar_ime_space_summary">Hide IME button space below keyboard</string>
