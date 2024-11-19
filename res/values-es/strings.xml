@@ -204,10 +204,10 @@
     <string name="theme_customization_icon_pack_title">Paquete de íconos</string>
     <string name="theme_customization_icon_pack_summary">Seleccionar paquete de iconos personalizado</string>
     <!-- Custom Signal bar icons -->
-    <string name="theme_customization_signal_icon_title">Signal icon style</string>
+    <string name="theme_customization_signal_icon_title">Estilo de icono de red</string>
     <string name="theme_customization_signal_icon_summary">Set custom signal icon style</string>
     <!-- Custom Wi-Fi bar icons -->
-    <string name="theme_customization_wifi_icon_title">WiFi icon style</string>
+    <string name="theme_customization_wifi_icon_title">Estilo de icono de WiFi</string>
     <string name="theme_customization_wifi_icon_summary">Set custom wifi icon style</string>
     <string name="theme_customization_navbar_title">Estilo de barra de navegación</string>
     <string name="theme_customization_navbar_summary">Set custom navigation bar style</string>
@@ -259,6 +259,6 @@
     <string name="qs_tile_vertical_layout_title">Disposición vertical</string>
     <string name="qs_tile_vertical_layout_summary">Habilitar distribución vertical para mosaicos QS</string>
     <!-- IME button space -->
-    <string name="navigation_bar_ime_space_title">Hide IME button space</string>
+    <string name="navigation_bar_ime_space_title">Ocultar espacio de botón IME</string>
     <string name="navigation_bar_ime_space_summary">Hide IME button space below keyboard</string>
 </resources>
