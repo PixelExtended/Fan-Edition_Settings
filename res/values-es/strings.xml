@@ -151,7 +151,7 @@
     <string name="quick_qs_brightness_slider_summary">Show a brightness slider in the quick qs panel</string>
     <!-- Brightness control -->
     <string name="status_bar_toggle_brightness">Control de brillo</string>
-    <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
+    <string name="status_bar_toggle_brightness_summary">Ajustar el brillo deslizando a través de la barra de estado</string>
     <string name="gestures_title">Personalización de barra de navegación</string>
     <string name="gestures_summary">Elige tu barra</string>
     <!-- Lockscreen media artwork -->
@@ -212,7 +212,7 @@
     <string name="theme_customization_navbar_title">Estilo de barra de navegación</string>
     <string name="theme_customization_navbar_summary">Set custom navigation bar style</string>
     <!-- Custom Fonts -->
-    <string name="theme_customization_lock_clock_title">Lockscreen clock font</string>
+    <string name="theme_customization_lock_clock_title">Fuente de reloj de pantalla de bloqueo</string>
     <string name="theme_customization_lock_clock_summary">Set LS clock font style</string>
     <!-- Notification count -->
     <string name="status_bar_notif_count_title">Mostrar número de notificaciones</string>
@@ -223,7 +223,7 @@
     <!-- Ignore secure flag -->
     <string name="window_ignore_secure_title">Ignore window secure flags</string>
     <string name="window_ignore_secure_summary">Remove screenshot / screenrecord limits for all applications</string>
-    <string name="window_ignore_secure_warning">This can be convenient in some cases but may lead to privacy leaks. After changing this toggle, you may need to restart applications for the change to take effect.</string>
+    <string name="window_ignore_secure_warning">Esto puede ser conveniente en algunos casos, pero puede dar lugar a fugas de privacidad. Después de cambiar este interruptor, puede que necesite reiniciar las aplicaciones para que el cambio surta efecto.</string>
     <!-- Screen off FOD -->
     <string name="screen_off_fod_title">Screen off FOD</string>
     <string name="screen_off_fod_summary">Keep FOD enabled when the screen is off</string>
@@ -260,5 +260,5 @@
     <string name="qs_tile_vertical_layout_summary">Habilitar distribución vertical para mosaicos QS</string>
     <!-- IME button space -->
     <string name="navigation_bar_ime_space_title">Ocultar espacio de botón IME</string>
-    <string name="navigation_bar_ime_space_summary">Hide IME button space below keyboard</string>
+    <string name="navigation_bar_ime_space_summary">Ocultar espacio de botón IME debajo del teclado</string>
 </resources>
