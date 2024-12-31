@@ -187,7 +187,7 @@
     <string name="location_privacy_summary">Habilitar - Deshabilitar el indicador de privacidad de ubicación en Qs y Sb</string>
     <!-- Data usage info in QS footer -->
     <string name="qs_footer_datausage_title">Uso de datos</string>
-    <string name="qs_footer_datausage_summary">Display data usage summary in quick settings footer</string>
+    <string name="qs_footer_datausage_summary">Mostrar resumen de uso de datos en pie de página de ajustes rápidos</string>
     <!-- Wi-Fi Standard icon -->
     <string name="show_wifi_standard_icon_title">Mostrar icono de tipo de Wi-Fi</string>
     <string name="show_wifi_standard_icon_summary">Mostrar tipo de Wi-Fi en el indicador de señal Wi-Fi</string>
