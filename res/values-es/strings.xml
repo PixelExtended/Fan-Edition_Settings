@@ -222,7 +222,7 @@
     <string name="statusbar_colored_icons_summary">Usar iconos de aplicación para los iconos de notificaciones en la barra de estados</string>
     <!-- Ignore secure flag -->
     <string name="window_ignore_secure_title">Ignore window secure flags</string>
-    <string name="window_ignore_secure_summary">Remove screenshot / screenrecord limits for all applications</string>
+    <string name="window_ignore_secure_summary">Eliminar los límites de captura de pantalla / grabación de pantalla para todas las aplicaciones</string>
     <string name="window_ignore_secure_warning">Esto puede ser conveniente en algunos casos, pero puede dar lugar a fugas de privacidad. Después de cambiar este interruptor, puede que necesite reiniciar las aplicaciones para que el cambio surta efecto.</string>
     <!-- Screen off FOD -->
     <string name="screen_off_fod_title">Screen off FOD</string>
@@ -241,7 +241,7 @@
     <string name="custom_fp_select_summary">Selecciona icono de huella desde archivos o galería</string>
     <!-- Misc gesture settings -->
     <string name="back_gesture_haptic_title">Respuesta táctil</string>
-    <string name="back_gesture_haptic_summary">Enable haptic tick effect on back gesture</string>
+    <string name="back_gesture_haptic_summary">Habilitar el efecto de tic háptico en el gesto de regresar</string>
     <!-- Power menu on lockscreen -->
     <string name="lockscreen_power_menu_disabled_title">Deshabilitar el menú de apagado en la pantalla de bloqueo</string>
     <string name="lockscreen_power_menu_disabled_summary">Esto sólo deshabilitará el menú de apagado en pantallas con seguridad establecida</string>
