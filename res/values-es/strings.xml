@@ -221,7 +221,7 @@
     <string name="statusbar_colored_icons_title">Iconos coloreados</string>
     <string name="statusbar_colored_icons_summary">Usar iconos de aplicación para los iconos de notificaciones en la barra de estados</string>
     <!-- Ignore secure flag -->
-    <string name="window_ignore_secure_title">Ignore window secure flags</string>
+    <string name="window_ignore_secure_title">Ignorar banderas de ventanas seguras</string>
     <string name="window_ignore_secure_summary">Eliminar los límites de captura de pantalla / grabación de pantalla para todas las aplicaciones</string>
     <string name="window_ignore_secure_warning">Esto puede ser conveniente en algunos casos, pero puede dar lugar a fugas de privacidad. Después de cambiar este interruptor, puede que necesite reiniciar las aplicaciones para que el cambio surta efecto.</string>
     <!-- Screen off FOD -->
