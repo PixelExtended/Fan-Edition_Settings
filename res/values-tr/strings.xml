@@ -32,8 +32,8 @@
     <string name="icon_title">Simge</string>
     <string name="color_title">Renk</string>
     <string name="colors_title">Renkler</string>
-    <string name="enable">Altif</string>
-    <string name="disable">Pasif</string>
+    <string name="enable">Etkinleştir</string>
+    <string name="disable">Devre dışı bırak</string>
     <!-- Extensions categories -->
     <string name="status_bar_category">Durum çubuğu</string>
     <string name="system_category">Sistem</string>
@@ -44,14 +44,14 @@
     <string name="misc_category">Diğer ayarlar</string>
     <string name="fingerprint_category">FP sensörü</string>
     <string name="qs_category">Hızlı ayarlar</string>
-    <string name="power_key">Güç tuşu</string>
+    <string name="power_key">Güç Düğmesi</string>
     <string name="volume_keys">Ses tuşları</string>
     <string name="lockscreen_gestures_category">Kilit ekranı hareketi</string>
     <string name="battery_settings_title">Pil ayarları</string>
     <string name="gestures_category">Hareket özelleştirmeleri</string>
     <!-- App info dialog -->
-    <string name="extensions_dialog_title">Bize yardımcı olun!</string>
-    <string name="extensions_dialog_message">Bu ayarlardan herhangi birinde bir hata bulursanız, Telegram grubumuza rapor edin. Bir hata raporu yayınlarken aşağıdakileri dahil etmeniz GEREKİR:\n\n1. Bir logcat veya last_kmsg\n2. Çekirdek ve kullanılan modlar\n3. Yararlı bilgiler\n\nBir şeyi yeterince rapor etmekte başarısız olursanız, hataların düzeltilmesini beklemeyin.</string>
+    <string name="extensions_dialog_title">Yardımcı olmamıza yardımcı olun!</string>
+    <string name="extensions_dialog_message">Bu ayarlardan herhangi birinde bir hata bulursanız, Telegram grubumuza bildirin. Bir hata raporu yayınlarken aşağıdakileri dahil etmeniz GEREKİR:\n\n1. Bir logcat veya last_kmsg\n2. Çekirdek ve kullanılan modlar\n3. Yararlı bilgiler\n\nBir şeyi yeterince rapor etmekte başarısız olursanız, hataların düzeltilmesini beklemeyin.</string>
     <string name="extensions_dialog_toast">HER ŞEYİ OKUYUN!</string>
     <string name="artwork_media_fade_level_summary">Medya resmini karart</string>
     <!-- QuickSettings haptic feedback -->
@@ -258,4 +258,7 @@
     <string name="qs_tile_hide_label_summary">Sadece hızlı ayarlar kareleri için simge göster</string>
     <string name="qs_tile_vertical_layout_title">Dikey düzen</string>
     <string name="qs_tile_vertical_layout_summary">Hızlı ayarlar kareleri için dikey düzeni etkinleştir</string>
+    <!-- IME button space -->
+    <string name="navigation_bar_ime_space_title">Klavye tuş alanını gizle</string>
+    <string name="navigation_bar_ime_space_summary">Klavyenin altında giriş yöntemi düzenleyicisi tuş alanını gizle</string>
 </resources>

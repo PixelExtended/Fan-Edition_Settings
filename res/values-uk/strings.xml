@@ -258,4 +258,7 @@
     <string name="qs_tile_hide_label_summary">Показати тільки значок для плиток швидких налаштувань</string>
     <string name="qs_tile_vertical_layout_title">Вертикальне розташування</string>
     <string name="qs_tile_vertical_layout_summary">Увімкнути вертикальне розташування для плиток швидких налаштувань</string>
+    <!-- IME button space -->
+    <string name="navigation_bar_ime_space_title">Hide IME button space</string>
+    <string name="navigation_bar_ime_space_summary">Hide IME button space below keyboard</string>
 </resources>
